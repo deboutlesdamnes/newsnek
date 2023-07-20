@@ -1,7 +1,6 @@
 from typing import Dict, List
 from pathlib import Path
 import subprocess
-from git import Repo
 from llama_index import download_loader
 from llama_index import Document
 
@@ -66,7 +65,7 @@ from ray.data import ActorPoolStrategy
 # wget -e robots=off --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains docs.ray.io --no-parent https://docs.ray.io/en/master/
 
 # Get the paths for the locally downloaded documentation.
-all_docs_gen = Path("./billtexts/").rglob("*")
+all_docs_gen = Path("newsnek/billtexts/").rglob("*")
 all_docs = [{"path": doc.resolve()} for doc in all_docs_gen]
 
 # Create the Ray Dataset pipeline
@@ -98,21 +97,9 @@ for row in embedded_nodes.iter_rows():
     assert node.embedding is not None
     bills_nodes.append(node)
 
-# Step 6: Load in Github Repo. 
-repo = git.Repo("/home/hardik/GFG_Temp/Cloned_Repo")
-origin = repo.remote(name='origin')
-existing_branch = repo.heads['main']
-existing_branch.checkout()
-
 # Step 7: Store the embedded nodes in a local vector store, and persist to disk.
 print("Storing Ray Documentation embeddings in vector index.")
 from llama_index import GPTVectorStoreIndex
 bills_index = GPTVectorStoreIndex(nodes=bills_nodes)
-bills_index.storage_context.persist(persist_dir="./newsnek/billtext_index")
-
-# Step 8: Push to github
-repo.index.add(['./newsnek/billtext_index'])
-print('Commited successfully')
-origin.push()
-print('Pushed changes to origin')
+bills_index.storage_context.persist(persist_dir="newsnek/billtext_index")
 
