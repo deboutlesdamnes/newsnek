@@ -1,0 +1,44 @@
+
+ 1.  Short title This Act may be cited as the  Don’t BLock Our Communities Act  or the  D-BLOC Act .
+  2.  Establishment of 10-minute time limit for blocking public highway-rail grade crossings   (a)  In general Subchapter II of  chapter 201  of title 49, United States Code, as amended by this division, is further amended by adding at the end the following:
+
+ 20169.  Time limit for blocking public highway-rail grade crossing 
+ (a)  Time limit  A railroad carrier may not cause a blocked crossing incident that is longer than 10 minutes in duration, unless the blocked crossing incident is caused by—   (1)  a casualty or serious injury; 
+ (2)  an accident;   (3)  a track obstruction; 
+ (4)  actions necessary to comply with Federal rail safety laws, regulations, or orders issued thereunder unless the action to comply could reasonably occur at a different time or location;   (5)  actions necessary to adhere to section 24308; 
+ (6)  a train fully contained within rail yard limits or fully contained in a rail siding;   (7)  an act of God; or 
+ (8)  a derailment or a safety appliance equipment failure that prevents the train from advancing.   (b)  Investigation of frequently blocked crossings  For any public highway-rail grade crossing that has had 3 or more blocked crossing incidents that exceed the time limit set forth in subsection (a) and are reported to the blocked crossing database, and such incidents have occurred on at least 3 calendar days within a 30-day period, the Secretary shall— 
+ (1)  provide an electronic notice of the number of reported blocked crossing incidents to the railroad carrier that owns the public highway-rail grade crossing;    (2)  investigate the causes of the blocked crossing incidents; and 
+ (3)  investigate possible measures to reduce the frequency and duration of blocked crossing incidents at such grade crossing.   (c)  Recordkeeping   (1)  In general  A railroad carrier shall, upon receiving a notice under subsection (b), maintain train location data records for the public highway-rail grade crossing that was the subject of the notice.  
+ (2)  Contents of records  The train location data records required under paragraph (1) shall include—   (A)  a list of all blocked crossing incidents at the public highway-rail grade crossing that is the subject of the report exceeding 10 minutes; 
+ (B)  the cause of the blocked crossing incident (to the extent available);   (C)  train length; and 
+ (D)  the estimated duration of each blocked crossing incident.   (3)  Consultation  Beginning on the date on which a railroad carrier receives a notice under subsection (b), the Secretary may consult with the carrier for a period of 60 days to address concerns with blocked crossing incidents at the public highway-rail grade crossing that is the subject of the notice. 
+ (4)  Expiration of data collection  The requirement to maintain records under paragraph (1) shall cease with respect to a public highway-rail grade crossing noticed under subsection (b)(2) if there are no reports submitted to the blocked crossing database for blocked crossing incidents reported to occur at such grade crossing during the previous 365 consecutive calendar days.   (d)  Civil penalties   (1)  In general  The Secretary may issue civil penalties in accordance with section 21301 to railroad carriers for violations of subsection (a) occurring 60 days after the date of submission of a notice under subsection (b). 
+ (2)  Release of records  Upon the request of, and under requirements set by, the Secretary, railroad carriers shall provide the records maintained pursuant to subsection (c)(1) to the Administrator of the Federal Railroad Administration.   (3)  Alternate route exemption  Civil penalties may not be issued for violations of subsection (a) that occur at a public highway-rail grade crossing if no alternate route created by a public highway-rail grade separation exists within a half mile by road of such public highway-rail grade crossing. 
+ (4)  Grade separation project  Civil penalties may not be issued for violations of subsection (a) if the violation occurs at a public highway-rail grade crossing for which there is a proposed grade separation project—   (A)  that has received written agreement from the relevant local authorities; and 
+ (B)  for which rail carrier and project funding from all parties has been budgeted.   (5)  Considerations  In determining civil penalties under this section, the Secretary shall consider increased penalties in a case in which a pattern of the blocked crossing incidents continue to cause delays to State or local emergency services.  
+ (e)  Application to Amtrak and commuter railroads  This section shall not apply to Amtrak or commuter authorities, including Amtrak and commuter authorities’ operations run or dispatched by a Class I railroad.   (f)  Definitions  In this section: 
+ (1)  Blocked crossing database The term  blocked crossing database  means the national blocked crossing database established under section 20170.   (2)  Blocked crossing incident The term  blocked crossing incident  means a circumstance in which a train, locomotive, rail car, or other rail equipment is stopped in a manner that obstructs travel at a public highway-rail grade crossing.
+ (3)  Public highway-rail grade crossing The term  public highway-rail grade crossing  means a location within a State in which a public highway, road, or street, including associated sidewalks and pathways, crosses 1 or more railroad tracks at grade.
+ .   (b)  Clerical amendment The analysis for subchapter II of  chapter 201  of title 49, United States Code, is further amended by adding at the end the following new item:
+
+
+ 20169. Time limit for blocking public highway-rail grade crossing.  . 
+
+ 3.  National blocked crossing database 
+ (a)  In general Subchapter II of  chapter 201  of title 49, United States Code, is further amended by adding at the end the following:   20170.  National blocked crossing database   (a)  Database Not later than 45 days after the date of enactment of the  D-BLOC Act , the Secretary of Transportation shall establish a national blocked crossings database for the public to report blocked crossing incidents.
+ (b)  Public awareness Not later than 60 days after the date of enactment of the  D-BLOC Act , the Secretary shall require each railroad carrier to publish the active link to report blocked crossing incidents on the website of the national blocked crossings database described in subsection (a) on the home page of the publicly-available website of the railroad carrier.  (c)  Blocked crossing incident; public highway-Rail grade crossing In this section, the terms  blocked crossing incident  and  public highway-rail grade crossing  have the meanings given the terms in section 20169.
+ . 
+ (b)  Clerical amendment The analysis for subchapter II of  chapter 201  of title 49, United States Code, is further amended by adding at the end the following new item:    20170. National blocked crossing database.  . 
+  4.  Railroad point of contact for blocked crossing matters  Section 20152 of title 49, United States Code, is amended— 
+ (1)  in subsection (a)—   (A)  in paragraph (1)— 
+ (i) in subparagraph (C) by striking  or  at the end;  (ii)  by redesignating subparagraph (D) as subparagraph (E); and 
+ (iii)  by inserting the following after subparagraph (C):    (D)  blocked crossing incident, as defined in section 20169; or  ; 
+ (B)  in paragraph (4)—   (i) by striking  paragraph (1)(C) or (D)  and inserting  subparagraph (C), (D), or (E) of paragraph (1) ; and 
+ (ii) by striking  and  at the end;  (C)  in paragraph (5) by striking the period at the end and inserting a semicolon; and 
+ (D)  by adding at the end the following:    (6)  upon receiving a report of a blocked crossing pursuant to paragraph (1)(D), the railroad carrier shall, within 14 days of receipt of the report— 
+ (A)  verify that the public highway-rail grade crossing, as defined in section 20174, was blocked for a period of at least 10 minutes; and    (B)  upon positive verification of the report, enter the report into the national blocked crossings database established in section 20174; and 
+ (7)  promptly inform the Secretary of any update to the number maintained under paragraph (1).   ; and   (2)  by adding at the end the following: 
+
+ (c)  Publication of telephone numbers  The Secretary shall make any telephone number established under subsection (a) publicly available on the website of the Department of Transportation.  . 
+ 

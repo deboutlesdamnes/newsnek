@@ -1,0 +1,26 @@
+
+ 1.  Short title This Act may be cited as the  Microloan Improvement Act of 2021 .
+  2.  Interest rate for certain intermediaries Section 7(m)(3)(F)(iii) of the Small Business Act ( 15 U.S.C. 636(m)(3)(F)(iii) ) is amended by striking  $7,500  and inserting  $10,000 .
+
+ 3.  Lines of credit authorized  Section 7(m)(6)(A) of the Small Business Act ( 15 U.S.C. 636(m)(6)(A) ) is amended by inserting  (including lines of credit)  after  fixed rate loans .
+  4.  Extended repayment terms   (a)  In general Section 7(m)(6) of the Small Business Act ( 15 U.S.C. 636(m)(6) ) is amended by adding at the end the following:
+
+ (F)  Repayment terms 
+ (i)  Limitation on repayments term  The repayment term for a loan made under this paragraph shall not be more than—   (I)  in the case of a loan made by an intermediary of $10,000 or less, 7 years; and 
+ (II)  in the case of a loan made by an intermediary of greater than $10,000, 10 years.   (ii)  No additional limitations  The Administrator may not impose any additional limitation on the term for repayment of a loan made by an intermediary under this paragraph.  . 
+ (b)  Technical amendment Section 329(c) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act ( Public Law 116–260 ; 134 Stat. 2042  15 U.S.C. 636  note) is repealed.
+  5.  Program funding for microloans   (a)  In general Section 7(m) of the Small Business Act ( 15 U.S.C. 636(m) ) is amended—
+ (1)  in paragraph (7)(B)—   (A)  by amending clause (i) to read as follows: 
+
+ (i)  Allocation  Subject to the availability of appropriations and for the first 2 quarters of a fiscal year, of the total amount of new loan funds made available for award under this subsection in such fiscal year, the Administrator shall—   (I)  reserve 15 percent of such funds for award to designated underutilized States; and 
+ (II)  make the remaining 85 percent of such funds available for award in any State.  ; and   (B) in clause (ii), by striking  to carry out  and all that follows through the period at the end and inserting the following:  under clause (i)(I) remains unexpended, the Administrator may make that portion available for award in any State or designated underutilized State. ; and
+ (2)  in paragraph (11)—   (A) in subparagraph (C)(ii), by striking  and  at the end;
+ (B) in subparagraph (D), by striking the period at the end and inserting  ; and ; and  (C)  by adding at the end the following new subparagraph: 
+
+ (E) the term  State  means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa. .   (b)  Rulemaking Not later than 180 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall issue regulations to define the term  designated underutilized State , as used in section 7(m)(7)(B) of the Small Business Act ( 15 U.S.C. 636(m)(7)(B) ), as added by this section.
+
+ 6.  Credit reporting information The Administrator of the Small Business Administration shall issue rules establishing a process under which an intermediary that makes a loan to a borrower under section 7(m) of the Small Business Act ( 15 U.S.C. 636(m) ) shall be required to provide the major credit reporting agencies with information about the borrower relevant to credit reporting, such as the borrower’s payment activity on the loan.
+  7.  Report regarding equitable distribution Section 7(m)(8) of the Small Business Act ( 15 U.S.C. 636(m)(8) ) is amended—
+ (1) by striking  In approving  and inserting the following:   (A)  In general  In approving  ; and 
+ (2)  by adding at the end the following:    (B)  Annual report  The Administrator shall include in the report submitted under paragraph (10), and make publicly available on the website of the Administration, information on how the Administration has met the requirements of subparagraph (A).  . 
+

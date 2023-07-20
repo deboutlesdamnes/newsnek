@@ -1,0 +1,8 @@
+
+ 1.  Short title This Act may be cited as the  Wildfire Grid Resiliency Act . 
+  2.  Resilience Accelerator Demonstration Program   (a)  In general The Secretary of Energy, acting through the Assistant Secretary of the Office of Cybersecurity, Energy Security, and Emergency Response of the Department of Energy, shall carry out a demonstration program, to be known as the  Resilience Accelerator Demonstration Program  (in this section referred to as the  Program ), to make awards to National Laboratories for projects that demonstrate innovative technologies to improve electric grid resilience with respect to wildfires.
+ (b)  Eligible projects  The Secretary of Energy may make an award under the Program to facilitate a project that demonstrates an innovative technology to improve electric grid resilience with respect to wildfires, including—   (1)  a project that demonstrates an innovative technology for monitoring vegetation management; and 
+ (2)  a project that demonstrates an innovative technology to enhance the safety of first responders who respond to electric grid emergencies.    (c)  Definitions  In this section: 
+ (1)  National Laboratory The term  National Laboratory  has the meaning given such term in section 2 of the Energy Policy Act of 2005 ( 42 U.S.C. 15801 ).  (2)  Resilience The term  resilience  has the meaning given such term in section 1304A of the Energy Independence and Security Act of 2007 ( 42 U.S.C. 17384a ).
+ (d)  Authorization of appropriations  There is authorized to be appropriated to carry out the Program $10,000,000 for each of fiscal years 2022 through 2025. 
+ 

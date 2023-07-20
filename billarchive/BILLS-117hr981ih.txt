@@ -1,0 +1,14 @@
+
+ 1.  Short title This Act may be cited as the  IoT Readiness Act of 2021 .
+  2.  Sense of Congress  It is the sense of Congress that— 
+ (1)  Internet of Things device usage is a critical component of the United States economy;   (2)  Internet of Things device usage will continue to grow exponentially, and United States infrastructure needs to be prepared for that growth; 
+ (3)  in order for the Federal Government to properly address spectrum requirements, Congress needs to understand the full scope of future spectrum demand; and   (4)  the United States should further prepare its infrastructure with comprehensive spectrum planning. 
+
+ 3.  Tracking of growth of Internet of Things and 5G devices by FCC 
+ (a)  Collection and maintenance of data  The Commission shall collect and maintain data on the growth in the use of Internet of Things devices and devices that use 5G mobile networks in order to determine the amount of electromagnetic spectrum required to meet the demand created by such use.   (b)  Biennial report to Congress  Not later than 180 days after the date of the enactment of this Act, and not less frequently than every 2 years thereafter, the Commission shall submit to Congress a report on the data collected and maintained under subsection (a). Such report shall contain— 
+ (1)  a determination by the Commission of the amount of electromagnetic spectrum required to meet the demand created by Internet of Things devices and devices that use 5G mobile networks and whether sufficient spectrum is available as of the date of such report to meet such demand; and   (2)  a determination by the Commission of— 
+ (A)  whether any growth is anticipated in the use of Internet of Things devices or devices that use 5G mobile networks; and   (B)  if such growth is anticipated, the amount of spectrum needed to meet the future demand created by such growth. 
+
+ 4.  Definitions  In this Act:   (1)  Commission The term  Commission  means the Federal Communications Commission, in consultation with the Assistant Secretary of Commerce for Communications and Information.
+ (2)  Internet of Things device The term  Internet of Things device means a device that uses a network to communicate and share data with other devices.
+ 

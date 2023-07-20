@@ -1,0 +1,15 @@
+
+ 1.  Short title This Act may be cited as the  Protecting American Voters Act .
+  2.  Requiring provision of information upon request to enable States to verify citizenship status of applicants for voter registration and individuals on voter registration lists   (a)  Provision of information upon request Section 9 of the National Voter Registration Act of 1993 ( 52 U.S.C. 20508 ) is amended by adding at the end the following new subsection:
+
+ (c)  Provision of information upon request to enable States to verify citizenship status of applicants and registrants 
+ (1)  In general  At the request of a State election official, the Secretary of Homeland Security and the Commissioner of the Social Security Administration shall provide the official with such information as may be necessary to enable the official to verify that an applicant for voter registration in elections for Federal office held in the State or a registrant on the official list of eligible voters in elections for Federal office held in the State is a citizen of the United States.   (2)  Use of SAVE system The Secretary of Homeland Security may respond to a request received under paragraph (1) by using the system for the verification of immigration status under the applicable provisions of section 1137 of the Social Security Act ( 42 U.S.C. 1320b–7 ), as established pursuant to section 121(c) of the Immigration Reform and Control Act of 1986 ( Public Law 99–603 ).
+ (3)  Sharing of information  The Secretary and the Commissioner may share information with each other with respect to an individual who is the subject of a request received under paragraph (1) in order to enable the Secretary and the Commissioner to respond to the request.   (4)  Privacy  The Secretary shall carry out this subsection in accordance with such safeguards as the Commissioner determines to be necessary or appropriate to protect the confidentiality of the social security account number of any individual. 
+ (5)  Prohibiting fees  The Secretary may not charge a fee for responding to a State’s request under paragraph (1).   (6)  Regulations  The Secretary shall promulgate such regulations as may be necessary to carry out this subsection.  . 
+ (b)  Clarification of authority of State to remove noncitizens from official list of eligible voters 
+ (1)  In general Section 8(a)(4) of the National Voter Registration Act of 1993 ( 52 U.S.C. 20507(a)(4) ) is amended—  (A) by striking  or  at the end of subparagraph (A);
+ (B) by adding  or  at the end of subparagraph (B); and  (C)  by adding at the end the following new subparagraph: 
+
+ (C)  a determination that the registrant is not a citizen of the United States;  .   (2)  Conforming amendment Section 8(c)(2)(B)(i) of such Act ( 52 U.S.C. 20507(c)(2)(B)(i) ) is amended by striking  (4)(A)  and inserting  (4)(A) or (C) .
+ (c)  Effective date  The amendments made by this section shall apply with respect to elections held on or after January 1, 2022. 
+ 

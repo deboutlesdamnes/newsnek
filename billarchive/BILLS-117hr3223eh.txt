@@ -1,0 +1,34 @@
+
+ 1.  Short title This Act may be cited as the  CISA Cyber Exercise Act .
+  2.  National Cyber Exercise Program   (a)  In general Subtitle A of title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq. ) is amended by adding at the end the following new section:
+
+ 2220A.  National Cyber Exercise Program 
+ (a)  Establishment of program 
+ (1)  In general There is established in the Agency the National Cyber Exercise Program (referred to in this section as the  Exercise Program ) to evaluate the National Cyber Incident Response Plan, and other related plans and strategies.  (2)  Requirements   (A)  In general  The Exercise Program shall be— 
+ (i)  based on current risk assessments, including credible threats, vulnerabilities, and consequences;   (ii)  designed, to the extent practicable, to simulate the partial or complete incapacitation of a government or critical infrastructure network resulting from a cyber incident; 
+ (iii)  designed to provide for the systematic evaluation of cyber readiness and enhance operational understanding of the cyber incident response system and relevant information sharing agreements; and   (iv)  designed to promptly develop after-action reports and plans that can quickly incorporate lessons learned into future operations. 
+ (B)  Model exercise selection  The Exercise Program shall—   (i)  include a selection of model exercises that government and private entities can readily adapt for use; and 
+ (ii)  aid such governments and private entities with the design, implementation, and evaluation of exercises that—   (I)  conform to the requirements described in subparagraph (A); 
+ (II)  are consistent with any applicable national, State, local, or Tribal strategy or plan; and   (III)  provide for systematic evaluation of readiness. 
+ (3)  Consultation  In carrying out the Exercise Program, the Director may consult with appropriate representatives from Sector Risk Management Agencies, cybersecurity research stakeholders, and Sector Coordinating Councils.   (b)  Definitions  In this section: 
+ (1)  State The term  State  means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, and any other territory or possession of the United States.  (2)  Private entity The term  private entity  has the meaning given such term in section 102 of the Cybersecurity Information Sharing Act of 2015 ( 6 U.S.C. 1501 ).
+ . 
+ (b)  Technical amendments 
+ (1)  Homeland Security Act of 2002 Subtitle A of title XXII of the Homeland Security Act of 2002 ( 6 U.S.C. 651 et seq. ) is amended—  (A) in the first section 2215 ( 6 U.S.C. 665 ; relating to the duties and authorities relating to .gov internet domain), by amending the section enumerator and heading to read as follows:
+
+ 2215.  Duties and authorities relating to .gov internet domain 
+ ; 
+ (B) in the second section 2215 ( 6 U.S.C. 665b ; relating to the joint cyber planning office), by amending the section enumerator and heading to read as follows:   2216.  Joint cyber planning office 
+ ;   (C) in the third section 2215 ( 6 U.S.C. 665c ; relating to the Cybersecurity State Coordinator), by amending the section enumerator and heading to read as follows:
+
+ 2217.  Cybersecurity State Coordinator 
+ ; 
+ (D) in the fourth section 2215 ( 6 U.S.C. 665d ; relating to Sector Risk Management Agencies), by amending the section enumerator and heading to read as follows:   2218.  Sector Risk Management Agencies 
+ ;   (E) in section 2216 ( 6 U.S.C. 665e ; relating to the Cybersecurity Advisory Committee), by amending the section enumerator and heading to read as follows:
+
+ 2219.  Cybersecurity Advisory Committee 
+ ;  and 
+ (F) in section 2217 ( 6 U.S.C. 665f ; relating to Cybersecurity Education and Training Programs), by amending the section enumerator and heading to read as follows:   2220.  Cybersecurity Education and Training Programs 
+ .   (2)  Consolidated Appropriations Act, 2021 Paragraph (1) of section 904(b) of division U of the Consolidated Appropriations Act, 2021 ( Public Law 116–260 ) is amended, in the matter preceding subparagraph (A), by inserting  of 2002  after  Homeland Security Act . 
+ (c)  Clerical amendment  The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by striking the items relating to sections 2214 through 2217 and inserting the following new items:     Sec. 2214. National Asset Database.    Sec. 2215. Duties and authorities relating to .gov internet domain.    Sec. 2216. Joint cyber planning office.    Sec. 2217. Cybersecurity State Coordinator.    Sec. 2218. Sector Risk Management Agencies.    Sec. 2219. Cybersecurity Advisory Committee.    Sec. 2220. Cybersecurity Education and Training Programs.    Sec. 2220A. National Cyber Exercise Program.  . 
+ 

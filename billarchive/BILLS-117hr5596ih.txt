@@ -1,0 +1,17 @@
+
+ 1.  Short title This Act may be cited as the  Justice Against Malicious Algorithms Act of 2021 .
+  2.  Personalized recommendation of third-party information   (a)  In general Section 230 of the Communications Act of 1934 ( 47 U.S.C. 230 ) is amended—
+ (1)  by redesignating subsection (f) as subsection (g);   (2)  by inserting after subsection (e) the following: 
+
+ (f)  Personalized recommendation of information provided by another information content provider 
+ (1)  In general  Subsection (c)(1) does not apply to a provider of an interactive computer service with respect to information provided through such service by another information content provider if—   (A)  such provider of such service— 
+ (i)  knew or should have known such provider of such service was making a personalized recommendation of such information; or   (ii)  recklessly made a personalized recommendation of such information; and 
+ (B)  such recommendation materially contributed to a physical or severe emotional injury to any person.   (2)  Exemptions   (A)  Small businesses  Paragraph (1) of this subsection does not apply to an interactive computer service that (in combination with each subsidiary and affiliate of the service) has 5,000,000 or fewer unique monthly visitors or users for not fewer than 3 of the preceding 12 months. 
+ (B)  User-specified search  Paragraph (1) of this subsection does not apply to a provider of an interactive computer service to the extent that the recommendation was made directly in response to a user-specified search.   (C)  Internet infrastructure  Paragraph (1) of this subsection does not apply to a provider of an interactive computer service to the extent that the service, system, or access software of such provider is used by another interactive computer service for the management, control, or operation of such other interactive computer service, including for— 
+ (i)  web hosting;   (ii)  domain registration; 
+ (iii)  content delivery networks;   (iv)  caching; 
+ (v)  data storage; and   (vi)  cybersecurity.  ; and 
+ (3)  in subsection (g) (as so redesignated), by adding at the end the following:    (5)  Personalized recommendation The term  personalized recommendation  means, with respect to information, the material enhancement, using a personalized algorithm, of the prominence of such information with respect to other information.
+ (6)  Personalized algorithm The term  personalized algorithm  means an algorithm that relies on information specific to an individual.  (7)  Algorithm The term  algorithm  means any computational process, model, or other automated means of processing to rank, order, promote, recommend, amplify, or similarly alter the delivery or display of information (including any text, image, audio, or video post and any page, group, account, channel, or affiliation). . 
+ (b)  Conforming amendment Section 223(h)(2) of the Communications Act of 1934 ( 47 U.S.C. 223(h)(2) ) is amended by striking  section 230(f)(2)  and inserting  section 230(g)(2) .  (c)  Applicability  The amendments made by this section shall apply with respect to recommendations made after the date that is 180 days after the date of the enactment of this Act. 
+

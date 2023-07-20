@@ -1,0 +1,14 @@
+
+ 1.  Short title This Act may be cited as the  Deter Obnoxious, Nefarious, and Outrageous Telephone Calls Act of 2021  or the  DO NOT Call Act of 2021 .
+  2.  Penalties for violations of the Telephone Consumer Protection Act of 1993   (a)  Criminal penalties   (1)  In general Section 227 of the Communications Act of 1934 ( 47 U.S.C. 227 ) is amended by adding at the end the following:
+
+ (k)  Criminal penalties 
+ (1)  In general  Except as provided in paragraph (2), any person who willfully and knowingly violates this section shall be imprisoned for not more than 1 year, fined under title 18, United States Code, or both.   (2)  Aggravated offense  Any person who willfully and knowingly violates this section shall be imprisoned for not more than 3 years, fined under title 18, United States Code, or both if— 
+ (A)  the person has previously been convicted under this subsection;   (B)  the offense involved initiating more than— 
+ (i)  100,000 calls in a 24-hour period;   (ii)  1,000,000 calls in a 30-day period; or 
+ (iii)  10,000,000 calls in a 1-year period;   (C)  the person committed the offense with the intent to use the calls in furtherance of a felony or conspiracy to commit a felony; or 
+ (D)  the offense caused loss to 1 or more persons aggregating $5,000 or more in value during any 1-year period.   (3)  Definitions  For purposes of this subsection— 
+ (A) the term  call  includes a message or other communication; and  (B) the term  initiate , with respect to a call, includes the act of sending, making, or transmitting a call, message, or other communication, as applicable. . 
+ (2)  Technical and conforming amendment Section 227(e)(5)(B) of the Communications Act of 1934 ( 47 U.S.C. 227(e)(5)(B) ) is amended, in the second sentence, by striking  section 501  and inserting  subsection (k) .  (b)  Increased penalties for provision of inaccurate caller identification information Section 227(e)(5) of the Communications Act of 1934 ( 47 U.S.C. 227(e)(5) ) is amended—
+ (1) in subparagraph (A)(i), by striking  $10,000  and inserting  $20,000 ; and  (2) in subparagraph (B), in the first sentence, by striking  $10,000  and inserting  $20,000 .
+

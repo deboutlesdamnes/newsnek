@@ -1,0 +1,13 @@
+
+ 1.  Short title This Act may be cited as the  Safe and Certain Elections Act .
+  2.  Requirements for voting systems used in elections for Federal office   (a)  Clarification of use of paper record of votes for audits and recounts Section 301(a)(2)(B)(iii) of the Help America Vote Act of 2002 ( 52 U.S.C. 21081(a)(2)(B)(iii) ) is amended by striking  shall be available as an official record for any recount  and inserting  shall be preserved and used as the official ballot for purposes of any recount or audit .
+ (b)  Prohibiting connection of voting systems to internet 
+ (1)  Prohibition Section 301(a) of such Act ( 52 U.S.C. 21081(a) ) is amended by adding at the end the following new paragraph:   (7)  Prohibiting connection of system to the internet   (A)  In general  No system or device upon which ballots are programmed or votes are cast or tabulated shall be connected to the public internet at any time. 
+ (B)  Prohibiting acceptance of ballots transmitted online  The voting system may not directly tabulate any voted ballot which is transmitted to an election official online.   (C)  Rule of construction  Nothing contained in this paragraph shall be deemed to prohibit the Commission from conducting the studies under section 242 or to conduct other similar studies under any other provision of law in a manner consistent with this paragraph.  . 
+ (2)  Effective date  The amendment made by paragraph (1) shall apply with respect to elections occurring on or after January 1, 2022. 
+  3.  Mandatory removal of ineligible voters from registration list prior to election   (a)  Clarification of responsibility of States Section 8(c)(2)(A) of the National Voter Registration Act of 1993 ( 52 U.S.C. 20507(c)(2)(A) ) is amended—
+ (1) by striking  shall complete  and inserting  shall carry out and complete ; and  (2) by striking  any program the purpose of which is to systematically remove the names  and inserting  a program to remove the names .
+ (b)  Effective date  The amendments made by subsection (a) shall apply with respect to elections occurring on or after January 1, 2022. 
+  4.  Study of use of blockchain technology to improve security of elections   (a)  Study  The Election Assistance Commission shall conduct a study of the potential uses of blockchain technology to improve the security of elections for Federal office. 
+ (b)  Report  Not later than 1 year after the date of the enactment of this Act, the Commission shall submit to Congress a report on the study conducted under subsection (a), and shall include in the report such recommendations as the Commission considers appropriate. 
+ 

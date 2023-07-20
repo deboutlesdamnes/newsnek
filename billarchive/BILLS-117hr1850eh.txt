@@ -1,0 +1,15 @@
+
+ 1.  Short title This Act may be cited as the  Supporting Research and Development for First Responders Act .
+  2.  National Urban Security Technology Laboratory   (a)  In general Title III of the Homeland Security Act of 2002 ( 6 U.S.C. 181 et seq. ) is amended by adding at the end the following new section:
+
+ 322.  National Urban Security Technology Laboratory 
+ (a)  In general  The Secretary, acting through the Under Secretary for Science and Technology, shall designate the laboratory described in subsection (b) as an additional laboratory pursuant to the authority under section 308(c)(2). Such laboratory shall be used to test and evaluate emerging technologies and conduct research and development to assist emergency response providers in preparing for, and protecting against, threats of terrorism.   (b)  Laboratory described  The laboratory described in this subsection is the laboratory— 
+ (1)  known, as of the date of the enactment of this section, as the National Urban Security Technology Laboratory; and   (2)  transferred to the Department pursuant to section 303(1)(E). 
+ (c)  Laboratory activities  The National Urban Security Technology Laboratory shall—   (1)  conduct tests, evaluations, and assessments of current and emerging technologies, including, as appropriate, the cybersecurity of such technologies that can connect to the internet, for emergency response providers; 
+ (2)  act as a technical advisor to emergency response providers; and   (3)  carry out other such activities as the Secretary determines appropriate. 
+ (d)  Rule of construction  Nothing in this section may be construed as affecting in any manner the authorities or responsibilities of the Countering Weapons of Mass Destruction Office of the Department. 
+ .   (b)  Clerical amendment  The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 321 the following new item: 
+
+
+ Sec. 322. National Urban Security Technology Laboratory.  . 
+

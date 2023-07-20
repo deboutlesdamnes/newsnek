@@ -1,0 +1,145 @@
+
+ 1.  Short title This Act may be cited as the  Environmental Justice Mapping and Data Collection Act of 2021 .
+  2.  Findings  Congress finds that— 
+ (1)  environmental hazards causing adverse health outcomes have disproportionately affected environmental justice communities as a result of systemic injustices relating to factors that include race and income;   (2)  environmental justice communities have increased vulnerability to the adverse effects of climate change and need significant investment to face current and future environmental hazards; 
+ (3) the Federal Government has lacked a cohesive and consistent strategy to carry out the responsibilities of Federal agencies described in Executive Order 12898 ( 42 U.S.C. 4321  note; relating to Federal actions to address environmental justice in minority populations and low-income populations);  (4)  it is necessary that the Federal Government meaningfully engage environmental justice communities in the process of developing a robust strategy to address environmental justice, including high levels of review, input, and consent; 
+ (5)  there is a lack of nationwide high-quality data relating to environmental justice concerns, such as socioeconomic factors, air pollution, water pollution, soil pollution, and public health, and a failure to update the existing data with adequate frequency;   (6)  there is no nationally consistent method to identify environmental justice communities based on the cumulative effects of socioeconomic factors, pollution burden, and public health; 
+ (7)  a method described in paragraph (6) is needed to correct for racist and unjust practices leading to historical and current environmental injustices through the targeted investment in environmental justice communities of at least 40 percent of the funds provided for a clean energy transition and other related investments, including transportation infrastructure, housing infrastructure, and water quality infrastructure;   (8)  funds targeted for environmental justice communities should include set-asides for technical assistance and capacity building for environmental justice communities to access the funds; 
+ (9)  particular oversight and care are necessary when investing in environmental justice communities to ensure that existing issues are not exacerbated and new issues are not created, particularly issues relating to pollution burden and the displacement of residents;   (10)  several States, academic institutions, and nonprofit organizations have engaged in cumulative impact environmental justice mapping efforts that can serve as references for a Federal mapping effort; 
+ (11) many environmental justice communities, such as communities in  Cancer Alley  in the State of Louisiana, have been clearly affected by extreme environmental hazards such that the communities—  (A)  are identifiable before the establishment of the tool under subsection (b) of section 5 and the completion of the data gap audit under subsection (d) of that section; and  
+ (B)  should be eligible for programs targeted toward environmental justice communities that have faced extreme environmental hazards before the establishment of that tool and the completion of that audit;   (12)  in addition to investment in environmental justice communities, pollution reduction is essential to achieving equitable access to a healthy and clean environment and an equitable energy system; and 
+ (13)  specific policy and permitting decisions and investments may rely on different combinations of data sets and indicators relating to environmental justice, and race alone may be considered a criterion when assessing the susceptibility of a community to environmental injustice. 
+  3.  Definitions  In this Act: 
+ (1)  Administrator The term  Administrator  means the Administrator of the Environmental Protection Agency.  (2)  Advisory council The term  advisory council  means the advisory council established under section 4(d)(2)(A).
+ (3)  Committee The term  Committee  means the Environmental Justice Mapping Committee established by section 4(a).  (4)  Environmental justice The term  environmental justice  means the fair treatment and meaningful involvement of all people regardless of race, color, culture, national origin, or income, with respect to the development, implementation, and enforcement of environmental laws, regulations, and policies to ensure that each person enjoys—
+ (A)  the same degree of protection from environmental and health hazards; and   (B)  equal access to any Federal agency action relating to the development, implementation, and enforcement of environmental laws, regulations, and policies for the purpose of having a healthy environment in which to live, learn, work, and recreate.  
+ (5)  Environmental justice community The term  environmental justice community  means a community with significant representation of communities of color, low-income communities, or Tribal and indigenous communities, that experiences, or is at risk of experiencing, higher or more adverse human health or environmental effects, as compared to other communities.  (6)  Ground-truthing The term  ground-truthing  means a community fact-finding process by which residents of a community supplement technical information with local knowledge for the purpose of better informing policy and project decisions. 
+ (7)  Relevant stakeholder The term  relevant stakeholder  means—  (A)  a representative of a regional, State, Tribal, or local government agency; 
+ (B)  a representative of a nongovernmental organization with experience in areas that may include Tribal relations, environmental conservation, city and regional planning, and public health;    (C)  a representative of a labor union; 
+ (D)  a representative or member of—   (i)  an environmental justice community; or 
+ (ii)  a community-based organization for an environmental justice community;   (E)  an individual with expertise in cumulative impacts, geospatial data, and environmental justice, particularly such an individual from an academic or research institution; and 
+ (F)  an advocate with experience in environmental justice who represents an environmental justice community.  
+  4.  Establishment of Committee   (a)  In general There is established a committee, to be known as the  Environmental Justice Mapping Committee .
+ (b)  Membership 
+ (1)  In general  The Committee shall be composed of not fewer than 1 representative of each of the following:   (A)  Of the Environmental Protection Agency— 
+ (i)  the Office of Air and Radiation;   (ii)  the Office of Chemical Safety and Pollution Prevention; 
+ (iii)  the Office of International and Tribal Affairs;   (iv)  the Office of Land and Emergency Management; 
+ (v)  the Office of Water;    (vi)  the Office of Environmental Justice; 
+ (vii)  the Office of Research and Development; and   (viii)  the Office of Public Engagement and Environmental Education. 
+ (B)  The Council on Environmental Quality.   (C)  Of the Department of Commerce— 
+ (i)  the Office of Oceanic and Atmospheric Research, including not fewer than 1 representative of the Climate Program Office;   (ii)  the Economics and Statistics Administration, including not fewer than 1 representative of the Bureau of Economic Analysis; and 
+ (iii)  the National Institute of Standards and Technology.   (D)  Of the Department of Health and Human Services— 
+ (i)  the Centers for Disease Control and Prevention, not including the Agency for Toxic Substances and Disease Registry;   (ii)  the Agency for Toxic Substances and Disease Registry; 
+ (iii)  the Administration for Children and Families;   (iv)  of the National Institutes of Health— 
+ (I)  the National Institute of Environmental Health Sciences;   (II)  the National Institute of Mental Health; and 
+ (III)  the National Institute on Minority Health and Health Disparities; and   (v)  the Office for Civil Rights. 
+ (E)  Of the Department of the Interior—   (i)  the Bureau of Indian Affairs;  
+ (ii)  the Office of Civil Rights; and   (iii)  the United States Geological Survey. 
+ (F)  The Forest Service.   (G)  The Department of Housing and Urban Development. 
+ (H)  The Department of Energy.   (I)  The Department of Transportation. 
+ (J)  The Department of Justice.   (K)  The Federal Energy Regulatory Commission. 
+ (L)  The Department of the Treasury.   (M)  Such other Federal departments, agencies, and offices as the Administrator determines to be appropriate, particularly offices relating to public engagement. 
+ (2)  Selection of representatives  The head of a department or agency described in paragraph (1) shall, in appointing to the Committee a representative of the department or agency, select a representative—   (A)  of a component of the department or agency that is among the components that are the most relevant to the responsibilities of the Committee; or 
+ (B)  who has expertise in areas relevant to those responsibilities, such as demographic indicators relating to socioeconomic hardship, environmental justice, public engagement, public health, exposure to pollution, future climate and extreme weather mapping, affordable energy, sustainable transportation, and access to water, food, and green space.   (3)  Co-chairs   (A)  In general  The members of the Committee shall select 3 members to serve as co-chairs of the Committee— 
+ (i)  1 of whom shall be a representative of the Environmental Protection Agency;   (ii)  1 of whom shall be a representative of the Council on Environmental Quality; and 
+ (iii)  1 of whom shall have substantial experience in public engagement.   (B)  Terms  Each co-chair shall serve for a term of not more than 3 years. 
+ (C)  Responsibilities of co-chairs  The co-chairs of the Committee shall—   (i)  determine the agenda of the Committee, in consultation with other members of the Committee; 
+ (ii)  direct the work of the Committee, including the oversight of a meaningful public engagement process; and   (iii)  convene meetings of the Committee not less frequently than once each fiscal quarter. 
+ (c)  Administrative support 
+ (1)  In general  The Administrator shall provide technical and administrative support to the Committee.   (2)  Funding  The Administrator may carry out paragraph (1) using, in addition to any amounts made available under section 7, amounts authorized to be appropriated to the Administrator before the date of enactment of this Act and available for obligation as of that date of enactment. 
+ (d)  Consultation 
+ (1)  In general  In carrying out the duties of the Committee, the Committee shall consult with relevant stakeholders.   (2)  Advisory council   (A)  In general  The Committee shall establish an advisory council composed of a balanced proportion of relevant stakeholders, at least ½ of whom shall represent environmental justice communities. 
+ (B)  Chair  The advisory council shall be chaired by an environmental justice advocate or other relevant stakeholder with substantial experience in environmental justice.   (C)  Requirements  Consultation described in paragraph (1) shall include— 
+ (i)  early and regular engagement with the advisory council, including in carrying out public engagement under paragraph (3); and   (ii)  consideration of the recommendations of the advisory council. 
+ (D)  Recommendations not used  If the Committee does not use a recommendation of the advisory council, not later than 60 days after the date on which the Committee receives notice of the recommendation, the Committee shall—   (i)  make available to the public on an internet website of the Environmental Protection Agency a written report describing the rationale of the Committee for not using the recommendation; and 
+ (ii)  submit the report described in clause (i) to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives.   (E)  Outreach  The advisory council may carry out public outreach activities using amounts made available under section 7 to supplement public engagement carried out by the Committee under paragraph (3).  
+ (3)  Public engagement 
+ (A)  In general  The Committee shall, throughout the process of carrying out the duties of the Committee described in section 5—   (i)  meaningfully engage with relevant stakeholders, particularly— 
+ (I)  members and representatives of environmental justice communities;   (II)  environmental justice advocates; and  
+ (III)  individuals with expertise in cumulative impacts and geospatial data; and   (ii)  ensure that the input of the stakeholders described in clause (i) is central to the activities of the Committee. 
+ (B)  Plan 
+ (i)  In general  In carrying out subparagraph (A), the Committee shall develop a plan, in consultation with the advisory council, for comprehensive public engagement with, and incorporation of feedback from, environmental justice advocates and members of environmental justice communities.   (ii)  Strategies to overcome barriers to public engagement  The plan developed under clause (i) shall include strategies to overcome barriers to public engagement, including— 
+ (I)  language barriers;   (II)  transportation barriers; 
+ (III)  economic barriers; and   (IV)  lack of internet access. 
+ (iii)  Consideration  In developing the plan under clause (i), the Committee shall consider the diverse and varied experiences of environmental justice communities relating to the scope and types of environmental hazards and socioeconomic injustices.   (C)  Consultation and solicitation of public comment   (i)  In general  In carrying out subparagraph (A), not less frequently than once each fiscal quarter, the Committee shall consult with the advisory council and solicit meaningful public comment, particularly from relevant stakeholders, on the activities of the Committee. 
+ (ii)  Requirements  The Committee shall carry out clause (i) through means including—   (I)  public notice of a meeting of the Committee occurring during the applicable fiscal quarter, which shall include—  
+ (aa)  notice in publications relevant to environmental justice communities;    (bb)  notification to environmental justice communities through direct means, such as community centers and schools; and 
+ (cc)  direct outreach to known environmental justice groups;   (II)  public broadcast of that meeting, including soliciting and receiving comments by virtual means; and 
+ (III)  public availability of a transcript of that meeting through publication on an accessible website.   (iii)  Languages  The Committee shall provide each notice, notification, direct outreach, broadcast, and transcript described in clause (ii) in each language commonly used in the applicable environmental justice community, including through oral interpretation, if applicable. 
+ (D)  Funding  Of amounts made available under section 7, the Administrator shall make available to the Committee such sums as are necessary for participation by relevant stakeholders in public engagement under this paragraph, as determined by the Administrator, in consultation with the advisory council.  
+  5.  Duties of Committee   (a)  In general  The Committee shall— 
+ (1)  establish a tool described in subsection (b) to identify environmental justice communities, including the identification of—   (A)  criteria to be used in the tool; and 
+ (B)  a methodology to determine the cumulative impacts of those criteria;   (2)  assess and address data gaps in accordance with subsection (d); and 
+ (3)  collect data for the environmental justice data repository established under section 6.   (b)  Establishment of tool   (1)  In general  The Committee, in consultation with relevant stakeholders and the advisory council, shall establish an interactive, transparent, integrated, and Federal Government-wide tool for assessing and mapping environmental justice communities based on the cumulative impacts of all indicators selected by the Committee to be integrated into the tool. 
+ (2)  Requirements  In establishing the tool under paragraph (1), the Committee shall—   (A)  integrate into the tool multiple data layers of indicators that fall into categories including— 
+ (i)  demographics, particularly relating to socioeconomic hardship and social stressors, such as—   (I)  race and ethnicity; 
+ (II)  low income;   (III)  high unemployment; 
+ (IV)  low levels of home ownership;   (V)  high rent burden; 
+ (VI)  high transportation burden;   (VII)  low levels of educational attainment; 
+ (VIII)  linguistic isolation;    (IX)  energy insecurity or high utility rate burden;  
+ (X)  food insecurity;    (XI)  health insurance status and access to healthcare; and 
+ (XII)  membership in an Indian Tribe;   (ii)  public health, particularly data that are indicative of sensitive populations, such as— 
+ (I)  rates of asthma;   (II)  rates of cardiovascular disease;  
+ (III)  child leukemia or other cancers that correlate with environmental hazards;   (IV)  low birth weight; 
+ (V)  maternal mortality;   (VI)  rates of lead poisoning; and 
+ (VII)  rates of diabetes;   (iii)  pollution burdens, such as pollution burdens created by— 
+ (I)  toxic chemicals;   (II)  air pollutants; 
+ (III)  water pollutants;    (IV)  soil contaminants; and 
+ (V)  perfluoroalkyl and po­ly­fluo­ro­al­kyl substances; and   (iv)  environmental effects, such as effects created by proximity to— 
+ (I)  risk management plan sites;   (II)  hazardous waste facilities; 
+ (III) sites on the National Priorities List developed by the President in accordance with section 105(a)(8)(B) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ( 42 U.S.C. 9605(a)(8)(B) ); and  (IV)  fossil fuel infrastructure; 
+ (B)  investigate how further indicators of vulnerability to the impacts of climate change (including proximity and exposure to sea level rise, wildfire smoke, flooding, drought, rising average temperatures, extreme storms, and extreme heat, and financial burdens from flood and fire insurance) should be incorporated into the tool as an additional set of layers;    (C)  identify and consider the effects of other indicators relating to environmental justice for integration into the tool as layers, including— 
+ (i)  safe, sufficient, and affordable drinking water, sanitation, and stormwater services;    (ii)  access to and the quality of— 
+ (I)  green space and tree canopy cover;   (II)  healthy food;  
+ (III)  affordable energy and water;   (IV)  transportation;  
+ (V)  reliable communication systems, such as broadband internet;   (VI)  child care; 
+ (VII)  high-quality public schools, early childhood education, and child care; and   (VIII)  heath care facilities; 
+ (iii)  length of commute;   (iv)  indoor air quality in multiunit dwellings;  
+ (v)  mental health;   (vi)  labor market categories, particularly relating to essential workers; and 
+ (vii)  each type of utility expense;   (D)  consider the implementation of specific regional indicators, with the potential— 
+ (i)  to create regionally and locally downscaled maps in addition to a national map;   (ii)  to provide incentives for States to collect data and conduct additional analyses to capture conditions specific to their localities;  
+ (iii)  to provide resources for and engage in ground-truthing to identify and verify important data with community members; and   (iv)  to develop companion resources for, and provide technical support to, regional, State, local, or Tribal governments to create their own maps and environmental justice scores with relevant regional, State, local, and Tribal data;  
+ (E)  identify a methodology to account for the cumulative impacts of all indicators selected by the Committee under subparagraph (A), in addition to other indicators as the Committee determines to be necessary, to provide relative environmental justice scores for regions that are—   (i)  as small as practicable to identify communities; and  
+ (ii)  not larger than a census tract;   (F)  ensure that the tool is capable of providing maps of environmental justice communities based on environmental justice scores described in subparagraph (E); 
+ (G)  ensure that users of the tool are able to map available layers together or independently as desired;    (H)  implement a method for users of the tool to generate a map and environmental justice score based on a subset of indicators, particularly for the purpose of using the tool in addressing various policy needs, permitting processes, and investment goals;  
+ (I)  make the tool customizable to address specific policy needs, permitting processes, and investment goals;   (J)  account for conditions that are not captured by the quantitative data used to develop the 1 or more maps and environmental justice scores comprising the tool, by— 
+ (i)  developing and executing a plan to perform outreach to relevant communities; and    (ii)  establishing a mechanism by which communities can self-identify as environmental justice communities to be included in the tool, which may include citing qualitative data on conditions for which quantitative data are lacking, such as cultural loss in Tribal communities;  
+ (K)  consider that the tool—   (i)  will be used across the Federal Government in screening Federal policies, permitting processes, and investments for environmental and climate justice impacts; and 
+ (ii)  may be used to assess communities for pollution reduction programs; and    (L)  carry out such other activities as the Committee determines to be appropriate. 
+ (c)  Transparency and updates 
+ (1)  In general 
+ (A)  Notice and comment  The Committee shall establish the tool described in subsection (b) after providing notice and an opportunity for public comment.   (B)  Hearings  In carrying out subparagraph (A), the Committee shall hold hearings, which shall be time- and language-appropriate, in communities affected by environmental justice issues in geographically disparate States and Tribal areas. 
+ (2)  Updates 
+ (A)  Annual updates  The Committee shall update the tool described in subsection (b) not less frequently than annually to account for data sets that are updated annually.   (B)  Other updates  Not less frequently than once every 3 years, the Committee shall— 
+ (i)  update the indicators, methodology, or both for the tool described in subsection (b); and    (ii)  reevaluate data submitted by Federal departments and agencies that is used for the tool. 
+ (C)  Reports  After the initial establishment of the tool described in subsection (b) and each update under subparagraph (A) or (B), the Committee shall publish a report describing—   (i)  the process for identifying indicators relating to environmental justice in the development of the tool; 
+ (ii)  the methodology described in subsection (b)(2)(E); and   (iii)  the use of public input and community engagement in that process. 
+ (3)  Training tutorials and sessions 
+ (A)  In general  The Committee shall—   (i)  develop virtual training tutorials and sessions for environmental justice communities for the use of the tool described in subsection (b); and 
+ (ii)  where practicable, provide in-person training sessions for environmental justice communities for the use of that tool.   (B)  Languages  The tutorials and sessions under subparagraph (A) shall be made available in each language commonly used in the applicable environmental justice community. 
+ (4)  Public availability 
+ (A)  In general  The Committee shall make available to the public on an internet website of the Environmental Protection Agency—   (i)  the tool described in subsection (b); 
+ (ii)  each update under subparagraphs (A) and (B) of paragraph (2);    (iii)  each report under paragraph (2)(C); and 
+ (iv)  the training tutorials and sessions developed under paragraph (3)(A)(i).   (B)  Accessibility  The Committee shall make the tool, updates, and reports described in subparagraph (A) accessible to the public by publication in relevant languages and with accessibility functions, as appropriate. 
+ (C)  Requirement  In carrying out subparagraph (A)(i), the Committee shall take measures to prevent the tool from being misused to discriminate against environmental justice communities, such as by providing safeguards against the use of downscaled data that may enable the identification of individuals.   (d)  Data gap audit   (1)  In general  In establishing the tool described in subsection (b), the Committee shall direct relevant Federal departments and agencies to conduct an audit of data collected by the department or agency to identify any data that are relevant to environmental justice concerns, including data relating to— 
+ (A)  public health metrics;   (B)  toxic chemicals; 
+ (C)  socioeconomic demographics;   (D)  air quality;  
+ (E)  water quality; and   (F)  killings of individuals by law enforcement officers. 
+ (2)  Requirements  An audit described in paragraph (1) shall—   (A)  examine the granularity and accessibility of the data;  
+ (B)  address the need for improved air quality monitoring; and   (C)  include recommendations to other Federal departments and agencies on means to improve the quality, granularity, and transparency of, and public involvement in, data collection and dissemination. 
+ (3)  Improvements  The Committee shall direct a Federal department or agency, in conducting an audit under paragraph (1), to address gaps in existing data collection that will assist the Committee in establishing and operating the tool described in subsection (b), including by providing to the department or agency—   (A)  benchmarks to meet in addressing the gaps; 
+ (B)  instructions for consistency in data formatting that will allow for inclusion of data in the environmental justice data repository described in section 6; and   (C)  best practices for collecting data in collaboration with local organizations and partners, such as engaging in ground-truthing. 
+ (4)  Reports  Not later than 180 days after a Federal department or agency has conducted an audit under paragraph (1), the Committee shall—   (A)  make available to the public on an internet website of the Environmental Protection Agency a report describing the findings and conclusions of the audit, including the progress made by the Federal department or agency in addressing environmental justice data gaps; and 
+ (B)  submit the report described in subparagraph (A) to—   (i)  the Committee on Environment and Public Works of the Senate; 
+ (ii)  the Committee on Health, Education, Labor, and Pensions of the Senate;   (iii)  the Committee on Energy and Commerce of the House of Representatives; and 
+ (iv)  the Committee on Education and Labor of the House of Representatives. 
+  6.  Environmental justice data repository   (a)  In general  The Administrator shall establish an environmental justice data repository to maintain— 
+ (1)  the data collected by the Committee through the establishment of the tool described in section 5(b) and the audits conducted under section 5(d)(1); and   (2)  any subnational data collected under subsection (c)(2). 
+ (b)  Updates  The Administrator shall update the data in the data repository described in subsection (a) as frequently as practicable, including every year if practicable, but not less frequently than once every 3 years.   (c)  Availability; inclusion of subnational data  The Administrator— 
+ (1)  shall make the data repository described in subsection (a) available to regional, State, local, and Tribal governments; and   (2)  may collaborate with the governments described in paragraph (1) to include within that data repository subnational data in existence before the establishment of the tool described in section 5(b) and the completion of the audits under section 5(d)(1).  
+ (d)  Requirement  The Administrator shall take measures to prevent the data in the data repository described in subsection (a) from being misused to discriminate against environmental justice communities, such as by providing safeguards against the use of downscaled data that may enable the identification of individuals. 
+  7.  Authorization of appropriations  There are authorized to be appropriated to the Administrator to carry out this Act, including any necessary administrative costs of the Committee— 
+ (1)  $20,000,000 for each of fiscal years 2021 and 2022; and   (2)  $18,000,000 for each of fiscal years 2023 through 2025. 
+
+ 8.  Effect  Nothing in any provision of this Act relating to the tool described in section 5(b) prohibits a State from developing a map relating to environmental justice or pollution burden that relies on different data, or analyzes data differently, than that tool. 
+ 

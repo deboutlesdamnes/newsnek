@@ -1,0 +1,79 @@
+
+ 1.  Short title; table of contents 
+ (a)  Short title This Act may be cited as the  Supplemental Security Income Restoration Act of 2021 .  (b)  Table of contents  The table of contents for this Act is as follows: 
+
+ Sec. 1. Short title; table of contents. 
+ Sec. 2. Update in eligibility for the supplemental security income program. 
+ Sec. 3. Update in supplemental security income benefit amounts and repeal of marriage penalty. 
+ Sec. 4. Support and maintenance furnished in kind not included as income. 
+ Sec. 5. Exclusion of retirement accounts from resources. 
+ Sec. 6. Repeal of penalty for disposal of resources for less than fair market value. 
+ Sec. 7. Clarifying the treatment of certain State tax credits. 
+ Sec. 8. Elimination of dedicated accounts for certain past-due benefits. 
+ Sec. 9. Elimination of installment payment requirement. 
+ Sec. 10. Extension of period of exclusion of certain payments from countable resources. 
+ Sec. 11. Modification of rules to determine marital relationships. 
+ Sec. 12. Effective date. 
+
+ 2.  Update in eligibility for the supplemental security income program 
+ (a)  Update in general income exclusion Section 1612(b)(2)(A) of the Social Security Act ( 42 U.S.C. 1382a(b)(2)(A) ) is amended by striking  $240  and inserting  $1,476 (increased as described in section 1617(d) for each calendar year after 2022) .  (b)  Update in earned income exclusion Section 1612(b)(4) of such Act ( 42 U.S.C. 1382a(b)(4) ) is amended by striking  $780  each place it appears and inserting  $4,788 (increased as described in section 1617(d) for each calendar year after 2022) .
+ (c)  Update in resource limit for individuals and couples Section 1611(a)(3) of such Act ( 42 U.S.C. 1382(a)(3) ) is amended—  (1) in subparagraph (A), by striking  $2,250  and all that follows through the end of the subparagraph and inserting  $20,000 in calendar year 2022, and shall be increased as described in section 1617(d) for each subsequent calendar year. ; and
+ (2) in subparagraph (B), by striking  $1,500  and all that follows through the end of the subparagraph and inserting  $10,000 in calendar year 2022, and shall be increased as described in section 1617(d) for each subsequent calendar year. .  (d)  Inflation adjustment Section 1617 of such Act ( 42 U.S.C. 1382f ) is amended—
+ (1) in the section heading, by inserting  ; inflation adjustment  after  benefits ; and  (2)  by adding at the end the following: 
+
+ (d)  In the case of any calendar year after 2022, each of the amounts specified in sections 1611(a)(3), 1612(b)(2)(A), and 1612(b)(4) shall be increased by multiplying each such amount by the quotient (not less than 1) obtained by dividing—   (1)  the average of the Consumer Price Index for Elderly Consumers (CPI–E, as published by the Bureau of Labor Statistics of the Department of Labor) for the 12-month period ending with September of the preceding calendar year, by 
+ (2)  such average for the 12-month period ending with September 2021.  . 
+  3.  Update in supplemental security income benefit amounts and repeal of marriage penalty   (a)  In general Section 1611(b) of the Social Security Act ( 42 U.S.C. 1382(b) ) is amended to read as follows:
+
+ (b)  Amounts of benefits 
+ (1)  The benefit under this title for an individual who does not have an eligible spouse shall be payable—   (A)  for calendar years 1974 through 2021, at the rate of $1,752 (or, if greater, the amount determined under section 1617), and 
+ (B)  for calendar years after 2021, at the rate equal to the annual poverty guideline for the calendar year preceding such calendar year (as updated annually in the Federal Register by the Department of Health and Human Services under the authority of section 673(2) of the Omnibus Budget Reconciliation Act of 1981) as applicable to a single individual,  reduced by the amount of income, not excluded pursuant to section 1612(b), of such individual.    (2)  The benefit under this title for an individual who has an eligible spouse shall be payable— 
+ (A)  for calendar years 1974 through 2021, at the rate of $2,628 (or, if greater, the amount determined under section 1617), and   (B)  for calendar years after 2021, at the rate equal to twice the rate described in paragraph (1)(B),  reduced by the amount of income, not excluded pursuant to section 1612(b), of such individual and spouse.  . 
+ (b)  Conforming changes to cost-of-Living adjustments Section 1617(a)(1) of such Act ( 42 U.S.C. 1382f(a)(1) ) is amended by striking  (a)(1)(A), (a)(2)(A), (b)(1), and (b)(2)  and inserting  (a)(1)(A) and (a)(2)(A) .  (c)  Effective date  The amendments made by this section shall apply with respect to calendar years after 2021. 
+
+ 4.  Support and maintenance furnished in kind not included as income 
+ (a)  In general Section 1612(a)(2) of such Act ( 42 U.S.C. 1382a(a)(2) ) is amended—  (1) by inserting  (other than support or maintenance furnished in kind)  after  all other income ; and
+ (2)  in subparagraph (A)—   (A) by striking  or kind ;
+ (B)  by striking clause (i) and redesignating clauses (ii) and (iii) as clauses (i) and (ii), respectively; and   (C) in clause (ii) (as so redesignated), by striking  and the provisions of clause (i) shall not be applicable .
+ (b)  Conforming amendments 
+ (1) Section 1611(c) of such Act ( 42 U.S.C. 1382(c) ) is amended by striking paragraph (6) and redesignating paragraphs (7) through (10) as paragraphs (6) through (9), respectively.  (2) Section 1612(a)(2) of such Act ( 42 U.S.C. 1382a(a)(2) ) is amended—
+ (A) in subparagraph (F), by inserting  and  at the end;  (B) in subparagraph (G), by striking  ; and  and inserting a period;
+ (C)  by moving subparagraph (G) 2 ems to the right; and   (D)  by striking subparagraph (H). 
+ (3) Section 1621(c) of such Act ( 42 U.S.C. 1382j(c) ) is amended to read as follows:   (c)  In determining the amount of income of an alien during the period of 5 years after such alien's entry into the United States, support or maintenance furnished in cash to the alien by such alien's sponsor (to the extent that it reflects income or resources which were taken into account in determining the amount of income and resources to be deemed to the alien under subsection (a) or (b) of this section) shall not be considered to be income of such alien under section 1612(a)(2)(A).  . 
+
+ 5.  Exclusion of retirement accounts from resources Section 1613(a) of the Social Security Act ( 42 U.S.C. 1382b(a) ) is amended—  (1) in paragraph (16), by striking  ; and  and inserting a semicolon;
+ (2) in paragraph (17), by striking the period at the end and inserting  ; and ; and  (3)  by inserting after paragraph (17) the following new paragraph:  
+
+ (18)  any qualified retirement plan or eligible deferred compensation plan (as such terms are defined in sections 4974(c) and 457(b), respectively, of the Internal Revenue Code of 1986).   . 
+  6.  Repeal of penalty for disposal of resources for less than fair market value Section 1613(c) of such Act ( 42 U.S.C. 1382b(c) ) is amended to read as follows:
+
+ (c)  Notification of Medicaid Policy Restricting Eligibility of Institutionalized Individuals for Benefits Based on Disposal of Resources for Less Than Fair Market Value 
+ (1)  In general  At the time an individual (and the individual's eligible spouse, if any) applies for benefits under this title, and at the time the eligibility of an individual (and such spouse, if any) for such benefits is redetermined, the Commissioner of Social Security shall—   (A)  inform such individual of the provisions of section 1917(c) providing for a period of ineligibility for benefits under title XIX for individuals who make certain dispositions of resources for less than fair market value, and inform such individual that information obtained pursuant to subparagraph (B) will be made available to the State agency administering a State plan under title XIX (as provided in paragraph (2)); and 
+ (B)  obtain from such individual information which may be used by the State agency in determining whether or not a period of ineligibility for such benefits would be required by reason of section 1917(c).   (2)  Provision of information to State Medicaid agencies  The Commissioner of Social Security shall make the information obtained under paragraph (1)(B) available, on request, to any State agency administering a State plan approved under title XIX.  . 
+
+ 7.  Clarifying the treatment of certain State tax credits Title XVI of the Social Security Act ( 42 U.S.C. 1382a ) is amended—  (1) in section 1612(b)(19), by striking  and any payment  and all that follows through  credit)  and inserting  and any refund of State income taxes made to such individual (or such spouse) by reason of a State earned income tax credit (as defined by the Secretary) ; and
+ (2)  in section 1613(a)(11)—   (A) in subparagraph (A), by inserting  , and any refund of State income taxes made to such individual (or such spouse) by reason of a State child tax credit (as defined by the Secretary)  before the semicolon; and
+ (B) in subparagraph (B), by striking  and any payment  and all that follows through  credit)  and inserting  and any refund of State income taxes made to such individual (or such spouse) by reason of a State earned income tax credit (as defined by the Secretary) .
+  8.  Elimination of dedicated accounts for certain past-due benefits   (a)  In general Section 1631(a)(2) of the Social Security Act ( 42 U.S.C. 1383(a)(2) ) is amended by striking subparagraph (F).
+ (b)  Conforming amendments 
+ (1)  Relating to payments and procedures Section 1631(a)(2) of the Social Security Act ( 42 U.S.C. 1383(a)(2) ), as amended by subsection (a), is amended—  (A)  by redesignating subparagraphs (G), (H), and (I) as subparagraphs (F), (G), and (H), respectively; 
+ (B) in subparagraph (B)(vii)(I), by striking  subparagraph (I)  and inserting  subparagraph (H) ;  (C)  in subparagraph (D)— 
+ (i) in clause (i), by striking  subparagraphs (E) and (F)  and inserting  subparagraph (E) ; and  (ii) in clause (ii), by striking  subparagraph (I)  and inserting  subparagraph (H) ;
+ (D) in subparagraph (E), by striking  subparagraph (H)(ii)  and inserting  subparagraph (G)(ii) ; and  (E) in subparagraph (G)(i)(II), as redesignated by subparagraph (A), by striking  subparagraph (I)  and inserting  subparagraph (H) .
+ (2)  Exclusions from income 
+ (A)  In general  Section 1612(b) of the Social Security Act is amended—   (i)  by striking paragraph (21); and 
+ (ii)  by redesignating paragraphs (22) through (26) as paragraphs (21) through (25), respectively.   (B)  Conforming amendment Section 1613(a)(17) of such Act is amended by striking  section 1612(b)(26)  and inserting  section 1612(b)(25) . 
+ (3)  Exclusions from resources  Section 1613(a) of the Social Security Act, as amended by section 5, is amended—   (A)  by striking paragraph (12); and 
+ (B)  by redesignating paragraphs (13) through (18) as paragraphs (12) through (17), respectively.   (c)  Treatment of amounts transferred from dedicated accounts Amounts transferred from an account established on behalf of an individual as described in section 1631(a)(2)(F) of the Social Security Act ( 42 U.S.C. 1383(a)(2)(F) ) (as in effect on the day before the date of enactment of this Act) into another account of the individual as a result of the amendments made by this section shall not be taken into account as income or resources of such individual for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of such benefits or assistance, under title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq. ), under any other Federal program, or under any State or local program financed in whole or in part with Federal funds. 
+
+ 9.  Elimination of installment payment requirement Section 1631(a) of the Social Security Act ( 42 U.S.C. 1383(a) ) is amended by striking paragraph (10).
+  10.  Extension of period of exclusion of certain payments from countable resources Section 1613(a)(7) of the Social Security Act ( 42 U.S.C. 1382b(a)(7) ) is amended by striking  9 months  and inserting  21 months .
+
+ 11.  Modification of rules to determine marital relationships 
+ (a)  In general Section 1614(d) of the Social Security Act ( 42 U.S.C. 1382c(d) ) is amended by striking  except that  and all that follows through the end of the subsection and inserting  except that if two individuals have been determined to be married under section 216(h)(1) for purposes of title II they shall be considered (from and after the date of such determination or the date of their application for benefits under this title, whichever is later) to be married for purposes of this title. .  (b)  Conforming amendments Title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq. ) is amended—
+ (1)  in section 1611(e)(3)—   (A) by striking  a husband and wife  each place it appears and inserting  two married individuals ; and
+ (B) by striking  such husband and wife  and inserting  such married individuals ;  (2)  in section 1614(b)— 
+ (A) in the first sentence, by striking  the husband or wife of  and inserting  married to ; and  (B) in the second sentence, by striking  husband and wife  and inserting  married ; and
+ (3) in section 1631(b)(1)(A)(i), by striking  husband or wife  and inserting  spouse . 
+  12.  Effective date  The amendments made by this Act shall take effect on January 1, 2022. 
+

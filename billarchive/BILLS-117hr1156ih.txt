@@ -1,0 +1,18 @@
+
+ 1.  Short title This Act may be cited as the  Facilitating the Deployment of Infrastructure with Greater Internet Transactions And Legacy Applications Act  or the  Facilitating DIGITAL Applications Act . 
+  2.  Barriers to implementation of an online portal for Form 299   (a)  Definitions  In this Act: 
+ (1)  Appropriate committees of congress The term  appropriate committees of Congress  means—  (A)  the Committee on Energy and Commerce of the House of Representatives; 
+ (B)  the Committee on Natural Resources of the House of Representatives;   (C)  the Committee on Commerce, Science, and Transportation of the Senate; and 
+ (D)  the Committee on Environment and Public Works of the Senate.   (2)  Assistant secretary The term  Assistant Secretary  means the Assistant Secretary of Commerce for Communications and Information.
+ (3)  Communications facility The term  communications facility  includes—  (A)  any infrastructure, including any transmitting device, tower, or support structure, and any equipment, switch, wiring, cabling, power source, shelter, or cabinet, associated with the licensed or permitted unlicensed wireless or wireline transmission of any writing, sign, signal, data, image, picture, and sound of any kind; and 
+ (B)  any antenna or apparatus that—   (i)  is designed for the purpose of emitting radio frequency; 
+ (ii)  is designed to be operated, or is operating, from a fixed location pursuant to authorization by the Commission or is using a duly authorized device that does not require an individual license; and   (iii)  is added to a tower, building, or other structure. 
+ (4)  Communications use The term  communications use  means the placement and operation of a communications facility.  (5)  Communications use authorization The term  communications use authorization  means an easement, right-of-way, lease, license, or other authorization to locate or modify a communications facility on covered land by the Department concerned for the primary purpose of authorizing the occupancy and use of the covered land for communications use.
+ (6)  Covered land The term  covered land  means—  (A)  public land administered by the Secretary of the Interior; and 
+ (B)  National Forest System land.   (7)  Department concerned The term  Department concerned  means the Department of the Interior or the Department of Agriculture.
+ (8) Form  299 The term  Form 299  means the form established under section 6409(b)(2)(A) of the Middle Class Tax Relief and Job Creation Act of 2012 ( 47 U.S.C. 1455(b)(2)(A) ), or any successor form.  (9)  Secretary concerned The term  Secretary concerned  means—
+ (A)  the Secretary of the Interior, with respect to land administered by such Secretary; and   (B)  the Secretary of Agriculture, with respect to National Forest System land. 
+ (b)  Barriers to implementation 
+ (1)  In general  Not later than 90 days after the date of enactment of this section, and every 60 days thereafter until the notification described in paragraph (2), the Assistant Secretary shall submit to the appropriate committees in Congress a report that—   (A)  describes whether the Department concerned has established an online portal for the acceptance, processing, and disposal of a Form 299; and 
+ (B)  describes any barrier to the establishment of an online portal for the acceptance, processing, and disposal of a Form 299.   (2)  Notification described  The Secretary concerned shall notify the Assistant Secretary not later than 3 business days after the Department concerned has established an online portal for the acceptance, processing, and disposal of a Form 299.  
+

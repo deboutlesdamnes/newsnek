@@ -1,0 +1,4 @@
+
+ 1.  General ledger accounts reconciliation Section 13 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78m ) is amended by adding at the end the following:   (s)  General ledger accounts reconciliation   (1)  In general  Each covered issuer required to file an annual or quarterly report under subsection (a) shall disclose in that report whether such covered issuer has, at the time of such report, completed a general ledger accounts reconciliation for the most recent fiscal quarter and most recent fiscal year, respectively.  
+ (2)  Covered issuer defined For purposes of this subsection, the term  covered issuer  means an issuer with respect to which a civil or criminal penalty has been imposed under the securities laws by reason of the internal control over financial reporting of such issuer related to the failure of such issuer to reconcile general ledger accounts. . 
+ 

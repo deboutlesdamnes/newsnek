@@ -1,0 +1,29 @@
+
+ 1.  Short title This Act may be cited as the  Consumer Protection for Medical Debt Collections Act .
+  2.  Amendments to the Fair Debt Collection Practices Act   (a)  Definition Section 803 of the Fair Debt Collection Practices Act ( 15 U.S.C. 1692a ) is amended by adding at the end the following:
+
+ (9) The term  medical debt  means a debt arising from the receipt of medical services, products, or devices. .   (b)  Unfair practices Section 808 of the Fair Debt Collection Practices Act ( 15 U.S.C. 1692f ) is amended by adding at the end the following: 
+
+ (9)  Engaging in activities to collect or attempting to collect a medical debt owed or due or asserted to be owed or due by a consumer, before the end of the 2-year period beginning on the date that the first payment with respect to such medical debt is due.  . 
+  3.  Prohibition on consumer reporting agencies reporting certain medical debt   (a)  Definition Section 603 of the Fair Credit Reporting Act ( 15 U.S.C. 1681a ) is amended by adding at the end the following:
+
+ (bb)  Medical debt The term  medical debt  means a debt arising from the receipt of medical services, products, or devices.  (cc)  Medically necessary procedure The term  medically necessary procedure  means—
+ (1)  health care services or supplies needed to diagnose or treat an illness, injury, condition, disease, or its symptoms and that meet accepted standards of medicine; and   (2)  health care to prevent illness or detect illness at an early stage, when treatment is likely to work best (including preventive services such as pap tests, flu shots, and screening mammograms).   . 
+ (b)  In general Section 605(a) of the Fair Credit Reporting Act ( 15 U.S.C. 1681c(a) ) is amended by adding at the end the following new paragraphs:   (9)  Any information related to a debt arising from a medically necessary procedure. 
+ (10)  Any information related to a medical debt, if the date on which such debt was placed for collection, charged to profit or loss, or subjected to any similar action antedates the report by less than 365 calendar days.  . 
+  4.  Requirements for furnishers of medical debt information   (a)  Additional notice requirements for medical debt Section 623 of the Fair Credit Reporting Act ( 15 U.S.C. 1681s–2 ) is amended by adding at the end the following:
+
+ (f)  Additional notice requirements for medical debt  Before furnishing information regarding a medical debt of a consumer to a consumer reporting agency, the person furnishing the information shall send a statement to the consumer that includes the following:   (1)  A notification that the medical debt— 
+ (A)  may not be included on a consumer report made by a consumer reporting agency until the later of the date that is 365 days after—   (i)  the date on which the person sends the statement; 
+ (ii)  with respect to the medical debt of a borrower demonstrating hardship, a date determined by the Director of the Bureau; or   (iii)  the date described under section 605(a)(10); and 
+ (B)  may not ever be included on a consumer report made by a consumer reporting agency, if the medical debt arises from a medically necessary procedure.   (2)  A notification that, if the debt is settled or paid by the consumer or an insurance company before the end of the period described under paragraph (1)(A), the debt may not be reported to a consumer reporting agency. 
+ (3)  A notification that the consumer may—   (A)  communicate with an insurance company to determine coverage for the debt; or 
+ (B)  apply for financial assistance.  .   (b)  Furnishing of medical debt information Section 623 of the Fair Credit Reporting Act ( 15 U.S.C. 1681s–2 ), as amended by subsection (a), is further amended by adding at the end the following:
+
+ (g)  Furnishing of medical debt information 
+ (1)  Prohibition on reporting debt related to medically necessary procedures  No person shall furnish any information to a consumer reporting agency regarding a debt arising from a medically necessary procedure.   (2)  Treatment of other medical debt information  With respect to a medical debt not described under paragraph (1), no person shall furnish any information to a consumer reporting agency regarding such debt before the end of the 365-day period beginning on the later of— 
+ (A)  the date on which the person sends the statement described under subsection (f) to the consumer;   (B)  with respect to the medical debt of a borrower demonstrating hardship, a date determined by the Director of the Bureau; or 
+ (C)  the date described in section 605(a)(10).   (3)  Treatment of settled or paid medical debt  With respect to a medical debt not described under paragraph (1), no person shall furnish any information to a consumer reporting agency regarding such debt if the debt is settled or paid by the consumer or an insurance company before the end of the 365-day period described under paragraph (2). 
+ (4)  Borrower demonstrating hardship defined In this subsection, and with respect to a medical debt, the term  borrower demonstrating hardship  means a borrower or a class of borrowers who, as determined by the Director of the Bureau, is facing or has experienced unusual extenuating life circumstances or events that result in severe financial or personal barriers such that the borrower or class of borrowers does not have the capacity to repay the medical debt. . 
+  5.  Effective date  This Act and the amendments made by this Act shall take effect on the date that is 180 days after the date of enactment of this Act. 
+

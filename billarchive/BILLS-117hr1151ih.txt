@@ -1,0 +1,40 @@
+
+ 1.  Short title This Act may be cited as the  Consumer Protection Relief Fund Act  or the  CPR Fund Act . 
+  2.  Definitions  In this Act: 
+ (1)  Administrator The term  Administrator  means the Administrator of the CDFI Fund.   (2)  CDFI Fund The term  CDFI Fund  means the Community Development Financial Institutions Fund.
+ (3)  Closed-end installment loan The term  closed-end installment loan —  (A)  means a loan— 
+ (i)  extended at a set amount; and   (ii)  repaid by the borrower with a fixed amount over a limited number of payment periods; and 
+ (B)  does not include a student, auto, or mortgage loan.   (4)  Fund The term  Fund  means the Consumer Protection Relief Fund established under section 3.
+ (5)  Covered amount 
+ (A)  In general With respect to a qualified loan, the term  covered amount  means—  (i)  95 percent of the outstanding principal balance and accrued interest on the loan (not including any late payment or other fees charged to the loan), minus 
+ (ii)  any previously charged fees above 36 percent of the annual percentage rate.   (B)  Calculation of APR  For purposes of subparagraph (A), the annual percentage rate shall be calculated using the method provided under section 232.4(c) of title 32, Code of Federal Regulations, for the calculation of the military annual percentage rate. 
+ (6)  Qualified loan The term  qualified loan  means an extension of a closed-end installment loan—  (A)  to a vulnerable borrower; 
+ (B)  with respect to which the borrower has made an attestation to the holder of the loan that the borrower is experiencing financial difficulty in repaying the loan due to the impact of COVID–19; and   (C)  under which the loan terms— 
+ (i)  do not contain negative amortization, interest-only payments, or balloon payments;   (ii)  do not provide for an automatic renewal; and 
+ (iii)  do not contain a prepayment penalty.   (7)  Vulnerable borrower The term  vulnerable borrower  means a consumer who—
+ (A)  has an income that is 80 percent or less of the median income for the area in which the consumer lives;   (B)  has— 
+ (i)  a FICO score under 675;   (ii)  an adjusted gross income of— 
+ (I)  $75,000, or less, in the case of an individual tax return filer;   (II)  $150,000, or less, in the case of a joint return filer; or 
+ (III)  $112,500, or less, in the case of an individual filing as a head of household;   (C)  attests to the holder of a qualified loan that the consumer is unemployed; or 
+ (D)  is a seasonal or temporary worker. 
+  3.  CPR Fund   (a)  Establishment  There is established the Consumer Protection Relief Fund, which shall be used by the Administrator to make payments to holders of qualified loans under section 4. 
+ (b)  Use of outside entities  In carrying out this Act, the Administrator may—   (1)  consult with other agencies of the Federal Government; and 
+ (2)  enter into contracts with private sector entities, at reasonable or market rates.   (c)  Rulemaking  The Administrator shall issue such rules as may be necessary to carry out this Act. 
+ (d)  Funding 
+ (1)  Appropriation  There is appropriated to the Fund, out of any amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, to remain available until September 30, 2022, $10,000,000,000 for the cost of making payments to holders of qualified loans under this Act and the cost of administering this Act.   (2)  Use of funds after the program   (A)  In general  Any amounts appropriated under paragraph (1) that have not been obligated by the date described under subparagraph (B) shall be transferred to the CDFI Fund and used by the Administrator to— 
+ (i)  extend or promote access to responsible lending;   (ii)  develop technology resources; 
+ (iii)  hire necessary staff; or   (iv)  extend credit to community development financial institutions. 
+ (B)  Date  The date described in this subparagraph is the later of—   (i)  December 31, 2021; and 
+ (ii)  the date on which the Administrator determines that the national unemployment rate has been 8 percent or less for a period of 90 days. 
+  4.  Payments with respect to qualified loans   (a)  In general  The Administrator shall make payments to holders of qualified loans— 
+ (1)  upon submission of the qualified loans to the Administrator; and   (2)  after the Administrator determines such loans are compliant with this Act. 
+ (b)  Limitations on amount 
+ (1)  Maximum amount  The amount of a payment described under subsection (a) shall not exceed the covered amount.   (2)  Aggregate limitation per individual  The aggregate amount of payments made under this Act with respect to a single vulnerable borrower may not exceed $9,500. 
+ (c)  Requirements on holders of qualified loans 
+ (1)  Administrator fee  With respect to any payments to holders of a qualified loan under this Act, the Administrator shall charge the holders of the loan a fee equal to 5 percent of the outstanding principal and interest due on the loan at the time the payment is made.   (2)  Requirements before payment  No person may receive a payment under this Act with respect to a qualified loan unless they comply with the following: 
+ (A)  At the time of the payment, the person commits to issuing or purchasing other qualified loans in an amount that is at least equal in value to the amount of such payment received.   (B)  The person forgives the remaining balance on the loan, along with any late fees or other fees related to the loan. 
+ (C)  The person terminates any negative reporting to consumer reporting agencies with respect to the loan.   (D)  With respect to the borrower of the qualified loan, if the borrower applies for an extension of credit in the future, the person shall not take the borrower’s performance on the qualified loan into consideration for purposes of performing underwriting for such application. 
+ (E)  The person provides for either forbearance or deferral options for distressed borrowers. 
+  5.  Notification to borrower before certain transfers of or collections on a qualified loan   (a)  In general  With respect to any qualified loan (regardless of whether a payment is made with respect to the qualified loan under this Act), the holder of the qualified loan may not sell or otherwise transfer the loan, or attempt to collect on the loan if it is in default or delinquency, unless the holder has notified the borrower of the possibility of a payment under this Act. 
+ (b)  Termination  This section shall have no force or effect after the date described under section 3(d)(2)(B). 
+ 

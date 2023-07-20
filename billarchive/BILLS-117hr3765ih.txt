@@ -1,0 +1,33 @@
+
+ 1.  Short title This Act may be cited as the  Disability Employment Incentive Act .
+  2.  Expansion of work opportunity credit to include individuals receiving Social Security Disability Insurance benefits   (a)  In general  Section 51(d)  of the Internal Revenue Code of 1986 is amended—
+ (1)  in paragraph (1)—   (A) in subparagraph (I), by striking  or  at the end,
+ (B) in subparagraph (J), by striking the period at the end and inserting  , or , and  (C)  by adding at the end the following new subparagraph: 
+
+ (K)  a qualified SSDI recipient.  , and   (2)  by adding at the end the following new paragraph: 
+
+ (16)  Qualified SSDI recipient The term  qualified SSDI recipient  means any individual who is certified by the designated local agency as receiving disability insurance benefits under section 223 of the Social Security Act ( 42 U.S.C. 423 ) for any month ending within the 60-day period ending on the hiring date. .   (b)  Effective date  The amendments made by this section shall apply to individuals who begin work for the employer after December 31, 2021. 
+
+ 3.  Enhancement of Work Opportunity Credit for vocational rehabilitation referrals, qualified SSI recipients, and qualified SSDI recipients 
+ (a)  In general  Section 51  of the Internal Revenue Code of 1986 is amended—  (1)  by redesignating subsections (f) through (k) as subsections (g) through (l), respectively, and 
+ (2)  by inserting after subsection (e) the following new subsection:    (f)  Credit for second-Year wages for employment of vocational rehabilitation referrals, qualified SSI recipients, and qualified SSDI recipients   (1)  In general  With respect to employment of a vocational rehabilitation referral, a qualified SSI recipient, or a qualified SSDI recipient— 
+ (A)  the amount of the work opportunity credit determined under this section for the taxable year shall include 20 percent of the qualified second-year wages for such year, and   (B)  in lieu of applying subsection (b)(3), the amount of the qualified first-year wages, and the amount of qualified second-year wages, which may be taken into account with respect to such referral or recipient shall not exceed $12,500 per year. 
+ (2)  Qualified second-year wages For purposes of this subsection, the term  qualified second-year wages  means qualified wages—  (A)  which are paid to a vocational rehabilitation referral, a qualified SSI recipient, or a qualified SSDI recipient, and 
+ (B)  which are attributable to service rendered during the 1-year period beginning on the day after the last day of the 1-year period with respect to such referral or recipient determined under subsection (b)(2).   (3)  Special rules for agricultural and railway labor  If such referral or recipient is an employee to whom subparagraph (A) or (B) of subsection (i)(1) applies, rules similar to the rules of such subparagraphs shall apply except that— 
+ (A) such subparagraph (A) shall be applied by substituting  $12,500  for  $6,000 , and  (B) such subparagraph (B) shall be applied by substituting  $1,041.67  for  $500 . . 
+ (b)  Conforming amendments 
+ (1)  Section 51  of the Internal Revenue Code of 1986, as amended by subsection (a), is amended—  (A) in subsection (c)(1), by striking  subsection (h)(2)  and inserting  subsection (i)(2) ,
+ (B) in subsection (e)(3), by striking  subsection (h)(1)  and inserting  subsection (i)(1) , and  (C) in subsection (g)(2), by striking  subsection (h)(1)  and inserting  subsection (i)(1) .
+ (2)  Section 45A of such Code is amended—   (A) in subsection (b)(1)(B), by inserting  or (f)(1)(A)  after  subsection (e)(1)(A) ,
+ (B) in subsection (c)(5)(A), by striking  section 51(i)(1)  and inserting  section 51(j)(1) , and  (C) in subsection (e)(3), by striking  section 51(k)  and inserting  section 51(l) .
+ (3) Section 45S(h)(2) of such Code is amended by striking  section 51(j)  and inserting  section 51(k) .  (4) Section 1396(d)(2)(A) of such Code is amended by striking  section 51(i)(1)  and inserting  section 51(j)(1) .
+ (5) Section 1397(c) of such Code is amended by striking  section 51(k)  and inserting  section 51(l) .  (6) Section 3111(e)(3)(B) of such Code is amended by striking  subsection (i)(3)(A)  and inserting  subsection (j)(3)(A) .
+ (c)  Effective date  The amendments made by this section shall apply to individuals who begin work for the employer after December 31, 2021. 
+  4.  Expansion of disabled access credit   (a)  Eligible access expenditures  Section 44(a)  of the Internal Revenue Code of 1986 is amended by striking  $10,250  and inserting  $20,250 .
+ (b)  Eligible small business  Section 44(b)(1)  of the Internal Revenue Code of 1986 is amended—  (1) in subparagraph (A), by striking  $1,000,000  and inserting  $3,000,000 , and
+ (2) in subparagraph (B), by striking  30 full-time employees  and inserting  60 full-time employees .  (c)  Effective date  The amendments made by this section shall apply to taxable years beginning after December 31, 2021. 
+
+ 5.  Expansion of deduction for expenditures to remove architectural and transportation barriers to the handicapped and elderly 
+ (a)  Inclusion of improvements in accessability to internet and telecommunications operations  Section 190(b)  of the Internal Revenue Code of 1986 is amended by adding at the end the following:   (4)  Inclusion of improvements in accessability to internet and telecommunications operations The term  architectural and transportation barrier removal expenses  shall include an expenditure for the purpose of improving accessibility for handicapped and elderly individuals to any internet or telecommunications services provided within any facility or public transportation vehicle owned or leased by the taxpayer for use in connection with their trade or business. . 
+ (b)  Increase in deduction limitation amount  Section 190(c)  of the Internal Revenue Code of 1986 is amended by striking  $15,000  and inserting  $30,000 .  (c)  Effective date  The amendments made by this section shall apply to taxable years beginning after December 31, 2021. 
+

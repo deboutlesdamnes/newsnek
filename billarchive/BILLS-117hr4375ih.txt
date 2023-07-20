@@ -1,0 +1,270 @@
+
+ 1.  Short title; table of contents 
+ (a)  Short title This Act may be cited as the  Twenty-First Century Dams Act .  (b)  Table of contents  The table of contents for the Act is as follows:  
+
+ Sec. 1. Short title; table of contents. 
+ Title I—Dam Safety Assistance 
+ Sec. 101. Increase Federal assistance to improve dam safety. 
+ Title II—Tax Provisions 
+ Sec. 201. Credit for maintaining and enhancing hydroelectric dams. 
+ Sec. 202. Credit for obsolete river obstruction removal expenditures. 
+ Title III—Restore River Ecosystems through Dam Abatements 
+ Sec. 301. Purposes. 
+ Sec. 302. Definitions. 
+ Sec. 303. Dam removal program. 
+ Sec. 304. Establishment of Dam Removal Council. 
+ Sec. 305. Establishment of Dam Removal Advisory Board. 
+ Sec. 306. Dam removal strategy. 
+ Sec. 307. Reporting. 
+ Sec. 308. Funding. 
+ Sec. 309. General provisions. 
+ Title IV—Reimagined Federal Dams 
+ Sec. 401. National dam assessment. 
+ Sec. 402. Federal dam assessments. 
+ Sec. 403. Report. 
+ Sec. 404. Investing in Federal dam infrastructure. 
+
+ I  Dam Safety Assistance 
+ 101.  Increase Federal assistance to improve dam safety 
+ (a)  National Dam Safety Program Act 
+ (1)  Definitions Section 2(4)(A) of the National Dam Safety Program Act ( 33 U.S.C. 467(4)(A) ) is amended—  (A) in clause (iii)(II), by striking the semicolon and inserting  ; and ;
+ (B) in clause (iv), by striking  ; and  and inserting a period; and  (C)  by striking clause (v). 
+ (2)  Inspection of dams Section 3(a) of the National Dam Safety Program Act ( 33 U.S.C. 467a(a) ) is amended to read as follows:   (a)  In general  As soon as practicable, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a national program of inspection of dams for the purpose of protecting human life and property. All non-Federal dams in the United States that are not under the regulatory inspection authority of a State or Federal entity shall be inspected by the Secretary, except dams which the Secretary of the Army determines do not pose any threat to human life or property. The inspection will include an assessment of downstream hazard and development of a dam failure inundation map and a non-failure residual risk inundation map that can be incorporated in an emergency action plan for the dam.  . 
+ (3)  Assistance for State dam safety programs Section 8(e) of the National Dam Safety Program Act ( 33 U.S.C. 467f(e)(1) ) is amended by inserting  including the development of emergency action plans  after  improving dam safety programs .  (4)  Priority System Section 8A(f) of the National Dam Safety Program Act ( 33 U.S.C. 467f–2(f) ) is amended to read as follows: 
+
+ (f)  Priority System  The Administrator, in consultation with the Board, shall develop a risk-based priority system for States to use as a factor in prioritizing multiple applications in a single year of eligible high hazard potential dams for which grants may be made under this section.  .   (5)  Rehabilitation of high hazard potential dams Section 8A(j) of the National Dam Safety Program Act ( 33 U.S.C. 467f–2(j) ) is amended—
+ (A) in paragraph (3), by striking  ; and  and inserting a semicolon;   (B) in paragraph (4), by striking  each of fiscal years 2021 through 2026.  and inserting  fiscal year 2021; and ; and
+ (C)  by adding at the end the following:    (5)  $200,000,000 for each of fiscal years 2022 through 2026.  . 
+ (6)  National dam safety program Section 14(a)(1) of the National Dam Safety Program Act ( 33 U.S.C. 467j(a)(1) ) is amended by striking  $9,200,000 for each of fiscal years 2019 through 2023  and inserting  $92,000,000 for each of fiscal years 2022 through 2026 .  (7)  Inspection of dams Section 14 of the National Dam Safety Program Act ( 33 U.S.C. 467j ) is amended by adding at the end the following: 
+
+ (h)  Inspection of dams  There is authorized to be appropriated to carry out section 3 $35,000,000 for each of fiscal years 2022 through 2026.  .   (8)  Allocation Section 14(a)(2) of the National Dam Safety Program Act ( 33 U.S.C. 467j(a)(2) ) is amended—
+ (A)  in subparagraph (A)—   (i) by striking (A)  In general .—Subject to subparagraphs (B) and (C), for and inserting  For ;
+ (ii)  in clause (i)—   (I) by striking  (i)  and inserting  (A) ; and
+ (II) by inserting  of the remaining  after  one-third ;  (iii)  in clause (ii)— 
+ (I) by striking  (ii)  and inserting  (B) ; and  (II) by inserting  of the remaining  after  two-thirds ;
+ (iv)  by adding at the end the following:     (iii)  Up to twenty percent to States that qualify for assistance under section 467f(e) of this title for the development of emergency action plans as needed.  ; and 
+ (B)  by striking subparagraphs (B) and (C).    (9)  FEMA Staffing Section 14(f) of the National Dam Safety Program Act ( 33 U.S.C. 467j(f) ) is amended by striking  $1,000,000 for each of fiscal years 2019 through 2023  and inserting  $4,000,000 for each of fiscal years 2022 through 2026 .
+ (b)  Rehabilitation of structural measures near, at, or past their evaluated life expectancy Section 14(h)(2) of the Watershed Protection and Flood Prevention Act ( 16 U.S.C. 1012(h)(2) ) is amended—  (1) in subparagraph (D), by striking  ; and  and inserting a semicolon; 
+ (2) in subparagraph (E), by striking  through 2023.  and inserting  through 2021; and ; and  (3)  by adding at the end the following: 
+
+ (F)  $100,000,000 for each of fiscal years 2022 through 2026.  .   (c)  WIFIA funding Section 5033(a)(1) of the Water Infrastructure Finance and Innovation Act of 2014 ( 33 U.S.C. 3912(a)(1) ) is amended—
+ (1) in subparagraph (D), by striking  ; and  and inserting a semicolon;  (2) in subparagraph (E), by striking the period at the end and inserting  ; and ; and
+ (3)  by adding at the end the following:    (F)  $50,000,000 for each of fiscal years 2022 through 2026.  . 
+
+ II  Tax Provisions 
+ 201.  Credit for maintaining and enhancing hydroelectric dams 
+ (a)  In general Subpart E of part IV of subchapter A of  chapter 1  of the Internal Revenue Code of 1986 is amended by adding after section 48C the following new section:   48D.  Credit for maintaining and enhancing hydroelectric dams   (a)  In general  For purposes of section 46, the credit for maintaining and enhancing hydroelectric dams for any taxable year is 30 percent of the basis of any qualified dam safety, environmental, and grid resilience enhancement property placed in service during such taxable year. 
+ (b)  Limitation  No credit shall be allowed under subsection (a) with respect to any qualified dam safety, environmental, and grid resilience property unless the qualified dam in connection with which such property was placed in service meets all applicable Federal, State, and tribal requirements with respect to such dam on the date such property is placed in service.   (c)  Certain progress expenditure rules made applicable  Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a). 
+ (d)  Definitions  For purposes of this section—   (1)  Qualified dam safety, environmental, and grid resilience property The term  qualified dam safety, environmental, and grid resilience enhancement property  means any property—
+ (A)  which is—   (i)  dam safety property, 
+ (ii)  environmental improvement property, or   (iii)  grid resilience property, 
+ (B) 
+ (i)  the construction, reconstruction, or erection of which is completed by the taxpayer, or   (ii)  which is acquired by the taxpayer if the original use of such property commences with the taxpayer, and 
+ (C)  with respect to which depreciation (or amortization in lieu of depreciation) is allowable.   (2)  Dam safety property The term  dam safety property  means property the purpose of which is to maintain or improve dam safety on a qualified dam to ensure acceptable performance under all loading conditions (static, hydrologic, seismic) in accordance with applicable regulatory criteria and risk guidelines, including—
+ (A)  the maintenance or upgrade of spillways or other appurtuant structures,    (B)  dam stability, including erosion repair and enhanced seepage controls, and  
+ (C)  upgrades or replacements of floodgates or natural infrastructure restoration or protection to improve flood risk reduction.   (3)  Environmental improvement property The term  environmental improvement property  means property the purpose of which is to—
+ (A)  add or improve safe and effective fish passage, including new or upgraded turbine technology, fish ladders, fishways, and all other associated technology, equipment, or other fish passage technology to a qualified dam,   (B)  maintain or improve the quality of the water retained or released by a qualified dam, 
+ (C)  promote downstream sediment transport processes and habitat maintenance with respect to a qualified dam, or    (D)  provide for or improve recreational access to the vicinity of a qualified dam, including roads, trails, boat ingress and egress, flows to improve recreation, and infrastructure that improves river recreation opportunity. 
+ (4)  Grid resilience property 
+ (A)  In general The term  grid resilience property  means property—  (i)  the purpose of which is to provide the ability of a hydroelectric facility at a qualified dam to contribute to electricity grid resilience and efficiency by— 
+ (I)  adapting more quickly to changing grid conditions,   (II)  providing ancillary services (including black start capabilities, voltage support, and spinning reserves),  
+ (III)  integrating other variable sources of electricity generation, or   (IV)  managing accumulated reservoir sediments, or 
+ (ii)  which is a qualified dam described in paragraph (5)(B).   (B)  Mitigation and environmental review requirements  Such term shall not include any property described in subparagraph (A)(i) unless any physical or operational changes instituted in connection with the activities described in such subparagraph have been authorized under applicable Federal, State, and tribal permitting or licensing processes which include appropriate mitigation conditions arising from consultation and environmental review under such processes. 
+ (5)  Qualified dam The term  qualified dam  means any of the following:  (A)  A hydroelectric dam which is licensed by the Federal Energy Regulatory Commission or legally operating without such a license and was placed in service before the date of the enactment of this section. 
+ (B)  A hydroelectric dam which—   (i)  was licensed by the Federal Energy Regulatory Commission before December 31, 2020, 
+ (ii)  is under active license from the Federal Energy Regulatory Commission on the date of enactment of this section,    (iii) meets the requirements of subclauses (I) and (III) of sections 242(b)(1)(B)(ii) of the Energy Policy Act of 2005 ( 42 U.S.C. 15881 ), 
+ (iv)  is placed in service on or after the date of the enactment of this section, and    (v)  does not contribute to atmospheric pollution. 
+ (C)  Any dam which—   (i)  was placed in service before the date of the enactment of this section, 
+ (ii)  is operated on such date of enactment for any beneficial public use except hydropower generation, and    (iii)  is authorized after such date of the enactment for hydropower development by the Federal Energy Regulatory Commission, the Bureau of Reclamation, or a State, as appropriate.  
+ (D)  Any dam which was placed in service before the date of the enactment of this section and which is a qualified nonpowered dam (as defined in section 34(e)(3) of the Federal Power Act (16 U.S.C. § 823e(e)(3))).   (e)  Elective payment   (1)  In general  In the case of a taxpayer making an election (at such time and in such manner as the Secretary may provide) under this subsection with respect to any portion of the credit which would (without regard to this subsection) be determined under this section with respect to such taxpayer, such taxpayer shall be treated as making a payment against the tax imposed by subtitle A for the taxable year equal to 100 percent of such amount. 
+ (2)  Timing  The payment described in subsection (a) shall be treated as made on the later of the due date of the return of tax for such taxable year or the date on which such return is filed.   (3)  Denial of double benefit  Solely for purposes of section 38, in the case of a taxpayer making an election under this subsection, the credit determined under this section shall be reduced by the amount of the portion of such credit with respect to which the taxpayer makes such election. 
+ (4)  Application to certain tax-exempt persons  In the case of a taxpayer making an election under this subsection, the credit subject to such an election shall be determined notwithstanding—   (A)  section 50(b)(3), and 
+ (B)  section 50(b)(4), with respect to an entity described in section 50(b)(4)(A)(i).   (f)  Special rule for property financed by subsidized energy financing or tax-Exempt bonds  For purposes of this section, rules similar to the rules of section 48(a)(4) (determined without regard to subparagraph (D) thereof) shall apply. 
+ . 
+ (b)  Conforming amendments 
+ (1)  Section 46  of the Internal Revenue Code of 1986 is amended by striking  and  at the end of paragraph (5), by striking the period at the end of paragraph (6) and inserting  , and , and by adding at the end the following new paragraph:   (7)  the credit for maintaining and enhancing hydroelectric dams.  . 
+ (2) Section 49(a)(1)(C) of such Code is amended by striking  and  at the end of clause (iv), by striking the period at the end of clause (v) and inserting  , and , and by adding at the end the following new clause:   (vi)  the basis of any qualified property taken into account under section 48D(d).  . 
+ (3) Section 50(a)(2)(E) of such Code is amended by striking  or 48C(b)(2)  and inserting  48C(b)(2), or 48D(c) .  (4)  The table of sections for subpart E of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 48C the following new item: 
+
+
+ Sec. 48D. Credit for maintaining and enhancing hydroelectric dams.  . 
+ (c)  Effective date The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act, under rules similar to the rules of  section 48(m)  of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990). 
+  202.  Credit for obsolete river obstruction removal expenditures   (a)  In general Subpart D of part IV of subchapter A of  chapter 1  of the Internal Revenue Code of 1986 is amended by adding after section 45T the following new section:
+
+ 45U.  Credit for obsolete river obstruction removal expenditures 
+ (a)  In general  For purposes of section 38, the credit for obsolete river obstruction removal expenditures for any taxable year is 30 percent of the qualified obsolete river obstruction removal expenditures incurred during such taxable year.   (b)  Qualified obsolete river obstruction removal expenditures  For purposes of this section— 
+ (1)  In general The term  qualified obsolete river obstruction removal expenditures  means any expenditure to demolish and remove, in whole or in part, any dam described in paragraph (2) and its associated infrastructure, including all associated remediation and ecosystem restoration costs, so long as—   (A)  the work is performed with the consent of the dam owner, if available, and 
+ (B)  none of the expenses incurred are used to demolish or remove a Federally-owned hydroelectric dam.    (2)  Dam described  A dam is described in this paragraph if such dam is— 
+ (A)  a qualified nonpowered dam (as defined in section 34(e)(3) of the Federal Power Act (16 U.S.C. § 823e(e)(3))), or    (B)  a hydroelectric dam which is not owned by the Federal government.  
+ (c)  Application to tax-Exempt entities 
+ (1)  In general  In the case of qualified obsolete river obstruction removal expenditures incurred by an eligible entity, the Secretary shall promulgate regulations to allow the allocation of the credit under this section to the person primarily responsible for designing the property in lieu of the owner of such property, with such person to be treated as the taxpayer for purposes of this section.    (2)  Eligible entity For purposes of this subsection, the term  eligible entity  means—
+ (A)  a Federal, State, or local government or a political subdivision thereof,   (B)  an Indian tribe (as defined in section 45A(c)(6)), or 
+ (C)  an organization described in section 501(c) and exempt from tax under section 501(a).    (d)  Elective payment   (1)  In general  In the case of a taxpayer making an election (at such time and in such manner as the Secretary may provide) under this subsection with respect to any portion of the credit which would (without regard to this subsection) be determined under this section with respect to such taxpayer, such taxpayer shall be treated as making a payment against the tax imposed by subtitle A for the taxable year equal to 100 percent of such amount. 
+ (2)  Timing  The payment described in subsection (a) shall be treated as made on the later of the due date of the return of tax for such taxable year or the date on which such return is filed.   (3)  Denial of double benefit  Solely for purposes of section 38, in the case of a taxpayer making an election under this subsection, the credit determined under this section shall be reduced by the amount of the portion of such credit with respect to which the taxpayer makes such election. 
+ . 
+ (b)  Conforming amendments 
+ (1)  Section 38(b)  of the Internal Revenue Code of 1986 is amended by striking  plus  at the end of paragraph (32), by striking the period at the end of paragraph (33) and inserting  , plus , and by adding at the end the following new paragraph:   (34)  the credit for obsolete river obstruction removal expenditures under section 45U(a).  . 
+ (2)  Section 280C of such Code is amended by adding at the end the following new subsection:    (i)  Credit for obsolete river obstruction removal expenditures  No deduction shall be allowed for that portion of the expenses otherwise allowable as a deduction taken into account in determining the credit under section 45U for the taxable year which is equal to the amount of the credit determined for such taxable year under section 45U(a).   . 
+ (3)  The table of sections for subpart D of part IV of subchapter A of chapter 1 of such Code is amended by inserting after the item relating to section 45T the following new item:     Sec. 45U. Credit for obsolete river obstruction removal expenditures.  .   (c)  Effective date The amendments made by this section shall apply to any obsolete river obstruction removal expenditures (as defined in  section 45U  of the Internal Revenue Code of 1986, as added by this section) incurred after the date of the enactment of this Act. 
+
+ III  Restore River Ecosystems through Dam Abatements 
+ 301.  Purposes  The purposes of this title are to establish an interagency advisory council, a Tribal and stakeholder advisory board, and to provide funding to remove publicly owned and privately owned dams with the consent of dam owners—   (1)  to reduce public safety risks associated with aging dams; 
+ (2)  to promote the restoration of riverine habitat for native species of fish and wildlife;   (3)  to provide for the movement of aquatic species and restoration of migratory fish populations; 
+ (4)  to improve water quality; and    (5)  to increase climate resilience.  
+
+ 302.  Definitions  In this title:   (1)  Advisory Board The term  Advisory Board  means the Dam Removal Advisory Board established under section 305.
+ (2)  Aquatic habitat The term  aquatic habitat  means the preferred in-stream, floodplain, or riparian wetland habitat of all life stages of native aquatic species.  (3)  Aquatic species passage The term  aquatic species passage  means the ability of all species endemic to a watershed, and all life stages of those species, to freely access upstream and downstream aquatic habitat for the purposes of spawning, rearing, or other life cycle needs.
+ (4)  Climate resilience The term  climate resilience  means the ability for humans, ecosystems, and all species to adapt to and recover from disturbances related to climate change, including increased severity and frequency of floods, droughts, and changes to thermal regimes.  (5)  Council The term  Council  means the Dam Removal Council established under section 304. 
+ (6)  Dam The term  dam  means a human-made structure that—  (A)  spans the width of a river or stream (or does not currently span the width of a river or stream due to damage or intentional breach, but was originally constructed to do so); and  
+ (B)  was constructed to raise the water level, divert water, or store water for a variety of purposes.    (7)  Dam removal project   (A)  In general The term  dam removal project  means a project to permanently remove the full vertical extent of a dam structure of a dam described in subparagraph (B) to a minimum horizontal width needed to protect public safety, restore natural river function, and reconnect aquatic species passage, unless site conditions prevent that removal width.
+ (B)  Dams described  A dam referred to in subparagraph (A) is—   (i)  a non-federally owned powered dam; 
+ (ii)  a non-federally owned non-powered dam; or    (iii)  a Federal non-powered dam the removal of which is authorized by Congress, if applicable.  
+ (8)  Funding allocation The term  funding allocation  means amounts provided, out of amounts made available to carry out this title, by the Secretary to a participating agency to carry out the purposes of this title.  (9)  Indian Tribe The term  Indian Tribe  has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5304 ).
+ (10)  Non-Federal interest The term  non-Federal interest  means—  (A)  a State; 
+ (B)  a political subdivision of a State;   (C)  an Indian Tribe; 
+ (D)  a non-Federal dam owner, or a representative;   (E)  a regional or interstate agency; and 
+ (F)  as provided in section 303(d)(2), a nongovernmental organization.   (11)  Participating agency   (A)  In general The term  participating agency  means a Federal agency—
+ (i)  that owns 1 or more dams or has jurisdiction over a grant program under which dam removal is an eligible activity; and   (ii)  that has authority— 
+ (I)  to conduct dam removal projects; or   (II)  to provide technical assistance and grants for development, planning, and implementation of dam removal projects.  
+ (B)  Inclusion The term  participating agency  includes the Department of the Army.  (12)  Privately owned dam The term  privately owned dam  means a dam that is owned by 1 or more non-governmental entities.
+ (13)  Public safety hazard The term  public safety hazard  means the risk to individuals pertaining to a dam, including loss of life or destruction of private or public property, as a result of the structural failure or misoperation of a dam, or by a person who accesses the dam by foot or in a boat.   (14)  Publicly owned dam   (A)  In general The term  publicly owned dam  means a dam that is owned by a public entity such as a government agency, political subdivision, special purpose district, or other public entity established under Federal or State law.
+ (B)  Exclusion The term  publicly owned dam  does not include a Federal powered dam.   (15)  Secretary The term  Secretary  means the Secretary of the Army.
+ (16)  State The term  State  means—  (A)  a State; 
+ (B)  the District of Columbia;   (C)  the Commonwealth of Puerto Rico; 
+ (D)  the Commonwealth of the Northern Mariana Islands;   (E)  the United States Virgin Islands; 
+ (F)  American Samoa; and   (G)  Guam. 
+
+ 303.  Dam removal program 
+ (a)  Establishment  The Secretary shall establish a dam removal program to carry out dam removal projects and provide technical assistance through the award of contracts and cooperative agreements in accordance with this title.   (b)  Eligible activities  An activity eligible to be carried out with a funding allocation is— 
+ (1)  a dam removal project; and   (2)  a Federal or non-Federal technical assistance program. 
+ (c)  Selection of projects 
+ (1)  Identification of eligible projects 
+ (A)  In general  Each participating agency shall—   (i)  review proposed dam removal projects and technical assistance programs, including— 
+ (I)  projects proposed by a dam owner (or a designee, with the written consent of the dam owner);    (II)  dam removal projects for Federal non-powered dams owned by the participating agency that— 
+ (aa)  are no longer providing a critical purpose in the Federal interest; and    (bb)  have received Congressional authorization, if applicable;  
+ (III)  non-Federal dam removal technical assistance programs; and   (IV)  a proposed funding allocation for those projects and programs; and 
+ (ii)  submit the recommended projects, programs, and funding allocation to the Council.    (B)  Council review  The Council shall— 
+ (i)  review the projects, programs, and funding allocations submitted under subparagraph (A)(ii);    (ii)  develop recommendations of projects and programs that meet the criteria described in paragraph (3) and proposed funding allocations for each participating agency; and 
+ (iii)  submit the projects, programs, and funding allocations recommended under clause (ii) to the Secretary.   (2)  Selection  The Secretary shall— 
+ (A)  select projects and activities under this section taking into consideration the projects and programs submitted by the Council under paragraph (1)(B)(iii); and    (B)  provide to each participating agency a funding allocation pursuant to a cooperative agreement under subsection (f). 
+ (3)  Required elements  Each dam removal project recommended to the Secretary by the Council shall—   (A)  include written consent of the dam owner for the dam removal project, if ownership is established; 
+ (B)  meet 1 or more of the project purposes of—   (i)  protecting human health and safety; 
+ (ii)  restoring aquatic habitat and riverine processes;   (iii)  increasing river connectivity and species access to aquatic habitat; 
+ (iv)  improving water quality;    (v)  enhancing commercial and recreational fishing; 
+ (vi)  enhancing river-based recreation;   (vii)  restoring nature-based infrastructure; and  
+ (viii)  improving climate resilience;   (C)  include satisfactory assurance from any non-Federal interests proposing projects that the non-Federal interests will have or can reasonably acquire personnel and authority to adequately manage the project; and 
+ (D)  demonstrate a commitment to obtain all required regulatory approvals and permits from all pertinent jurisdictions prior to project implementation.   (4)  Factors for selection of projects  In selecting a dam removal project, the Secretary and participating agencies shall consider the following: 
+ (A)  The capability of the non-Federal interest to carry out the project in a technically feasible manner.   (B)  The extent to which the dam poses a significant public safety hazard. 
+ (C)  The extent to which the dam provides critical beneficial uses.   (D)  The extent to which the project provides multiple environmental and public benefits, with priority given to a project that meets 2 or more of the project purposes described in paragraph (3)(B). 
+ (E)  The extent to which the project will be carried out in a cost-effective manner.   (F)  Any other factors that the Secretary and participating agencies determine to be reasonable and necessary for consideration.  
+ (5)  Prioritization for selection of projects  In selecting a dam removal project, the Secretary and participating agencies shall prioritize—   (A)  removal of dams that pose a significant public safety hazard; and  
+ (B)  non-powered dams the removal of which will provide significant ecological value.    (d)  Execution of projects and activities   (1)  In general  A participating agency that receives assistance under this section may enter into cooperative agreements with non-Federal interests— 
+ (A)  to carry out dam removal projects;   (B)  to provide technical assistance; or 
+ (C)  to provide assistance to a non-Federal technical assistance program.   (2)  Nongovernmental organizations  Notwithstanding section 221(b) of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b(b)), for any dam removal project, the Secretary, in consultation and coordination with appropriate State and local governmental agencies, Indian Tribes, and any impacted stakeholders, may allow a nongovernmental organization to serve as the non-Federal interest for the project. 
+ (3)  Public notice  For any dam removal activity carried out with a funding allocation, the participating agency shall provide public notice in accordance with applicable regulations and requirements of the participating agency.   (4)  Geographic equity  To the maximum extent practicable, in carrying out activities under this title, participating agencies shall allocate amounts from the funding allocation of the agency equitably among regions of the United States. 
+ (e)  Eligible costs  A funding allocation may be used for all dam removal and related project needs, including—   (1)  engineering, scientific assessment, economic analysis, construction, project management, technical assistance, acquisition, liability insurance, monitoring, regulatory compliance, updating flood hazard mapping as needed for project implementation, project administration, infrastructure protection, and sediment management; 
+ (2)  all stages of project planning and design;   (3)  Federal, State, Tribal, and non-Federal dam removal technical assistance programs to identify projects, complete initial project stages, train project managers and others involved in dam removal projects, and provide technical assistance;  
+ (4)  establishment of collaborative Federal teams to increase efficiency of evaluation and removal of federally owned dams; and   (5)  monitoring under subsection (h).  
+ (f)  Cooperative agreement 
+ (1)  In general  The Secretary shall enter into a cooperative agreement with each participating agency to provide the funding allocation determined by the Secretary for the participating agency.    (2)  Supplement, not supplant  A funding allocation provided under this title shall supplement and not supplant amounts otherwise made available to the participating agency.  
+ (g)  Federal share  The Federal share of the cost of a dam removal project carried out under this title shall be 100 percent, unless a different Federal share is required by the program of the participating agency under which the project is being carried out.   (h)  Monitoring   (1)  Costs  The costs of monitoring a dam removal project— 
+ (A)  shall be an eligible use of a funding allocation; and    (B)  may be included in the total cost of the dam removal project. 
+ (2)  Goals  The goals of monitoring referred to paragraph (1) shall be—   (A)  to measure the safety and effectiveness of the project; and 
+ (B)  to allow adaptive management to ensure project success. 
+  304.  Establishment of Dam Removal Council   (a)  Council There is established a council to be known as the  Dam Removal Council .
+ (b)  Duties  The Council shall be responsible for—   (1)  coordinating participating agencies to annually (or as otherwise determined by the Council)— 
+ (A)  notify all known dam owners of the availability of dam removal funding, application procedures, and options for technical assistance; and    (B)  provide guidance on the existing programs of participating agencies; 
+ (2)  evaluating the proposed dam removal projects, technical assistance programs, and funding allocations submitted by participating agencies under section 303(c)(1)(A)(ii);   (3)  submitting to the Secretary recommended dam removal projects, technical assistance programs, and funding allocations for participating agencies as described in section 303(c)(1)(B)(ii); 
+ (4)  serving as a forum—   (A)  to identify and address limiting factors to removing dams; and  
+ (B)  to address programmatic challenges;   (5)  providing advice on the development of the database and report required under section 307; and 
+ (6)  collaborating with the agencies represented on the Council to maximize the benefits of this title.   (c)  Membership   (1)  Members  Subject to paragraph (2), the Council shall consist of the following members: 
+ (A)  The Secretary.   (B)  The Director of the National Oceanic and Atmospheric Administration. 
+ (C)  The Director of the United States Fish and Wildlife Service.   (D)  The Commissioner of the Bureau of Reclamation. 
+ (E)  The Chief of the Natural Resources Conservation Service.   (F)  The Chief of the Forest Service.  
+ (G)  The Administrator of the Federal Emergency Management Agency.   (H)  The Administrator of the Environmental Protection Agency. 
+ (I)  The Chair of the Council on Environmental Quality.   (J)  The Chairman of the Federal Energy Regulatory Commission. 
+ (K)  The Director of the Water Power Technologies Office of the Department of Energy.    (2)  Authority to change membership  The Council may modify the membership of the Council to more effectively meet the purposes of this title. 
+ (3)  Collaboration  The Council may collaborate with other Federal agencies regarding the duties of the Council and recommend to the Secretary to enter into agreements with those agencies to more effectively meet the purposes of this title, such as an agreement relating to the provision of data or research necessary to carry out dam removal projects.    (4)  Compensation  A member of the Council shall serve without compensation. 
+ (5)  Chair 
+ (A)  In general  The initial Chair of the Council shall be the Chair of the Council on Environmental Quality.    (B)  Subsequent chairs  Every 2 years, after completion of a report under section 307, the Council shall select a new Chair of the Council.  
+ (C)  Duties  The Chair shall coordinate with agencies represented on the Council—   (i)  to develop effective and efficient processes to identify, prioritize, and implement dam removal projects; and 
+ (ii)  to simplify and clarify the dam removal process.   (d)  Meetings   (1)  First meeting  The Chair shall convene the first meeting of the Council not later than 60 days after the date of enactment of this Act. 
+ (2)  Additional meetings  The Chair shall convene additional meetings of the Council as appropriate to ensure that this title is fully carried out, but not less often than annually.   (e)  Council procedures  The Council shall establish procedures for voting, the conduct of meetings, and other matters as appropriate. 
+ (f)  Public participation 
+ (1)  In general  Meetings of the Council shall be open to the public.    (2)  Notice  The Council shall provide notice to the public of a meeting of the Council. 
+ (g)  Advice  The Council shall consult with the Advisory Board—   (1)  to assist the Council in the development of the dam removal strategy to be developed under section 306; 
+ (2)  to provide input on project identification criteria; and   (3)  to provide input on proportional distribution of funds to participating agencies. 
+
+ 305.  Establishment of Dam Removal Advisory Board 
+ (a)  Advisory board  The Chair of the Council shall establish a Dam Removal Advisory Board to provide advice and recommendations on the implementation of this title.   (b)  Membership  The Advisory Board shall include 12 members appointed by the Chair, of whom— 
+ (1)  2 members shall be representatives of Indian Tribes;   (2)  2 members shall be representatives of State government agencies that manage or provide funds for dam removal projects or regulate dam safety;  
+ (3)  3 members shall be representatives of nongovernmental organizations that manage or provide technical assistance for dam removal projects;    (4)  2 members shall be representatives of nongovernmental organizations that work to improve dam safety practices; and 
+ (5)  3 members shall be representatives of organizations representing dam owners.   (c)  Nonapplicability of FACA  The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.  
+
+ 306.  Dam removal strategy 
+ (a)  In general  Not later than 18 months after the date of enactment of this Act, the Council shall develop a dam removal strategy—   (1)  to ensure a comprehensive approach to remove dams that— 
+ (A)  pose the greatest threat to public safety;   (B)  provide the greatest opportunity for environmental restoration; and  
+ (C)  are consistent with efforts to address climate change and adaptation;   (2)  to maximize benefits derived from dam removal projects; and 
+ (3)  to foster the coordination of Federal and non-Federal activities related to dam removal.    (b)  Goal  The goal of the dam removal strategy under subsection (a) shall be to improve public safety and restore healthy rivers by reconnecting at least 10,000 miles of river by 2031. 
+ (c)  Elements of strategy  The dam removal strategy under subsection (a) shall—   (1)  identify limiting factors to completing dam removal projects and strategies for overcoming those limiting factors; 
+ (2)  utilize the selection factors and priorities described in section 303(c);   (3)  optimize the benefits of dam removal activities, including basin-scale fish passage planning; 
+ (4)  maximize the incentives for the creation of new public-private partnerships to carry out dam removal projects and the use of Federal resources to encourage increased private sector involvement in dam removal projects;   (5)  identify opportunities for Federal agency collaboration to remove dams that are no longer needed from Federal land; 
+ (6)  be consistent with dam removal, habitat restoration, and public safety plans;   (7)  promote dam removal projects— 
+ (A)  to meet the criteria in section 303(c)(3); and   (B)  to address other areas of concern that the Council determines to be appropriate for consideration; and 
+ (8)  provide recommendations for broad and equitable geographic distribution of projects funded under this title.   (d)  Public review and comment  Before the Council adopts a dam removal strategy under subsection (a), the Council shall— 
+ (1)  publish in the Federal Register a draft of the dam removal strategy; and    (2)  provide an opportunity for public review and comment. 
+ (e)  No delay of dam removal projects  Development of the dam removal strategy under subsection (a)—   (1)  shall occur concurrently with implementation of dam removal projects and technical assistance under this Act; and 
+ (2)  shall not delay progress of those projects and activities.   (f)  Periodic revision  Using data and information developed through project monitoring and management, and other relevant information, the Council may periodically review and update, as necessary, the dam removal strategy under subsection (a). 
+
+ 307.  Reporting 
+ (a)  In general  Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Secretary, after considering the advice and recommendations of the Council and Advisory Board, shall submit to Congress a report on the activities carried out under this title.   (b)  Contents of report  A report under subsection (a) shall include— 
+ (1)  data on—   (A)  the number of dams removed, river miles opened, public safety benefits, and aquatic ecosystem benefits achieved through projects under this title; and 
+ (B)  participating agency expenditures, project costs, and descriptions of projects selected, in progress, and completed under this title;   (2)  a review of project expenses, identifying areas of opportunity for reducing future project expenses; 
+ (3)  a review of how the information described in paragraphs (1) and (2) will be incorporated into the selection and implementation of new dam removal projects;   (4)  a review of efforts made to maintain an appropriate database of dam removal projects carried out under this title; and 
+ (5)  a review of the measures taken to provide the information described in paragraphs (1) through (3) to Federal agencies with responsibility for assisting in the dam removals. 
+  308.  Funding   (a)  Authorization of appropriations  There is authorized to be appropriated to carry out this title $7,500,000,000, to remain available until expended. 
+ (b)  Technical assistance funding allocations  Of the amounts made available under subsection (a)—   (1)  not less than $50,000,000 shall be allocated for the costs of administration, environmental compliance, and technical assistance to carry out this title; and 
+ (2)  not less than $30,000,000 shall be allocated to non-Federal dam removal technical assistance programs.   (c)  Set-Aside for administrative expenses of the Council  Of the amounts made available under subsection (a) for each fiscal year, the Secretary shall use for administration and operating costs of the Council and for development of the report under section 307, including the collection and maintenance of dam removal project data, the lesser of— 
+ (1)  3 percent; and   (2)  $1,500,000. 
+
+ 309.  General provisions 
+ (a)  Agency consultation and coordination  In carrying out this title, the Secretary shall, as necessary, consult with, cooperate with, and coordinate activities with the activities of other Federal agencies.   (b)  Cooperative agreements; memoranda of understanding  In carrying out this title, the Secretary and other Federal agencies, as appropriate, may— 
+ (1)  enter into cooperative agreements or contracts with Federal, State, and local government agencies, nongovernmental organizations, and other entities; and   (2)  execute such memoranda of understanding as are necessary to reflect the agreements. 
+ (c)  Federal agency facilities and personnel  Federal agencies may—   (1)  cooperate in carrying out scientific and other programs necessary to carry out this title; and 
+ (2)  provide facilities and personnel for the purpose of assisting the Council in carrying out the duties of the Council under this title. 
+  IV  Reimagined Federal Dams   401.  National dam assessment   (a)  In general  The National dam assessment will assimilate data to provide for stakeholders to determine whether a dam may be an appropriate candidate to remove, upgrade, enhance environmental performance, or retrofit for hydropower production. The assessment is intended for data gathering and analysis tools and will not make recommendations on individual dams. 
+ (b)  Dam assessments and data gathering 
+ (1)  In general  The U.S. Geological Survey and Department of Energy (Lead agencies) shall jointly conduct an assessment of the Nation’s dam infrastructure, including government and privately owned powered and non-powered dams. In conducting its assessment, the Lead agencies shall consult with other Federal and State government agencies, including the Corps of Engineers, the Bureau of Reclamation, the Federal Energy Regulatory Commission, the Federal Emergency Management Agency, the U.S. Fish and Wildlife Service, NOAA, State dam safety officials, and other stakeholders.   (2)  Purpose  The purpose of the assessment is to integrate existing data to help stakeholders identify— 
+ (A)  dams that continue to serve vital roles and may be priorities for upgrades, environmental performance enhancements, or retrofits to add or replace generation at powered and non-powered facilities; and   (B)  dams that may have been abandoned, have reached the end of their useful life, or otherwise may be candidates for removal and river restoration. 
+ (3)  Content 
+ (A)  The Lead agencies shall, in consultation with the other Federal and State agencies, the Dam Removal Council established under section 304, as well as other stakeholders, develop a set of data and other factors relevant to dam upgrades, retrofit and removal, including but not limited to age, height, water flow, hazard classifications, condition assessment, environmental improvement opportunities, climate change risks, known functions and other factors determined by the Lead agencies to meet the goals of the assessment.   (B)  At the time of submission of the report to Congress, the Lead agencies shall make the assessment publicly available in a written and an electronically searchable format. 
+ (C)  The Lead agencies shall, to the extent possible, compile pre-existing information from Federal and State government sources and avoid duplicating existing assessments of any particular dam, facility, or project. 
+  402.  Federal dam assessments   (a)  In general  Federal agencies that own dams shall assess their dams to identify which should be removed, upgraded, enhanced for environmental performance, or retrofitted for hydropower production. 
+ (b)  Criteria  The lead agencies section 401(b) will work with dam-owning Federal agencies and the Dam Removal Council to develop criteria for agencies to use to complete the assessments.   (c)  Assessment  Using the criteria from subsection (b), Federal agencies that own dams shall assess their dams to identify those appropriate for the outcomes in subsection (a) or other outcomes determined by the lead agencies. 
+ (d)  Outcomes  Those outcomes identified by the assessment should not be compelled, but should inform future action by the agencies. 
+  403.  Report  The Secretary shall submit to the Committees on Energy and Commerce, Natural Resources, and Transportation and Infrastructure of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the findings and conclusions of the assessments under this section by not later than 18 months after the date of the enactment of this Act. The assessment and report to Congress shall be updated every 3 years thereafter. 
+
+ 404.  Investing in Federal dam infrastructure 
+ (a)  Corps of Engineers  There are authorized to be appropriated $1,600,000,000 for fiscal years 2022 through 2026 for the following dam-related activities:   (1)  Safety improvements, including concrete repair, tunnel work, and gate repair and replacement. 
+ (2)  Environmental improvements, including fish passage, environmental flows, water quality, temperature, and dissolved oxygen upgrades.   (3)  Hydropower unit maintenance and upgrades. 
+ (4)  Transmission, distribution, and substation upgrades.   (5)  Control room upgrades. 
+ (6)  Efficiency, flexibility, and capacity improvements.   (7)  Deployment of innovative technologies, none of the funds authorized under this section shall have to be recouped by the Corps of Engineers. 
+ (8)  Evaluation to address disposition to appropriately direct expenditures.   (9)  Backlogged maintenance and operation activities. 
+ (b)  Bureau of Reclamation  There are authorized to be appropriated $400,000,000 for each of fiscal years 2022 through 2026 for the following dam-related activities:   (1)  Safety improvements, including concrete repair, tunnel work, and gate repair and replacement. 
+ (2)  Environmental improvements, including fish passage, environmental flows, water quality, temperature, and dissolved oxygen upgrades.   (3)  Hydropower unit maintenance and upgrades. 
+ (4)  Transmission, distribution, and substation upgrades.   (5)  Control room upgrades. 
+ (6)  Backlogged operations and maintenance activities.   (7)  Upgrades, efficiency, flexibility, and capacity improvements. 
+ (8)  Deployment of innovative technologies.    (9)  Evaluation to address disposition to appropriately direct expenditures. 
+ (10)  None of the funds authorized under this section shall have to be recouped by the Bureau of Reclamation.   (c)  United States Forest Service  There are authorized to be appropriated $70,000,000 for each of fiscal years 2022 through 2026 for the following dam-related activities: 
+ (1)  Safety improvements.   (2)  Environmental improvements. 
+ (3)  Backlogged operations and maintenance activities.   (4)  Upgrades, efficiency, flexibility, and capacity improvements. 
+ (5)  Deployment of innovative technologies.   (6)  Evaluation to address disposition to appropriately direct expenditures. 
+ (d)  Bureau of Indian Affairs  There are authorized to be appropriated $130,000,000 for each of fiscal years 2022 through 2026 for the following dam-related activities:   (1)  Safety and environmental improvements. 
+ (2)  Backlogged operations and maintenance activities.   (3)  Upgrades, efficiency, flexibility, and capacity improvements. 
+ (4)  Deployment of innovative technologies.   (5)  Evaluation to address disposition to appropriately direct expenditures. 
+ (6)  None of the funds authorized under this section shall have to be recouped by the Bureau of Indian Affairs.   (e)  United States Geological Survey  There are authorized to be appropriated $5,000,000 for fiscal year 2022 to complete the assessments contained in sections 401 and 402. 
+ (f)  Interagency cooperation  The Secretary of each agency included in this section, or their designee, shall meet annually to ensure investments are coordinated to improve river health, hydropower output, and public safety.   (g)  Department of Energy  There is authorized to be appropriated $50,000,000 for each of fiscal years 2022 through 2026 for activities related to the following activities: 
+ (1)  An assessment of the Nation’s dam infrastructure under section 401(b).   (2)  Research, development, and deployment to support— 
+ (A)  development of innovative waterpower technologies;   (B)  development of technology to improve retrofitting and rehabilitating hydropower dams; and 
+ (C)  enhancements to hydropower’s ability to support grid resilience. 
+ 

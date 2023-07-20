@@ -1,0 +1,30 @@
+
+ 1.  Short title This Act may be cited as the  Insulin Access for All Act of 2021 .
+  2.  Eliminating cost sharing with respect to coverage of insulin as a covered part D drug under the Medicare program or as a covered outpatient drug under the Medicaid program   (a)  Medicare   (1)  Elimination of cost sharing for insulin and certain associated medical supplies furnished to part D eligible individuals Section 1860D–2 of the Social Security Act ( 42 U.S.C. 1395w–102 ) is amended—
+ (A)  in subsection (b)—   (i) in paragraph (1)(A), by striking  The coverage  and inserting  Subject to paragraph (8), the coverage ;
+ (ii)  in paragraph (2)—   (I) in subparagraph (A), by inserting after  Subject to subparagraphs (C) and (D)  the following:  and paragraph (8) ;
+ (II) in subparagraph (C)(i), by striking  paragraph (4)  and inserting  paragraphs (4) and (8) ; and  (III) in subparagraph (D)(i), by striking  paragraph (4)  and inserting  paragraphs (4) and (8) ;
+ (iii) in paragraph (4)(A)(i), by striking  The coverage  and inserting  Subject to paragraph (8), the coverage ; and  (iv)  by adding at the end the following new paragraph: 
+
+ (8)  Elimination of cost sharing for certain covered part D drugs  The coverage does not impose any deductible, copayment, coinsurance, or other cost sharing for insulin (as described in subparagraph (B) of subsection (e)(1)) or medical supplies associated with the injection of insulin (as described in such subparagraph).  ; and   (B)  in subsection (c), by adding at the end the following new paragraph: 
+
+ (4)  Same elimination of cost sharing for certain covered part D drugs  The coverage is in accordance with subsection (b)(8).  .   (2)  Elimination of cost sharing for insulin and certain associated medical supplies furnished to part D eligible individuals who are subsidy eligible individuals Section 1860D–14(a) of the Social Security Act ( 42 U.S.C. 1395w–114(a) ) is amended—
+ (A)  in paragraph (1)—   (i)  in subparagraph (D)— 
+ (I) in clause (ii), by striking  In the case of  and inserting  Subject to subparagraph (F), in the case of ; and  (II) in clause (iii), by striking  In the case of  and inserting  Subject to subparagraph (F), in the case of ; and
+ (ii)  by adding at the end the following new subparagraph:    (F)  Elimination of cost sharing for certain covered part D drugs  Coverage that is in accordance with section 1860D–2(b)(8).  ; and 
+ (B)  in paragraph (2)—   (i) in subparagraph (D), by striking  The substitution  and inserting  Subject to subparagraph (F), the substitution ;
+ (ii) in subparagraph (E), by inserting after  Subject to  the following:  subparagraph (F) and ; and  (iii)  by adding at the end the following new subparagraph: 
+
+ (F)  Elimination of cost sharing for certain covered part D drugs  Coverage that is in accordance with section 1860D–2(b)(8).  .   (3)  Applicability  The amendments made by this subsection shall apply with respect to insulin, and medical supplies associated with the injection of insulin, furnished on or after January 1, 2022. 
+ (b)  Medicaid 
+ (1)  In general Section 1916 of the Social Security Act ( 42 U.S.C. 1396o ) is amended—  (A)  in subsection (a)(2)— 
+ (i) in subparagraph (H), by striking  or  at the end;  (ii) in subparagraph (I), by striking  ; and  and inserting  , or ; and
+ (iii)  by adding at the end the following new subparagraph:    (J)  insulin furnished as a covered outpatient drug (as defined in section 1927(k)(2)) and medical supplies associated with the injection of such insulin; and  ; and 
+ (B)  in subsection (b)(2)—   (i) in subparagraph (H), by striking  or  at the end;
+ (ii) in subparagraph (I), by striking  ; and  and inserting  , or ; and  (iii)  by adding at the end the following new subparagraph: 
+
+ (J)  insulin furnished as a covered outpatient drug (as defined in section 1927(k)(2)) and medical supplies associated with the injection of such insulin; and  .   (2)  Alternative cost sharing limitation Section 1916A(c)(2) of the Social Security Act ( 42 U.S.C. 1396o–1(c)(2) ) is amended by adding at the end the following new subparagraph:
+
+ (D)  Nonapplicability of cost sharing to insulin  In no case may the cost sharing under paragraph (1)(A) apply with respect to insulin furnished as a covered outpatient drug (as defined in section 1927(k)(2)) and medical supplies associated with the injection of such insulin.  .   (3)  Effective date   (A)  In general  Subject to subparagraph (B), the amendments made by this subsection shall apply with respect to covered outpatient drugs furnished on or after January 1, 2022. 
+ (B)  Exception for State legislation In the case of a State plan under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq. ) that the Secretary of Health and Human Services determines requires State legislation in order for the respective plan to meet any requirement imposed by amendments made by this subsection, the respective plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet such an additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of the session shall be considered to be a separate regular session of the State legislature. 
+ 

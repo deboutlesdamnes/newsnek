@@ -1,0 +1,27 @@
+
+ 1.  Short title This Act may be cited as the  Political Appointments Inclusion and Diversity Act . 
+  2.  Demographic data on political appointees   (a)  In general Subchapter I of  chapter 33  of title 5, United States Code, is amended by adding at the end the following:
+
+ 3330f.  Availability of demographic data on political appointees 
+ (a)  Publication 
+ (1)  In general  Not less frequently than one year after the date of enactment of this section and not less than annually thereafter, the Director of the Office of Personnel Management, in coordination with the White House Office of Presidential Personnel, shall publish a report on the public website of the Office that contains summary level information on the demographics of appointees.   (2)  Data  Any report published under paragraph (1) shall provide such information in a structured data format that is searchable, sortable, and downloadable, makes use of common identifiers wherever possible, and contains current and historical data regarding such information. 
+ (b)  Contents 
+ (1)  In general  Each report published under subsection (a) shall include self-identified data on race, ethnicity, tribal affiliation, gender, disability, sexual orientation, veteran status, and whether the appointee is over the age of 40 with respect to each type of appointee. Such a report shall allow for users of the Office’s website to view the type of appointee by agency or component, along with these self-identified data, alone and in combination, to the greatest level detail possible without allowing the identification of individual appointees.    (2)  Option to not specify  When collecting each category of data described in paragraph (1), each appointee shall be allowed an option to not specify with respect to any such category. 
+ (3)  Consultation  The Director of the Office of Personnel Management shall consult with the Committee on Oversight and Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate regarding reports published under this section and the information in such reports to determine whether the intent of this section is being fulfilled and if additional information or other changes are needed for such reports.   (c)  Definitions  In this section— 
+ (1) the term  agency  means—  (A)  any Executive agency, the United States Postal Service, and the Postal Regulatory Commission; 
+ (B)  the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, and the Library of Congress; and   (C)  the Executive Office of the President and any component within such Office (including any successor component), including— 
+ (i)  the Council of Economic Advisors;   (ii)  the Council on Environmental Quality; 
+ (iii)  the National Security Council;   (iv)  the Office of the Vice President; 
+ (v)  the Office of Policy Development;   (vi)  the Office of Administration; 
+ (vii)  the Office of Management and Budget;   (viii)  the Office of the United States Trade Representative; 
+ (ix)  the Office of Science and Technology Policy;   (x)  the Office of National Drug Control Policy; and 
+ (xi)  the White House Office, including the White House Office of Presidential Personnel;   (2) the term  appointee —
+ (A)  means an individual serving in a policy and supporting position at an agency; and   (B)  includes an individual serving in such a position temporarily in an acting capacity in accordance with— 
+ (i) sections 3345 through 3349d (commonly referred to as the  Federal Vacancies Reform Act of 1998 );  (ii)  any other statutory provision described in section 3347(a)(1); or 
+ (iii)  a Presidential appointment described in section 3347(a)(2); and   (3) the term  policy and supporting position  means—
+ (A)  a position that requires appointment by the President, by and with the advice and consent of the Senate;   (B)  a position that requires or permits appointment by the President or Vice President, without the advice and consent of the Senate; 
+ (C)  a position occupied by a limited term appointee, limited emergency appointee, or noncareer appointee in the Senior Executive Service, as defined under paragraphs (5), (6), and (7), respectively, of section 3132(a);   (D)  a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, or any successor regulation; 
+ (E)  a position in the Senior Foreign Service; and   (F)  any other position classified at or above level GS–14 of the General Schedule (or equivalent) that is excepted from the competitive service by law because of the confidential or policy-determining nature of the position duties.  
+ . 
+ (b)  Clerical amendment The table of sections for subchapter I of  chapter 33  of title 5, United States Code, is amended by adding at the end the following:    3330f. Availability of demographic data on political appointees.  . 
+ 

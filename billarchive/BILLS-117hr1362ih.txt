@@ -1,0 +1,19 @@
+
+ 1.  Short title This Act may be cited as the  Broadening Online Opportunities through Simple Technologies Act  or the  BOOST Act .
+  2.  Broadband Internet communications signal booster credit   (a)  In general Subpart C of part IV of subchapter A of  chapter 1  of the Internal Revenue Code of 1986 is amended by inserting before section 37 the following new section:
+
+ 36C.  Broadband internet communications signal booster credit 
+ (a)  In general  In the case of an individual who elects the application of this section, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 75 percent of so much of the qualified signal booster expenditures of the taxpayer for the taxable year as does not exceed $400.   (b)  Qualified signal booster expenditures  For purposes of this section— 
+ (1)  In general The term  qualified signal booster expenditures  means amounts paid or incurred by the taxpayer for the purchase of any communications signal booster for use by the taxpayer in a principal residence (within the meaning of section 121) of the taxpayer which is located in an unserved area.  (2)  Communications signal booster The term  communications signal booster  means a device the first use of which is with the taxpayer and that receives a wireless signal, or a commercial mobile data service (as defined in section 6001 of the Middle Class Tax Relief and Job Creation Act of 2012 ( 47 U.S.C. 1401 )) signal—
+ (A)  in order to increase the strength or range of such signal, and   (B)  in connection with retransmitting a broadband internet access service signal.  
+ (3)  Unserved area The term  unserved area  means an area eligible for funding under phase 1 or phase 2 of the Rural Digital Opportunity Fund established by the Federal Communications Commission in the Report and Order in the matter of Rural Digital Opportunity Fund and Connect America Fund that was adopted by the Commission on January 30, 2020 (FCC 20–5).  (4)  Broadband internet access service The term  broadband internet access service  has the meaning given such term in section 8.1(b) of title 47, Code of Federal Regulations (or any successor regulation).
+ (c)  Credit allowed for only 1 taxable year  An election by the taxpayer to have this section apply may not be made for any taxable year if such an election is in effect for the taxpayer for any preceding taxable year.   (d)  Regulations and guidance  The Secretary shall, in consultation with the Federal Communications Commission, prescribe such regulations, and provide such other guidance, as may be necessary to carry out the purposes of this section. 
+ (e)  Termination  This section shall not apply to any amounts paid or incurred in any taxable year beginning after December 31, 2025. 
+ .   (b)  Clerical amendment  The table of sections for subpart C of part IV of subchapter A of chapter 1 of such Code is amended by inserting before the item relating to section 26 the following new item: 
+
+
+ Sec. 36C. Broadband internet communications signal booster credit.  . 
+ (c)  Conforming amendment Section 1324(b) of title 31, United States Code, is amended by inserting  36C,  after  36B, .  (d)  Effective date  The amendments made by this section shall apply to taxable years beginning after December 31, 2020. 
+
+ 3.  Sense of Congress  It is the sense of the Congress that the Federal Communications Commission should establish maps of areas eligible for funding under phase 2 of the Rural Digital Opportunity Fund as expeditiously as possible. 
+ 

@@ -1,0 +1,13 @@
+
+ 1.  Short title This Act may be cited as the  No Duplicate PPP Loans Act of 2021 .
+  2.  Ineligible duplicate loans under the paycheck protection program   (a)  In general Section 7A of the Small Business Act ( 15 U.S.C. 636m ) is amended by adding to the end the following new subsection:
+
+ (m)  Ineligible duplicate loans  Any borrower that knowingly and willfully submits false information for the purposes of obtaining a covered loan under section 7(a)(36) shall be required to repay any amount of such covered loan.  .   (b)  Guidance  Not later than 10 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall issue guidance to carry out the amendments made by this Act. 
+
+ 3.  Report on ineligible duplicate loans 
+ (a)  Report to Congress Not later than 1 week after the date of the enactment of this Act, and weekly thereafter until the last day of the covered period (as defined in section 7(a)(36)(A) of the Small Business Act ( 15 U.S.C. 636(a)(36)(A) ), the Administrator of the Small Business Administration shall submit to the Committees on Banking, Housing, and Urban Affairs and Small Business and Entrepreneurship of the Senate, and the Committees on Financial Services and Small Business of the House of Representatives, a report on ineligible duplicate loans (as described under section 7A(m) of the Small Business Act, as added by this Act) that includes—  (1)  the number of attempted applications for such ineligible duplicate loans; 
+ (2)  the number of processed applications for such ineligible duplicate loans;   (3)  dollars disbursed for such ineligible duplicate loans; and 
+ (4)  actions taken by the Administrator to—   (A)  review potential disbursements for such ineligible duplicate loans; 
+ (B)  recover improper disbursements for such ineligible duplicate loans;   (C)  strengthen technical systems to ensure the detection of such ineligible duplicate loan applications; and 
+ (D)  provide guidance to lenders on such ineligible duplicate loan applications.   (b)  Publication  Not later than 7 days after the date on which the Administrator submits a report required under subsection (a), the Administrator shall publish such report on a website of the Small Business Administration. 
+

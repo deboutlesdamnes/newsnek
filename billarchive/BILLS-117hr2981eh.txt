@@ -1,0 +1,42 @@
+
+ 1.  Short title This Act may be cited as the  Suicide Prevention Lifeline Improvement Act of 2021 .
+  2.  Suicide Prevention Lifeline   (a)  Plan Section 520E–3 of the Public Health Service Act ( 42 U.S.C. 290bb–36c ) is amended—
+ (1)  by redesignating subsection (c) as subsection (e); and   (2)  by inserting after subsection (b) the following: 
+
+ (c)  Plan 
+ (1)  In general  For purposes of maintaining the suicide prevention hotline under subsection (b)(2), the Secretary shall develop and implement a plan to ensure the provision of high-quality service.   (2)  Contents  The plan required by paragraph (1) shall include the following: 
+ (A)  Quality assurance provisions, including—   (i)  clearly defined and measurable performance indicators and objectives to improve the responsiveness and performance of the hotline, including at backup call centers; and 
+ (ii)  quantifiable timeframes to track the progress of the hotline in meeting such performance indicators and objectives.   (B)  Standards that crisis centers and backup centers must meet— 
+ (i)  to participate in the network under subsection (b)(1); and   (ii)  to ensure that each telephone call, online chat message, and other communication received by the hotline, including at backup call centers, is answered in a timely manner by a person, consistent with the guidance established by the American Association of Suicidology or other guidance determined by the Secretary to be appropriate. 
+ (C)  Guidelines for crisis centers and backup centers to implement evidence-based practices including with respect to followup and referral to other health and social services resources.   (D)  Guidelines to ensure that resources are available and distributed to individuals using the hotline who are not personally in a time of crisis but know of someone who is. 
+ (E)  Guidelines to carry out periodic testing of the hotline, including at crisis centers and backup centers, during each fiscal year to identify and correct any problems in a timely manner.   (F)  Guidelines to operate in consultation with the State department of health, local governments, Indian tribes, and tribal organizations. 
+ (3)  Initial plan; updates  The Secretary shall—   (A) not later than 6 months after the date of enactment of the  Suicide Prevention Lifeline Improvement Act of 2021 , complete development of the initial version of the plan required by paragraph (1), begin implementation of such plan, and make such plan publicly available; and
+ (B)  periodically thereafter, update such plan and make the updated plan publicly available.  .   (b)  Transmission of data to CDC Section 520E–3 of the Public Health Service Act ( 42 U.S.C. 290bb–36c ) is amended by inserting after subsection (c) of such section, as added by subsection (a) of this section, the following:
+
+ (d)  Transmission of data to CDC  The Secretary shall formalize and strengthen agreements between the National Suicide Prevention Lifeline program and the Centers for Disease Control and Prevention to transmit any necessary epidemiological data from the program to the Centers, including local call center data, to assist the Centers in suicide prevention efforts.  .   (c)  Authorization of appropriations Subsection (e) of section 520E–3 of the Public Health Service Act ( 42 U.S.C. 290bb–36c ) is amended to read as follows:
+
+ (e)  Authorization of appropriations 
+ (1)  In general  To carry out this section, there are authorized to be appropriated $50,000,000 for each of fiscal years 2022 through 2024.   (2)  Allocation  Of the amount authorized to be appropriated by paragraph (1) for each of fiscal years 2022 through 2024, at least 80 percent shall be made available to crisis centers.  . 
+
+ 3.  Pilot program on innovative technologies 
+ (a)  Pilot program 
+ (1)  In general  The Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, shall carry out a pilot program to research, analyze, and employ various technologies and platforms of communication (including social media platforms, texting platforms, and email platforms) for suicide prevention in addition to the telephone and online chat service provided by the Suicide Prevention Lifeline.   (2)  Authorization of appropriations  To carry out paragraph (1), there is authorized to be appropriated $5,000,000 for the period of fiscal years 2022 and 2023. 
+ (b)  Report  Not later than 24 months after the date on which the pilot program under subsection (a) commences, the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, shall submit to the Congress a report on the pilot program. With respect to each platform of communication employed pursuant to the pilot program, the report shall include—   (1)  a full description of the program; 
+ (2)  the number of individuals served by the program;   (3)  the average wait time for each individual to receive a response; 
+ (4)  the cost of the program, including the cost per individual served; and   (5)  any other information the Secretary determines appropriate. 
+
+ 4.  HHS study and report  Not later than 24 months after the Secretary of Health and Human Services begins implementation of the plan required by section 520E–3(c) of the Public Health Service Act, as added by section 2(a)(2) of this Act, the Secretary shall—   (1)  complete a study on— 
+ (A)  the implementation of such plan, including the progress towards meeting the objectives identified pursuant to paragraph (2)(A)(i) of such section 520E–3(c) by the timeframes identified pursuant to paragraph (2)(A)(ii) of such section 520E–3(c); and   (B)  in consultation with the Director of the Centers for Disease Control and Prevention, options to expand data gathering from calls to the Suicide Prevention Lifeline in order to better track aspects of usage such as repeat calls, consistent with applicable Federal and State privacy laws; and 
+ (2)  submit a report to the Congress on the results of such study, including recommendations on whether additional legislation or appropriations are needed. 
+  5.  GAO study and report   (a)  In general  Not later than 24 months after the Secretary of Health and Human Services begins implementation of the plan required by section 520E–3(c) of the Public Health Service Act, as added by section 2(a)(2) of this Act, the Comptroller General of the United States shall— 
+ (1)  complete a study on the Suicide Prevention Lifeline; and   (2)  submit a report to the Congress on the results of such study. 
+ (b)  Issues To be studied  The study required by subsection (a) shall address—   (1)  the feasibility of geolocating callers to direct calls to the nearest crisis center; 
+ (2)  operation shortcomings of the Suicide Prevention Lifeline;   (3)  geographic coverage of each crisis call center; 
+ (4)  the call answer rate of each crisis call center;   (5)  the call wait time of each crisis call center; 
+ (6)  the hours of operation of each crisis call center;   (7)  funding avenues of each crisis call center; 
+ (8)  the implementation of the plan under section 520E–3(c) of the Public Health Service Act, as added by section 2(a) of this Act, including the progress towards meeting the objectives identified pursuant to paragraph (2)(A)(i) of such section 520E–3(c) by the timeframes identified pursuant to paragraph (2)(A)(ii) of such section 520E–3(c); and   (9)  service to individuals requesting a foreign language speaker, including— 
+ (A)  the number of calls or chats the Lifeline receives from individuals speaking a foreign language;   (B)  the capacity of the Lifeline to handle these calls or chats; and 
+ (C)  the number of crisis centers with the capacity to serve foreign language speakers, in house.   (c)  Recommendations  The report required by subsection (a) shall include recommendations for improving the Suicide Prevention Lifeline, including recommendations for legislative and administrative actions. 
+
+ 6.  Definition In this Act, the term  Suicide Prevention Lifeline  means the suicide prevention hotline maintained pursuant to section 520E–3 of the Public Health Service Act ( 42 U.S.C. 290bb–36c ).
+ 

@@ -1,0 +1,41 @@
+
+ 1.  Short title This Act may be cited as the  Protecting Our Communities Act .
+  2.  Firearm assembly kits considered to be firearms  Section 921(a) of title 18, United States Code, is amended— 
+ (1) in paragraph (3), by striking  or (D) any destructive device  and inserting  ; (D) any destructive device; or (E) any combination of parts designed or intended for use in converting any device into a firearm and from which a firearm may be readily assembled ; and  (2)  in paragraph (4)— 
+ (A) by adding  and  at the end of subparagraph (A);  (B) by striking  and  at the end of subparagraph (B) and inserting a period; and
+ (C)  by striking subparagraph (C). 
+  3.  Law enforcement protection   (a)  Armor-Piercing, concealable weapons   (1)  In general  Section 5845(a)  of the Internal Revenue Code of 1986 is amended by striking  and (8)  and inserting  ; (8) an armor-piercing, concealable weapon; and (9) .
+ (2)  Armor-piercing, concealable weapon  Section 5845 of such Code is amended by adding at the end the following new subsection:    (n)  Armor-Piercing, concealable weapon The term  armor-piercing, concealable weapon  means any weapon or device capable of being concealed on the person and from which can be discharged through the energy of an explosive any of the following rounds of ammunition:
+ (1)  .450 Bushmaster.   (2)  5.56mm (including the 5.56x45mm NATO and .223 Remington). 
+ (3)  7.62mm (including the 7.62x39mm, .308 Winchester, 7.62 NATO, 7.62x51mm NATO, .30 carbine, 7.62x33mm, or .300 AAC Blackout).   (4)  .50 BMG. 
+ (5)  5.7x28mm.   (6)  Any other round determined by the Bureau of Alcohol, Tobacco, Firearms and Explosives to be capable of, when fired by such weapon or device, penetrating the standard body armor worn by law enforcement officers.  . 
+ (3)  Conforming amendments 
+ (A)  Section 921(a) of title 18, United States Code, is amended by adding at the end the following:    (36) The term  armor-piercing, concealable weapon  has the meaning given such term in section 5845(n) of the National Firearms Act ( 26 U.S.C. 5845(n) ). . 
+ (B)  Section 922 of title 18, United States Code, is amended—   (i) in subsection (a)(4), by striking  or short-barreled rifle,  and inserting  short-barreled rifle, or armor-piercing, concealable weapon, ; and
+ (ii) in subsection (b)(4) by striking  or short-barreled rifle,  and inserting  short-barreled rifle, or armor-piercing, concealable weapon, .  (C) Section 924(c)(1)(B)(i) of title 18, United States Code, is amended by inserting  armor-piercing, concealable weapon,  after  short-barreled shotgun, .
+ (4)  Effective date 
+ (A)  In general  The amendments made by this subsection shall take effect on the date of the enactment of this Act.   (B)  Application to possession on date of enactment Notwithstanding subparagraph (A), any person on the date of the enactment of this Act possessing a device described in  section 5845(a)(8)  of the Internal Revenue Code of 1986 (as amended by this section) shall, not later than the end of the 18th month beginning after the date of the enactment of this Act, register such weapon or device with the Secretary of the Treasury and include with such registration the information required under section 5841(a) of such Code. Such registration shall become a part of the National Firearms Registration and Transfer Record required to be maintained by such section.
+ (b)  Use of National Firearms Act taxes Part I of subchapter B of  chapter 53  of the Internal Revenue Code of 1986 is amended redesignating section 5849 as section 5850 and by inserting after section 5847 the following new section:   5849.  Use of taxes  To carry out the purposes of this chapter and to supplement appropriations otherwise made available for such purposes, the Bureau of Alcohol, Tobacco, Firearms and Explosives may spend the amounts collected under subchapter A for fiscal years 2021 and thereafter. 
+ . 
+
+ 4.  Reporting of background check denials 
+ (a)  Reporting to State authorities 
+ (1)  In general  Chapter 44  of title 18, United States Code, is amended by inserting after  section 925A  the following:   925B.  Reporting of background check denials to State authorities   (a)  In general If the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ( 18 U.S.C. 922  note) provides a notice pursuant to section 922(t) of this title that the receipt of a firearm by a person would violate subsection (g) or (n) of section 922 of this title or State law, the Attorney General shall, in accordance with subsection (b) of this section—
+ (1)  report to the law enforcement authorities of the State where the person sought to acquire the firearm and, if different, the law enforcement authorities of the State of residence of the person—   (A)  that the notice was provided; 
+ (B)  of the specific provision of law that would have been violated;   (C)  of the date and time the notice was provided; 
+ (D)  of the location where the firearm was sought to be acquired; and   (E)  of the identity of the person; and 
+ (2)  where practicable, report the incident to local law enforcement authorities and State and local prosecutors in the jurisdiction where the firearm was sought and in the jurisdiction where the person resides.   (b)  Requirements for report  A report is made in accordance with this subsection if the report is made within 24 hours after the provision of the notice described in subsection (a), except that the making of the report may be delayed for so long as is necessary to avoid compromising an ongoing investigation. 
+ (c)  Rule of construction  Nothing in subsection (a) shall be construed to require a report with respect to a person to be made to the same State authorities that originally issued the notice with respect to the person. 
+ .   (2)  Clerical amendment  The table of sections for such chapter is amended by inserting after the item relating to section 925A the following: 
+
+
+ 925B. Reporting of background check denials to State authorities.  . 
+ (b)  Annual report to Congress 
+ (1)  In general  Chapter 44  of title 18, United States Code, as amended by subsection (a)(1) of this section, is amended by inserting after section 925B the following:   925C.  Annual report to Congress  Not later than 1 year after the date of the enactment of this section, and annually thereafter, the Attorney General shall submit to the Congress a report detailing the following, broken down by Federal judicial district: 
+ (1)  With respect to each category of persons prohibited by section 922(g) from receiving or possessing a firearm who are so denied a firearm—   (A)  the number of cases referred to the Bureau of Alcohol, Tobacco, Firearms and Explosives; 
+ (B)  the number of cases with respect to which an investigation was opened by a field division of the Bureau of Alcohol, Tobacco, Firearms and Explosives;   (C)  the number of arrests made; and 
+ (D)  the number of convictions obtained by Federal authorities in connection with the denial.   (2)  The number of background check notices reported to State authorities pursuant to section 925B (including the number of the notices that would have been so reported but for section 925B(c)). 
+ . 
+ (2)  Clerical amendment  The table of sections for such chapter, as amended by subsection (a)(2) of this section, is amended by inserting after the item relating to section 925B the following:     925C. Annual report to Congress.  . 
+  5.  Codification of regulations classifying bump stocks as machineguns The amendments to parts 447, 478, and 479 of title 27, Code of Federal Regulations, made by the final rule promulgated by the Department of Justice, entitled  Bump-Stock-Type Devices , and published December 26, 2018 (83 Fed. Reg. 66514), shall have the force and effect of law.
+

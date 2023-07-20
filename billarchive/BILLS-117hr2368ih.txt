@@ -1,0 +1,94 @@
+
+ 1.  Short title This Act may be cited as the  Conceding Our Veterans’ Exposures Now And Necessitating Training Act of 2021  or the  COVENANT Act of 2021 .
+  2.  Presumptions of service connection for illnesses associated with exposure to certain airborne hazards   (a)  Sense of Congress  It is the sense of Congress that— 
+ (1)  as in past theaters of operation, Southwest Asia and its supporting theaters of operation pose numerous natural and manmade hazards that negatively affect the health outcomes of individuals serving in these foreign environments;   (2)  toxic exposures from burn pits, oil well fires, and other regional airborne hazards increase the potential for immediate and long-term illnesses to emerge among members of the Armed Forces; and 
+ (3)  legislation is necessary—   (A)  to confront the scientific challenge of producing clear associations between in-theater toxic exposures and the illnesses confronting veterans who served in Southwest Asia and beyond; 
+ (B)  to address the insufficient data hindering the Secretary of Veterans Affairs, the Secretary of Defense, and relevant partners from reaching proactive determinations regarding such associations; and   (C)  to improve evaluations associated with claims for disability compensation that relate to toxic exposure. 
+ (b)  Presumptions of service connection 
+ (1)  In general Subchapter II of  chapter 11  of title 38, United States Code, is amended by adding at the end the following new section:   1119.  Presumptions of service connection for illnesses associated with exposure to certain airborne hazards   (a)  Presumptions   (1)  For the purposes of section 1110 of this title, and subject to section 1113 of this title, an illness specified in subsection (d) becoming manifest in a covered veteran to a degree of 10 percent or more shall be considered to have been incurred in or aggravated during active military, naval, or air service, notwithstanding that there is no record of evidence of such illness during a period of such service. 
+ (2)  A covered veteran shall be presumed to have been exposed to an airborne hazard specified in subsection (e) during service of the covered veteran specified in subsection (f)(1) unless there is affirmative evidence to establish that the covered veteran was not exposed to any such airborne hazard during such service.   (b)  Medical examinations and opinions   (1)  If a covered veteran submits to the Secretary a claim for disability compensation for a diagnosed illness not specified in subsection (d) that includes an assertion that the illness is related to airborne hazard exposure (regardless of whether such assertion identifies a particular airborne hazard specified in subsection (e)) or open burn pit exposure, and the evidence of record is insufficient to establish service connection for the illness, the Secretary shall provide to the covered veteran a medical examination and obtain a medical opinion under section 5103A of this title to determine whether the illness is at least as likely as not caused by an airborne hazard specified in subsection (e). 
+ (2)  In carrying out paragraph (1), if the diagnosed illness for which a claim is submitted involves a sign or symptom specified in section 1117(g) of this title, the Secretary shall ensure that—   (A)  the medical examination provided pursuant to such paragraph includes an evaluation of each corresponding body part or system that relates to the sign or symptom; and 
+ (B)  the sign or symptom is considered in making the determination under such paragraph.   (3)  In providing the Secretary with a medical opinion pursuant to paragraph (1), a medical provider shall consider— 
+ (A)  the total potential exposure to airborne hazards through any service of the covered veteran specified in subsection (f)(1) and the synergistic effect of combined airborne hazards, including airborne hazards that involve exposure through inhalation, dermal exposure, or ingestion; and   (B)  the medical evidence and scientific reporting available at the time of the determination under paragraph (1). 
+ (c)  Relationship to presumptions for illnesses associated with service in Persian Gulf  A determination that a presumption of service connection is not warranted pursuant to this section shall not preclude the Secretary from—   (1)  determining that a presumption of service connection is warranted pursuant to section 1118 of this title; or 
+ (2)  paying compensation to the veteran (or dependency and indemnity compensation to a survivor of the veteran) pursuant to section 1117 of this title.   (d)  Illnesses  The illnesses specified in this subsection are the following: 
+ (1)  Asthma that was diagnosed after a period of service specified in subsection (f)(1).   (2)   (A)  Head cancer of any type. 
+ (B)  Neck cancer of any type.   (C)  Respiratory cancer of any type. 
+ (D)  Gastrointestinal cancer of any type.   (E)  Reproductive cancer of any type. 
+ (F)  Lymphoma cancer of any type.   (G)  Lymphomatic cancer of any type. 
+ (H)  Kidney cancer.   (I)  Brain cancer. 
+ (J)  Melanoma.   (3)  Chronic obstructive pulmonary disease. 
+ (4)  Chronic bronchitis.   (5)  Constrictive bronchiolitis or obliterative bronchiolitis. 
+ (6)  Emphysema.   (7)  Granulomatous disease. 
+ (8)  Interstitial lung disease.   (9)  Pleuritis. 
+ (10)  Pulmonary fibrosis.   (11)  Sarcoidosis. 
+ (12)  Rhinitis.   (13)  Sinusitis. 
+ (e)  Airborne Hazards  The airborne hazards specified in this subsection are the following:   (1)  Particulate matter, including the following: 
+ (A)  PM-10.   (B)  PM-2.5. 
+ (2)  Polycyclic aromatic hydrocarbons (PAHs), including the following:   (A)  Acenaphthene. 
+ (B)  Acenaphthylene.   (C)  Anthracene. 
+ (D)  Benzo(a)anthracene.   (E)  Benzo(a)pyrene. 
+ (F)  Benzo(b)fluoroanthene.   (G)  Benzo(g,h,i)perylene. 
+ (H)  Benzo(k)fluoroanthene.   (I)  Chrysene. 
+ (J)  Dibenze(a,h)anthracene.   (K)  Fluoranthene. 
+ (L)  Fluorene.   (M)  Indeno(1,2,3-cd)pyrene. 
+ (N)  Naphthalene.   (O)  Phenanthrene. 
+ (P)  Pyrene.   (3)  Volatile organic compounds, including the following: 
+ (A)  Acetone.   (B)  Acrolein. 
+ (C)  Benzene.   (D)  Carbon disulfide. 
+ (E)  Chlorofluoromethane.   (F)  Chloromethane. 
+ (G)  Ethylbenzene.   (H)  Hexane. 
+ (I)  Hexachlorobutadiene.   (J)  M/p-Xylene. 
+ (K)  Methylene chloride.   (L)  Pentane. 
+ (M)  Propylene.   (N)  Styrene. 
+ (O)  Toluene.   (4)  Toxic organic halogenated dioxins and furans (dioxins), including the following: 
+ (A)  1,2,3,4,6,7,8-HPCDD.   (B)  1,2,3,4,6,7,8-HPCDF. 
+ (C)  1,2,3,4,7,8,9-HPCDF.   (D)  1,2,3,4,7,8-HXCDD. 
+ (E)  1,2,3,4,7,8-HXCDF.   (F)  1,2,3,6,7,8-HXCDD. 
+ (G)  1,2,3,6,7,8-HXCDF.   (H)  1,2,3,7,8,9-HXCDD. 
+ (I)  1,2,3,7,8,9-HXCDF.   (J)  1,2,3,7,8-PECDD. 
+ (K)  1,2,3,7,8-PECDF.   (L)  2,3,4,6,7,8-HXCDF. 
+ (M)  2,3,4,7,8-PECDF.   (N)  2,3,7,8-TCDD. 
+ (O)  2,3,7,8-TCDF.   (P)  Octachlorodibenzodioxin. 
+ (Q)  Octachlorodibenzofuran.   (5)  Any other airborne hazard determined relevant by the Secretary. 
+ (f)  Definitions  In this section:   (1) The term  covered veteran  means any veteran who—
+ (A)  on or after August 2, 1990, performed active military, naval, or air service while assigned to a duty station in—   (i)  Bahrain; 
+ (ii)  Iraq;   (iii)  Kuwait; 
+ (iv)  Oman;   (v)  Qatar; 
+ (vi)  Saudi Arabia;    (vii)  Somalia; or 
+ (viii)  United Arab Emirates; or   (B)  on or after September 11, 2001, performed active military, naval, or air service while assigned to a duty station in— 
+ (i)  Afghanistan;   (ii)  Djibouti; 
+ (iii)  Egypt;   (iv)  Jordan; 
+ (v)  Lebanon;   (vi)  Syria; 
+ (vii)  Yemen;   (viii)  Uzbekistan; 
+ (ix)  the Philippines; or   (x)  any other country determined relevant by the Secretary. 
+ (2) The term  illness  means a disease or other condition that affects the health of an individual on a basis other than an acute or transient basis.  (3) The term  open burn pit  has the meaning given such term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 ( Public Law 112–260 ;  38 U.S.C. 527  note), except that the area of land may be located in any country specified in paragraph (1) or determined relevant by the Secretary pursuant to such paragraph.
+ (g)  Effective date of award  The effective date of an award under this section shall be determined in accordance with section 5110 of this title, except that such date may not be earlier than the date of the enactment of this Act. 
+ .   (2)  Clerical amendment The table of contents at the beginning of  chapter 11  of title 38, United States Code, is amended by inserting after the item relating to  section 1118  the following new item:
+
+
+ 1119. Presumptions of service connection for illnesses associated with exposure to certain airborne hazards.  . 
+ (3)  Implementation deadline  The Secretary of Veterans Affairs shall implement the amendments made by this subsection by not later than 18 months after the date of the enactment of this Act.   (c)  Relationship to presumptions for illnesses associated with service in the Persian Gulf Subchapter II of  chapter 11  of title 38, United States Code, is further amended—
+ (1)  in section 1117, by adding at the end the following new subsection:    (i)  A denial or termination of compensation paid to a veteran pursuant to this section shall not preclude the Secretary from determining that a presumption of service connection is warranted pursuant to section 1119 of this title.  ; and 
+ (2)  in section 1118, by adding at the end the following new subsection:    (f)  A determination that a presumption of service connection is not warranted pursuant to this section shall not preclude the Secretary from determining that a presumption of service connection is warranted pursuant to section 1119 of this title.  . 
+ (d)  Pending cases 
+ (1)  Authority to stay  The Secretary may stay a claim described in paragraph (2) until the date on which the Secretary commences the implementation of section 1119 of title 38, United States Code (as added by subsection (b)).   (2)  Claims described  A claim described in this subparagraph is a claim for disability compensation that is pending at the Veterans Benefits Administration, the Board of Veterans' Appeals, the Court of Appeals for Veterans Claims, or the Court of Appeals for the Federal Circuit, on or after the date of the enactment of this Act and before the date on which the Secretary commences the implementation of such section 1119 and that relates to— 
+ (A)  the service and illnesses covered by such section 1119; or   (B)  the service covered by such section 1119 and a diagnosed illness asserted in the claim to be related to airborne hazard exposure, regardless of whether such assertion identifies a particular airborne hazard, or open burn pit exposure. 
+ (e)  Standard medical training curriculum 
+ (1)  Curriculum  Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall establish a standard medical training curriculum for all medical providers conducting examinations and providing opinions under section 1119(b) of title 38, United States Code (as added by subsection (b)), that provides a standardized approach to conducting and providing examinations and opinions in accordance with such section.   (2)  Elements  The Secretary shall include in the curriculum under paragraph (1) an instruction for each medical provider conducting an examination or providing an opinion to consider the following: 
+ (A)  Relevant medical and scientific literature.   (B)  Available information on the proximity, intensity, and frequency of exposure of the individual to airborne hazards. 
+ (C)  Medically unexplained chronic multisymptom illnesses.   (D)  All competent and credible evidence of record. 
+ (3)  Submission to Congress  Prior to implementation of the curriculum under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate such curriculum.   (f)  Definitions  In this section: 
+ (1) The terms  illness  and  open burn pit  have the meaning given such terms in section 1119 of title 38, United States Code (as added by subsection (b)).  (2) The term  medically unexplained chronic multisymptom illness  has the meaning given such term in section 1117(a)(2)(B) of title 38, United States Code.
+
+ 3.  Eligibility for care and services based on potential exposure to certain airborne hazards 
+ (a)  Eligibility for care and services  Section 1710(e) of title 38, United States Code, is amended—   (1)  in paragraph (1), by adding at the end the following new subparagraph: 
+
+ (G) 
+ (i)  Subject to paragraph (2), a covered veteran is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any diagnosed illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to the service specified in section 1119(f)(1) of this title.   (ii) In this subparagraph, the term  covered veteran  has the meaning given such term in section 1119 of this title. ; and 
+ (2) in paragraph (2)(B), by striking  or (F)  and inserting  (F), or (G) .  (b)  Resource assessment and report   (1)  Initial assessment and report  Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall— 
+ (A)  complete an assessment to determine—   (i)  the personnel and material resources necessary to implement the amendments made by subsection (a); and 
+ (ii)  the total number of covered veterans, as such term is defined in section 1119 of title 38, United States Code (as added by section 2(b)), who receive hospital care or medical services furnished by the Secretary under chapter 17 of such title, disaggregated by priority group specified in section 1705(a) of such title; and   (B)  submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate an initial report containing the findings of the assessment completed under subparagraph (A), including a specific determination as to whether the Department has the personnel and material resources necessary to implement the amendments made by subsection (a). 
+ (2)  Subsequent reports  If the initial report submitted under paragraph (1)(B) contains a determination that the Department does not have the personnel or material resources necessary to implement the amendments made by subsection (a), beginning not later than 90 days after the submission of such initial report and every 90 days thereafter until the effective date specified in subsection (c), the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a subsequent report containing an update to such determination.   (c)  Effective date  The amendments made by subsection (a) shall take effect on the date that is the earlier of the following: 
+ (1)  The date on which the Secretary submits a report under subsection (b) containing a determination that the Department has the personnel and material resources necessary to implement such amendments.   (2)  The date that is 18 months after the date of the enactment of this Act. 
+

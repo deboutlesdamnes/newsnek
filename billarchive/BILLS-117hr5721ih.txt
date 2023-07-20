@@ -1,0 +1,68 @@
+
+ 1.  Short title This Act may be cited as the  VA Infrastructure Powers Exceptional Research Act of 2021  or the  VIPER Act of 2021 .
+  2.  Inapplicability of Paperwork Reduction Act   (a)  In general  Chapter 1  of title 38, United States Code, is amended by adding at the end the following new section:
+
+ 120.  Inapplicability of Paperwork Reduction Act Subchapter I of  chapter 35  of title 44, United States Code (commonly known as the  Paperwork Reduction Act ) shall not apply to research activities of the Department, including activities under subchapter V of chapter 73.
+ .   (b)  Clerical amendment  The table of sections at the beginning of such chapter is amended by adding at the end the following new item: 
+
+
+ 120. Inapplicability of Paperwork Reduction Act.  . 
+
+ 3.  Research and Development 
+ (a)  Office of Research and Development  Chapter 73  of title 38, United States Code, is amended by adding at the end the following new subchapter:   V  Research and Development   7381.  Office of Research and Development   (a)  Office of Research and Development There is in the Veterans Health Administration an Office of Research and Development (in this section referred to as the  Office ).
+ (b)  Purposes  The function of the Office is to serve veterans through a full spectrum of research (including pre-clinical, clinical, and health systems science), technology transfer, and application.   (c)  Chief Research and Development Officer  The head of the Office is the Chief Research and Development Officer. 
+ (d)  Organization and personnel  The Office shall be organized in such manner, and its personnel shall perform such duties and have such titles, as the Secretary may prescribe. 
+  7382.  Research personnel   (a)  Waiver of Intergovernmental Personnel Act Mobility Program limits The Secretary may waive the limit on the period and number of assignments required under section 3372(a) of title 5 with respect to an individual who performs research for the Department under the mobility program under subchapter VI of chapter 33 of such title (commonly referred to as the  Intergovernmental Personnel Act Mobility Program ). 
+ (b)  Outside earned income for research for the Department 
+ (1)  Compensation from a nonprofit corporation established under subchapter IV of this chapter, or a university affiliated with the Department, may be paid, without regard to section 209 of title 18, to an employee described in paragraph (2), for research conducted pursuant to section 7303 of this title if—   (A)  the research has been approved in accordance with procedures prescribed by the Under Secretary for Health; 
+ (B)  the employee conducts research under the supervision of personnel of the Department; and   (C)  the Secretary agreed to the terms of such compensation in writing. 
+ (2)  An employee described in this subsection is an employee who has an appointment within the Department, whether with or without compensation, and without regard to the source of such compensation. 
+ .   (b)  Clerical amendment  The table of sections at the beginning of such chapter is amended by adding at the end the following: 
+
+
+ Subchapter V—Research and Development  
+ 7381. Office of Research and Development.  
+ 7382. Research personnel.  . 
+ (c)  Service of incumbent  The individual serving as the Chief Research and Development Officer of the Office of Research and Development as of the date of the enactment of this Act may continue to serve as such Chief Research and Development Officer commencing as of that date, without further appointment. 
+  4.  Expansion of hiring authorities for certain classes of research occupations Section 7401(3) of title 38, United States Code, is amended by inserting  statisticians, economists, informaticists, data scientists, and  after  blind rehabilitation outpatient specialists, .
+
+ 5.  Other transaction authority 
+ (a)  Authority  The Secretary of Veterans Affairs may enter into transactions (other than contracts, cooperative agreements, and grants) with nontraditional contractors to carry out extramural basic or applied research.   (b)  Requirements  The Secretary may enter into a transaction under subsection (a) to carry out extramural basic or applied research if each of the following criteria are met: 
+ (1)  The research is not duplicative of other research being conducted by the Department of Veterans Affairs under another program or through a contract, cooperative agreement, or grant.   (2)  The senior procurement executive has determined that entering into the transaction to carry out the research is appropriate. 
+ (3)  The transaction will not exceed $5,000,000 (including all options), unless the senior procurement executive determines that exceeding such amount is appropriate.   (4)  Not less than 33 percent of the total cost of the research (regardless of the percentage of such total cost for which the transaction is funding) is paid for, or provided through nonmonetary contributions, by sources other than the Federal Government, unless the senior procurement executive determines that— 
+ (A)  meeting such threshold for non-Federal sources of funding or contributions is not possible; and   (B)  carrying out the research without meeting such threshold is in the public interest. 
+ (c)  Provision of information 
+ (1)  Congress 
+ (A)  Notification  Not later than 30 days after the date on which the Secretary enters into a transaction under this section, the Secretary shall notify the appropriate congressional committees of such transaction, including a copy of each determination made under subsection (b).   (B)  By request  Upon the request of an appropriate congressional committee, the Secretary shall submit to the appropriate congressional committees a copy of a transaction under this section or performance or financial information relating to such transaction. 
+ (2)  Comptroller General of the United States  With respect to transactions entered into under this section, the Secretary shall ensure that, upon request, the Comptroller General of the United States may examine records of any party to the transaction or any entity that participates in the performance of the transaction if such records are generated in the performance of the transaction or are directly related to the transaction.   (d)  Regulations  The Secretary shall prescribe regulations to carry out this section. 
+ (e)  Termination  The authority to enter into transactions under this section shall terminate on the date that is three years after the date of the enactment of this Act.   (f)  Definitions  In this section: 
+ (1) The term  appropriate congressional committees  means the following:  (A)  The Committees on Veterans’ Affairs of the House of Representatives and the Senate. 
+ (B)  The Subcommittees on Military Construction, Veterans’ Affairs, and Related Agencies of the Committees on Appropriations of the House of Representatives and the Senate.   (2) The term  entity  means a for-profit corporation, partnership, or single proprietorship, non-profit organization, or university organized and having principal operations in the United States.
+ (3) The terms  extramural budget ,  research , and  research and development  have the meaning given those terms in subsection (e) of section 9 of the Small Business Act ( 15 U.S.C. 638 ).  (4) The term  nontraditional contractor  means an entity that is not currently performing and has never performed any contract or subcontract for any department or agency of the Federal Government.
+ (5) The term  senior procurement executive  means the official of the Department of Veterans Affairs designated under section 1702(c) of title 41, United States Code.
+  6.  Authorizing a career development award grant program for medical research at R3 research institutions   (a)  Grants authorized   (1)  In general  The CRDO may establish a grant program— 
+ (A)  to fund research related to health care furnished by the Secretary of Veterans Affairs;   (B)  that is a CDA–1 level award of the career development program of the Department of Veterans Affairs; and 
+ (C)  modelled on the Historically Black Colleges and Universities Research Scientist Training Program of the Department.   (2)  Eligible recipients  The CRDO may award a grant under this section— 
+ (A)  to an individual—   (i)  employed by an R3 research institution; and 
+ (ii)  whom the CRDO determines is in the early stage of a career as a scientist; and   (B)  based on a peer review process. 
+ (3)  Use of funds  A grantee under this section may use the grant amount to conduct research related to health care furnished by the Secretary of Veterans Affairs.   (4)  Meetings  As a condition of a grant under this section, a grantee shall periodically meet with researchers and administrators at a medical center of the Department of Veterans Affairs, located near the R3 research institution that employs such grantee, to discuss research described in paragraph (1). 
+ (b)  Regulations  If the CRDO establishes a grant program under this section, the CRDO shall prescribe regulations regarding—   (1)  the evaluation of applications for grants under the program; and 
+ (2)  administration of the program.   (c)  CRDO defined The term  CRDO  means the Chief Research and Development Officer of the Office of Research and Development of the Department of Veterans Affairs.
+
+ 7.  Comptroller General study on dedicated research time for certain personnel of the Department of Veterans Affairs 
+ (a)  Study  The Comptroller General of the United States shall conduct a study on the amount of time dedicated for research for clinician-scientists appointed by the Secretary of Veterans Affairs.   (b)  Elements  The study under subsection (a) shall include the following: 
+ (1)  A review of the policies and practices of the Department of Veterans Affairs regarding the time dedicated for research for the personnel specified in subsection (a).   (2)  An assessment of the effect of such policies and practices on the following:  
+ (A)  The recruitment and retention efforts of the Department.   (B)  The productivity of the personnel specified in subsection (a) with respect to research. 
+ (C)  The efficient use of resources available for research on issues relating to veterans’ health. 
+  8.  Clerical amendment Section 704 of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019 ( Public Law 116–171  ( 38 U.S.C. 7303  note)) is amended as follows:
+ (1) In the section heading, by striking  research  and inserting  clinical .  (2)  In subsection (a)— 
+ (A) by striking  research  and inserting  clinical ; and  (B) by striking  accredited .
+ (3)  In subsection (b)—   (A)  in paragraph (1)— 
+ (i) by striking  identify accredited  and inserting  designate ; and  (ii) by striking  research  and inserting  trials ; and
+ (B) in paragraph (2), by striking  its accreditation  and inserting  such designation .  (4)  In subsection (c)— 
+ (A)  in paragraph (1)—   (i) by inserting  commercial  before  institutional ;
+ (ii) by inserting  and central Federal agency institutional review boards  before  used by the Department ; and  (iii) by striking  , including central institutional review boards and commercial institutional review boards  and inserting  in clinical investigations (as that term is defined in section 50.3 of title 21, Code of Federal Regulations, or successor regulation) ; and
+ (B)  in paragraph (2)—   (i) in subparagraph (A), by striking  an  and inserting  such ;
+ (ii)  in subparagraph (B)—   (I) by inserting  commercial or central Federal agency  before  institutional review board ;
+ (II) by striking  or institutional review boards  and inserting  or boards ; and  (iii) in subparagraph (C) by inserting  (as determined by the Secretary)  after  submission .
+

@@ -1,0 +1,64 @@
+
+ 1.  Short title This Act may be cited as the  Coronavirus Frontline Workers Fair Pay Act .
+  2.  Hazard payments for high-risk health care workers and essential workers   (a)  General rule  The Secretary shall make hazard payments in accordance with this section for high-risk health care workers and essential workers. 
+ (b)  Fund 
+ (1)  Establishment For the purpose of making payments under this section, not later than 45 days after the date of the enactment of this Act, the Secretary of the Treasury shall establish an account in the Treasury to be known as the  Coronavirus Essential and High-Risk Health Care Workers Hazard Payment Fund  (hereafter in this section referred to as the  Fund ).  (2)  Appropriations to fund  There is appropriated, out of amounts in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2021, such sums as may be necessary to carry out this Act. 
+ (c)  Hazard payments 
+ (1)  In general  The Secretary shall make hazard payments from the Fund each coronavirus hazard payment quarter in accordance with this subsection.   (2)  Entitlement to hazard payment  Individuals who are high-risk health care workers and essential workers as determined pursuant to this Act are entitled to hazard payments under this Act. 
+ (3)  High-risk health care worker  For purposes of this section—   (A)  Determination of payment  In the case of a high-risk health care worker, the hazard payment for such worker shall be the aggregate of $18.50 for each hour in which the worker provided high-risk health care services (excluding hours provided as telework hours). 
+ (B)  Limitations 
+ (i)  Aggregate amount  The aggregate amount allowed for all payments to a high-risk health care worker pursuant to paragraph (1) shall not exceed—   (I)  $35,000 in the case of a worker whose annual earned income for calendar year 2020 is $200,000 or less; and 
+ (II)  $15,000 in the case of a worker whose estimated annual earned income for calendar year 2020 is greater than $200,000.   (ii)  Weekly limit  The aggregate number of hours taken into account for purposes of subparagraph (A) shall not exceed 40 hours per week. 
+ (C)  High-risk health care worker defined 
+ (i)  In general The term  high-risk health care worker  means—  (I)  an individual working in a health care occupation, including— 
+ (aa)  physicians;   (bb)  physician assistants; 
+ (cc)  podiatrists;   (dd)  respiratory therapists; 
+ (ee)  registered nurses;   (ff)  nurse anesthetists; 
+ (gg)  nurse midwives;   (hh)  nurse practitioners; 
+ (ii)  anesthesiologists;   (jj)  dermatologists; 
+ (kk)  emergency medicine physicians;   (ll)  family medicine physicians; 
+ (mm)  general internal medicine physicians;   (nn)  neurologists; 
+ (oo)  obstetricians and gynecologists;   (pp)  pediatricians, general; 
+ (qq)  physicians, pathologists;   (rr)  psychiatrists; 
+ (ss)  radiologists;   (tt)  physicians, all other; 
+ (uu)  ophthalmologists, except pediatric;   (vv)  orthopedic surgeons, except pediatric; 
+ (ww)  pediatric surgeons;   (xx)  surgeons, all other; 
+ (yy)  medical and clinical laboratory technologists;   (zz)  medical and clinical laboratory technicians; 
+ (aaa)  cardiovascular technologists and technicians;   (bbb)  diagnostic medical sonographers; 
+ (ccc)  nuclear medicine technologists;   (ddd)  radiologic technologists and technicians; 
+ (eee)  magnetic resonance imaging technologists;   (fff)  medical dosimetrists; 
+ (ggg)  emergency medical technicians;   (hhh)  paramedics; 
+ (iii)  pharmacy technicians;   (jjj)  psychiatric technicians; 
+ (kkk)  surgical technologists;   (lll)  licensed practical and licensed vocational nurses; 
+ (mmm)  surgical assistants;   (nnn)  home health aides; 
+ (ooo)  personal care aides;   (ppp)  nursing assistants; 
+ (qqq)  orderlies; and   (rrr)  psychiatric aides; and 
+ (II)  an individual who is providing or supporting the provision of health care services for the treatment of COVID–19, as determined by the Secretary.   (4)  Essential worker  For purposes of this section— 
+ (A)  Determination of payment  In the case of an essential worker who is not a high-risk health care worker under subsection (c)(3), the hazard payment for such individual shall be the aggregate of $13.00 for each hour in which the essential worker provided essential services (excluding hours provided as telework hours).   (B)  Limitations   (i)  Aggregate amount  The aggregate amount allowed for all payments to an essential worker under subparagraph (A) shall not exceed— 
+ (I)  $25,000 in the case of an essential worker whose annual earned income from providing essential services for calendar year 2020 is $200,000 or less; and   (II)  $5,000 in the case of an essential worker whose annual earned income from providing essential services for calendar year 2020 is greater than $200,000. 
+ (ii)  Weekly limit  The aggregate number of hours taken into account for purposes of subparagraph (A) shall not exceed 40 hours per week.   (C)  Essential worker Not later than 30 days after the date of the enactment of this Act, the Director of the Cybersecurity and Infrastructure Security Agency shall issue a definition of essential worker for the purposes of making payments to essential workers under this section. In defining the term essential worker, the Cybersecurity and Infrastructure Security Agency shall take into consideration its April 17th  Advisory Memorandum on Identification of Essential Critical Infrastructure Workers During COVID–19 Response  and shall solicit public input.
+ (D)  Coronavirus hazard payment quarter 
+ (i)  In general The term  coronavirus hazard payment quarter  means 90-day periods in calendar years 2020 and 2021 beginning on or after January 27, 2020, except for the last 90-day period (which will end on the last day a COVID–19 Public Health Emergency is in effect in the location of employment (as determined by the Secretary of the Treasury in consultation with the Secretary of Health and Human Services) or on September 30, 2021, whichever occurs first).  (ii)  Special rule before enactment  For purposes of making payments under this section, the period beginning on January 27, 2020, and ending with the date of the enactment of this Act shall be treated as one quarter and payments shall be made a lump sum. 
+ (5)  Process 
+ (A)  Submission to Secretary  Beginning not later than 60 days after the date of the enactment of this Act, each employer shall submit to the Secretary for each coronavirus hazard payment quarter—   (i)  a projection of payments of the regular rate of pay for such quarter for employees who are high-risk health care workers or essential workers; 
+ (ii)  a certification of such payments for the preceding quarter;   (iii)  the rate of pay for each employee who is a high-risk health care worker or an essential worker; and 
+ (iv)  the number of hours each employee provided health care service or essential service each week.   (B)  Development of process and evaluation criteria  For purposes of this section, the Secretary shall develop— 
+ (i)  a process for submitting applications under this section, including a process for correcting such applications; and   (ii)  a criteria for evaluating each such application. 
+ (d)  Distribution of payments 
+ (1)  Payments to employer  Beginning not later than 75 days after the date of the enactment of this Act, the Secretary shall make coronavirus hazard payments under subsection (c)(1) on the basis of projections under subparagraph (A)(i)(I) of such subsection and shall make appropriate adjustments for any surplus or deficit certified for the previous quarter under subparagraph (A)(i)(II) of such subsection.   (2)  Payments to employee   (A)  In general  From amounts paid to the employer under paragraph (1), the employer shall make the appropriate hazard payment to each employee who is a high-risk health care worker or an essential worker not later than 14 days after the date the employer receives such amounts, taking into account the appropriate adjustments for any surplus or deficit certified for the previous quarter. 
+ (B)  Requirement to provide hazard payments  The requirement to make the appropriate hazard payment under subparagraph (A) shall apply to an employer after the employer receives the amounts paid to the employer pursuant to paragraph (1).   (3)  Treatment of self-employed individuals For purposes of this section, an individual with net earnings from self-employment (as defined in  section 1402(a)  of the Internal Revenue Code of 1986) shall be treated as an employer, except that an employer (within the meaning of  section 401(c)(5)  of the Internal Revenue Code of 1986) may make an election (in such manner as the Secretary may provide) to be the employer for such purposes.
+ (4)  Treatment of employers  An employer may not receive a payment under this section unless the employer has entered into an agreement in writing with the Secretary—   (A)  to make the payments described in paragraph (2); and 
+ (B)  to be bound by such other terms and conditions as the Secretary may prescribe.   (e)  Special rules relating to payments  For purposes of this section— 
+ (1)  Payments not treated as compensation  Payments made under subsection (c) shall not be—   (A)  treated as compensation with respect to wages, overtime, or any other form of remuneration under the Fair Labor Standards Act of 1938; and 
+ (B)  taken into account for purposes of determinations with respect to benefits provided by the employer.   (2)  Coronavirus hazard payments disregarded in administration of Federal programs  Notwithstanding any other provision of law, a coronavirus hazard payment made to any individual under this title shall not be taken into account as income, and shall not be taken into account as resources for a period of 12 months from receipt, for purposes of determining the eligibility of such individual for benefits or assistance (or the amount or extent of benefits or assistance) under any Federal program or under any State or local program financed in whole or in part with Federal funds. 
+ (f)  Protections 
+ (1)  In general  With respect to an employee who is a high-risk health care worker or an essential worker, an employer may not—   (A)  reduce the regular rate of pay of the employee because the employee received a hazard payment under this section; or 
+ (B)  discriminate against the employee because the employee received a hazard payment under this section, including terminating the employment of the employee with the intent to reinstate the employee at a regular rate of pay that is lower than the previous rate of pay.   (2)  Enforcement under Fair Labor Standards Act An employer shall be treated as violating section 6 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 206 ) if the employer—
+ (A)  does not make a hazard payment under subsection (d)(2);   (B)  violates a provision under paragraph (1); or 
+ (C)  does not abide by a term, condition, or regulation imposed by the Secretary under subsections (c), (d), and (h).   (g)  Other definitions and special rules  For purposes of this section— 
+ (1)  Earned income The term  earned income  has the meaning given such term by  section 32(c)  of the Internal Revenue Code of 1986.  (2)  Employee The term  employee  has the meaning given the term under section 3 of the of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 203 ), which includes Federal employees employed by the Transportation Security Administration of the Department of Homeland Security.
+ (3)  Employer The term  employer  has the meaning given the term under section 3 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 203 ).  (4)  Regular rate The term  regular rate  has the meaning given the term under section 7 of the Fair Labor Standards Act of 1938 ( 29 U.S.C. 207 ).
+ (5)  Secretary The term  Secretary  means the Secretary of the Treasury.  (h)  Regulations  The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out this section, including— 
+ (1)  guidance with respect to maintaining employee records;   (2)  applying this section with respect to individuals who are compensated on other than an hourly basis; 
+ (3)  a procedure for ensuring that former employees are entitled to payments under this section; and   (4)  beginning after December 31, 2020, a procedure for resolving any overpayments and underpayments under this section to individuals by the return of tax due for taxable years beginning in 2020. 
+

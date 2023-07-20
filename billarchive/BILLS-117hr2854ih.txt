@@ -1,0 +1,12 @@
+
+ 1.  Short title This Act may be cited as the  Utility Resilience and Reliability Act .
+  2.  Proposed reliability standard Section 215(d) of the Federal Power Act ( 16 U.S.C. 824o(d) ) is amended by adding at the end the following new paragraph:
+
+ (7)  Resilience of bulk-Power system 
+ (A)  In general  Not later than 1 year after the date of enactment of this paragraph, the Electric Reliability Organization shall file with the Commission a proposed reliability standard that addresses the resilience of the bulk-power system.   (B)  Regional differences  The proposed reliability standard filed under subsection (A) shall take into account regional differences. 
+ (C)  Resilience defined In this paragraph, the term  resilience  means the ability to—  (i)  prepare for and adapt to changing conditions; and 
+ (ii)  withstand and rapidly recover from disruptions, including disruptions caused by extreme weather conditions.  . 
+  3.  Electric grid resilience education program   (a)  In general  Not later than 1 year after the date of enactment of this section, the Secretary of Energy shall establish a program to provide information and recommendations to States and electric utilities on how to improve the resilience of electric grids. 
+ (b)  Electric utility defined The term  electric utility  has the meaning given such term in section 3 of the Federal Power Act ( 16 U.S.C. 796 ). 
+  4.  Report on planned electric power outages due to extreme weather conditions  Not later than 1 year after the date of enactment of this section, the Secretary of Energy shall submit to Congress a report, and publish such report on the website of the Department of Energy, that provides recommendations on how to minimize the need for, effects of, and duration of planned electric power outages that are due to extreme weather conditions, including such conditions under which the National Weather Service issues a red flag warning. 
+

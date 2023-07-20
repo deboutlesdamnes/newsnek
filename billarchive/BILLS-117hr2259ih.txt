@@ -1,0 +1,117 @@
+
+ 1.  Short title This Act may be cited as the  National Manufacturing Guard Act .
+  2.  Sense of Congress  It is the sense of Congress that— 
+ (1)  the COVID–19 pandemic has—   (A)  exposed significant vulnerabilities in the manufacturing sector of the economy of the United States; and 
+ (B)  led to equipment shortages, supply chain bottlenecks, and workforce misalignments;   (2)  the vulnerabilities described in paragraph (1) go largely unnoticed until those vulnerabilities are revealed by crises, such as disease outbreaks, cyber attacks, natural disasters, national security threats, wars, trade wars, embargoes, and other emergencies; 
+ (3)  the crises described in paragraph (2) produce valuable information, the collection and analysis of which can inform policies to fortify the economy of the United States against future threats;   (4)  the responsibility for promoting the economic resilience of the United States lies with the Federal Government, which must not miss the opportunity presented by the COVID–19 pandemic to learn from that crisis and prepare the United States to better withstand future emergencies; and 
+ (5)  the Federal Government has an interest in increasing educational and training opportunities for underrepresented minorities, women, and veterans.  
+  3.  Definitions  In this Act: 
+ (1)  Council The term  Council  means the Supply Chain Advisory Council established under section 5.  (2)  Crisis The term  crisis  means a situation that threatens the ability of manufacturers and supply chains in the United States to provide sufficient critical resources.
+ (3)  Critical resources The term  critical resources —  (A)  means supplies that— 
+ (i)  are life-sustaining or otherwise critical to the national security of the United States; and   (ii)  may be subject to national shortages during a pandemic, cyber attack, natural disaster, or other catastrophic event; and 
+ (B)  includes items classified as—   (i)  personal protective equipment; 
+ (ii)  pharmaceuticals or biopharmaceuticals;   (iii)  medical supplies; or 
+ (iv)  other resources to be determined by the Director, in consultation with the Council, which may include healthcare-related supplies or other supplies.   (4)  Data Exchange The term  Data Exchange  means the Supply Chain Data Exchange established under section 7.
+ (5)  Director The term  Director  means the Director of the Office.  (6)  Guard The term  Guard  means the National Manufacturing Guard established under section 6.
+ (7)  Host organization The term  host organization  means an entity that—  (A)  offers an apprenticeship with respect to which there is a registered apprenticeship program (as defined in section 29.2 of title 29, Code of Federal Regulations, or any successor regulation); and 
+ (B)  is—   (i)  a business; 
+ (ii)  an industry consortium or trade group;   (iii)  a Manufacturing USA institute; 
+ (iv)  an MEP center;   (v)  an academic or research institute, or 
+ (vi)  a labor organization.   (8)  Industry partner The term  industry partner  means a manufacturer, producer, supplier, or distributor of a critical resource.
+ (9)  Manufacturing Corps The term  Manufacturing Corps  means the Manufacturing Corps established under section 8.  (10)  Manufacturing USA institute The term  Manufacturing USA institute  means an institute described in section 34(d) of the National Institute of Standards and Technology Act ( 15 U.S.C. 278s(d) ).
+ (11)  MEP center The term  MEP center  has the meaning given the term  Center  in section 25(a) of the National Institute of Standards and Technology Act ( 15 U.S.C. 278k(a) ).  (12)  Office The term  Office  means the Office of Supply Chain Preparedness established under section 4.
+ (13)  Registered apprenticeship The term  registered apprenticeship —  (A)  means an apprenticeship with a host organization for which there is a registration of an apprenticeship agreement (as defined in section 29.2 of title 29, Code of Federal Regulations, or any successor regulation); and 
+ (B)  does not include an apprenticeship under an Industry-Recognized Apprenticeship Program under subpart B of part 29 of title 29, Code of Federal Regulations, or any successor regulation.   (14)  Secretary The term  Secretary  means the Secretary of Commerce.
+
+ 4.  Office of Supply Chain Preparedness 
+ (a)  Establishment  There is established within the Department of Commerce the Office of Supply Chain Preparedness.   (b)  Director  The Office shall be headed by a Director, to be appointed by the Secretary. 
+ (c)  Purpose  The purpose of the Office shall be to—   (1)  establish and manage the partnerships of the Federal Government with industry partners and State, local, territorial, and Tribal governments to respond to crises; 
+ (2)  develop capabilities to—   (A)  determine which resources qualify as critical resources; 
+ (B)  make the supply of critical resources more resilient; and   (C)  coordinate the distribution of critical resources to areas that have the greatest needs during a crisis; and 
+ (3)  develop contingency plans to ensure a robust supply chain response for potential crises.   (d)  Duties  The Director shall— 
+ (1)  determine—   (A)  the responsibilities of members of the Council; and 
+ (B)  the procedures governing the service of members of the Council;   (2)  establish procedures relating to the operation of the Council, including the frequency with which the Council meets; 
+ (3)  identify critical vulnerabilities in the supply chains of critical resources, including vulnerabilities exacerbated by the COVID–19 pandemic;   (4)  coordinate the preparedness and response of the supply chains of critical resources during a crisis by— 
+ (A)  coordinating with Federal agencies;   (B)  managing partnerships of the Federal Government with industry partners; and 
+ (C)  directing the Guard;   (5)  direct the establishment and operations of the Guard, the Data Exchange, and the Manufacturing Corps; and 
+ (6)  maintain collaborations with industry partners that contribute to the Data Exchange.   (e)  Reports   (1)  Report on Director  Not later than 30 days after the date of enactment of this Act, the Secretary shall submit to Congress a report relating to the appointment of the Director. 
+ (2)  Report on council  Not later than 180 days after the date of enactment of this Act, the Director shall submit to Congress a report that—   (A)  identifies the members of the Council; and 
+ (B)  states, with respect to the members of the Council—   (i)  the respective areas of expertise of the members; and 
+ (ii)  the expected roles of the members.   (3)  Report on activities  Not later than 1 year after the date of enactment of this Act, the Director shall submit to Congress a report that includes— 
+ (A)  a summary of the activities of the Council and the Office; and   (B)  a preliminary plan for— 
+ (i)  the establishment of the Guard, the Data Exchange, and the Manufacturing Corps, including cost estimates, preliminary timelines, and expected resource needs; and   (ii)  carrying out the responsibilities of the Director under sections 6, 7, and 8. 
+ (4)  Annual report  Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Council shall submit to Congress a report that includes—   (A)  a list of resources that the Director has determined to be critical resources and the justification for the determination; 
+ (B)  a list of manufacturing and supply chain vulnerabilities identified under subsection (d)(3); and   (C)  recommendations for mitigating the vulnerabilities listed under subparagraph (B). 
+ (f)  Staff  The Director may appoint staff to manage the operations of the Office and the Council. 
+  5.  Supply Chain Advisory Council   (a)  Establishment  The Secretary shall establish the Supply Chain Advisory Council. 
+ (b)  Purpose  The purpose of the Council is to advise the Director on manufacturing and supply chain logistics that would be necessary to direct the response of the supply chain of the United States during a crisis.   (c)  Composition   (1)  In general  The Council shall be comprised of the following members: 
+ (A)  A representative of the Department of Health and Human Services, who shall be appointed by the Secretary of Health and Human Services.   (B)  A representative of the Department of Homeland Security, who shall be appointed by the Secretary of Homeland Security. 
+ (C)  A representative of the Department of Defense, who shall be appointed by the Secretary of Defense.   (D)  A representative of the Department of Energy, who shall be appointed by the Secretary of Energy. 
+ (E)  A representative of the Department of Transportation, who shall be appointed by the Secretary of Transportation.   (F)  A representative of the United States International Trade Commission, who shall be appointed by the Chair of the United States International Trade Commission. 
+ (G)  A representative of the Department of State, who shall be appointed by the Secretary of State.   (H)  A representative of the Office of the Director of National Intelligence, who shall be appointed by the Director of National Intelligence. 
+ (I)  The director of a Manufacturing USA institute, who shall be appointed by the Secretary.   (J)  The director of an MEP center, who shall be appointed by the Secretary. 
+ (K)  A representative of State governments, who shall be appointed by the Secretary in, consultation with Governors of States.   (L)  Not less than 1 representative of a local, territorial, or Tribal government, who shall be appointed by the Secretary. 
+ (M)  Not less than 3 manufacturing or supply chain experts, who shall be appointed by the Secretary and represent each of, respectively—   (i)  private industry; 
+ (ii)  labor organizations; and   (iii)  research institutions. 
+ (2)  Additional members  The Secretary may appoint additional members to the Council on a rotating or permanent basis.   (3)  Status  The members of the Council appointed under subparagraphs (K), (L), and (M) of paragraph (1) shall serve as special Government employees (as defined in section 202 of title 18, United States Code). 
+ (d)  Duties  The Council shall—   (1)  convene according to a schedule established by the Director; and 
+ (2)  advise the Director on carrying out the duties of the Director under section 4(d).   (e)  Permanence  Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council. 
+
+ 6.  National Manufacturing Guard 
+ (a)  Establishment 
+ (1)  In general  There is established within the Office the National Manufacturing Guard.   (2)  Eligibility requirements  The Director shall establish eligibility requirements for membership in the Guard, which may include— 
+ (A)  experience or expertise in manufacturing or logistics;   (B)  holding a senior-level position in a manufacturing or supply chain organization; and 
+ (C)  direct experience in manufacturing and supply chain operations.   (3)  Size and organization  The Director, in consultation with the Council, shall establish— 
+ (A)  the size of the Guard;   (B)  the organization of the Guard; and 
+ (C)  the target skillsets of members of the Guard.   (b)  Training   (1)  In general  The Director, in consultation with the Council, shall establish a training program for members of the Guard to ensure the readiness of members to perform the duties of the Guard. 
+ (2)  Remote training  A portion of the training program established under paragraph (1) may be conducted remotely to prepare for crises that may prevent the Guard from convening in a single physical location.   (3)  Crisis simulation  Not less frequently than annually, the Director shall hold a full-time training program during which each member of the Guard, the Director, and the Council simulate a response to a crisis over a period of not less than 7 days. 
+ (c)  Activation 
+ (1)  In general  The Director may activate members of the Guard—   (A)  during a crisis for the purpose of providing expertise and labor to promote the ability of the United States to procure, manufacture, and distribute critical resources; and 
+ (B)  to perform full-time training programs under subsection (b)(3).   (2)  Full-time service  Upon an activation under subparagraph (A), the Director may compel members of the Guard to active, full-time service. 
+ (3)  Duties  If the Director activates the Guard under paragraph (1), the Guard may—   (A)  share best practices across industry partners; 
+ (B)  coordinate the manufacturing efforts of industry partners;   (C)  provide technical assistance to industry partners; 
+ (D)  procure raw materials or supplies;   (E)  facilitate communications between industry partners; 
+ (F)  provide logistics support in the delivery of critical resources;   (G)  identify suppliers of scarce critical resources; 
+ (H)  coordinate between private industry, MEP centers, and Manufacturing USA institutes; and   (I)  conduct any other activities that help provide critical resources to areas of greatest need, as determined by the Director, in consultation with the Council. 
+ (d)  Compensation  The Director may provide compensation to members of the Guard at rates to be fixed by the Secretary without regard to any other law, including any provision of title 5, United States Code, and any rule issued under that title.   (e)  Participation incentives  The Director may establish incentives to encourage industry partners to employ members of the Guard. 
+ (f)  Office of Personnel Management  The Secretary, in coordination with the Director of the Office of Personnel and Management, shall establish procedures with respect to the appointment of members of the Guard and the conditions of employment with respect to those members. 
+  7.  Supply chain data exchange   (a)  Establishment   (1)  In general  Not later than 1 year after the date of enactment of this Act, the Director shall develop a plan to establish the Supply Chain Data Exchange. 
+ (2)  Purpose  The purpose of the Data Exchange shall be to—   (A)  allow the Director to— 
+ (i)  take account of—   (I)  critical resources that have been recently manufactured, imported, or distributed; and 
+ (II)  the ability of industry partners to manufacture critical resources; and   (ii)  plan the flow of critical resources during a crisis; 
+ (B)  provide the Director with an understanding of the volume of critical resources provided by industry partners to enable the Director to develop plans to—   (i)  direct the Guard to assist industry partners in increasing the production capacity of critical resources; 
+ (ii)  alleviate supply chain bottlenecks;   (iii)  allocate supplies of the Federal Government to the areas of greatest need; and 
+ (iv)  coordinate between manufacturers and distributors to mitigate scarcity of critical resources;   (C)  allow the Director to predict local or national scarcity of critical resources for the duration of a crisis; and 
+ (D)  enable the Director to direct the Guard or collaborate with industry partners or Federal agencies to mitigate scarcities of critical resources.   (3)  Contents  The Director shall— 
+ (A)  solicit data from industry partners relating to the manufacturing output of critical resources; and   (B)  add the data received under subparagraph (A) to the Data Exchange. 
+ (4)  Data privacy 
+ (A)  In general  In consultation with industry partners, the Director may develop security measures that are necessary to protect information in the Data Exchange, including protocols to ensure that, depending on the nature of information in the Data Exchange, only individuals with the appropriate level of authorization may access the information.   (B)  Information disclosure   (i)  In general  The Director may withhold information obtained from an industry partner under this section only to the extent permitted by law. 
+ (ii)  FOIA exemption  Unless the disclosure of data described in paragraph (3)(A) would be consistent with security measures developed under subparagraph (A) of this paragraph, the data shall be—   (I)  withheld from public disclosure; and 
+ (II)  exempt from disclosure under section 552(b)(3) of title 5, United States Code.   (C)  Usage agreements  The Director shall develop a usage agreement for the Data Exchange to ensure that data shared to the Data Exchange by an industry partner is— 
+ (i)  hosted securely; and   (ii)  only used for purposes agreed to in advance by the Director and the industry partner. 
+ (5)  Development 
+ (A)  In general  The Director, with the consent of a Federal agency, may use the services, equipment, personnel, and facilities of a Federal agency, with or without reimbursement, to—   (i)  develop the Data Exchange; or 
+ (ii)  identify a data exchange existing on the date of enactment of this Act that can be modified to have the capacity to host the Data Exchange required under this section that provides—   (I)  necessary functionality to the Director; and 
+ (II)  additional functionality to industry partners.   (B)  Value to participants  In order to encourage the participation of industry partners in the Data Exchange, the Director may develop a Data Exchange that provides— 
+ (i)  value to industry partners outside of a time of crisis; and   (ii)  access to aggregated data or analytics to industry partners that participate in the Data Exchange that complies with the provisions of the usage agreement developed under paragraph (4)(C). 
+ (6)  Participation incentives  The Director may establish incentives to encourage the participation and cooperation of industry partners with the Data Exchange. 
+  8.  Manufacturing Corps   (a)  Establishment  There is established within the Office the Manufacturing Corps. 
+ (b)  Duties  The Manufacturing Corps shall—   (1)  function as a workforce development program that prioritizes the training of manufacturing skills determined to be essential to the economic security of the United States by the Director and the Council; 
+ (2)  support the development of an innovative and flexible manufacturing workforce in the United States;   (3)  provide on-the-job training to members of the Manufacturing Corps; and 
+ (4)  provide a qualified base of individuals to join the Guard upon the completion of the Manufacturing Corps program.   (c)  Membership   (1)  In general  Not later than 180 days after the date of enactment of this Act, the Director shall develop criteria for membership in the Manufacturing Corps, which may include a competitive process that evaluates the dedication and enthusiasm of individuals for assisting the public during a crisis. 
+ (2)  Preference  In selecting members of the Manufacturing Corps, the Director shall give preference to an individual who is—   (A)  an underrepresented racial or ethnic minority; 
+ (B)  a woman;   (C)  a veteran (as defined in section 101 of title 38, United States Code); or 
+ (D)  a resident of an underrepresented geographic region.   (3)  Term  The term of a member in the Manufacturing Corps shall be for a period of not less than 1 year and not more than 2 years. 
+ (d)  Activities 
+ (1)  Apprenticeship 
+ (A)  In general  A member of the Manufacturing Corps shall participate in a registered apprenticeship with a host organization for a 1-year period.   (B)  Skills  A registered apprenticeship of a member of the Manufacturing Corps with a host organization shall— 
+ (i)  provide the member with fundamental skills necessary to be successful in a manufacturing or supply chain workforce;   (ii)  qualify the member as a full-time employee of the host organization; and 
+ (iii)  provide training and career development opportunities.   (2)  Training requirement   (A)  Initial training  The Director shall provide individuals who are selected as members of the Guard with initial training that— 
+ (i)  lasts for not fewer than 2, and not more than 4, weeks;   (ii)  serves as an orientation for the Guard; and 
+ (iii)  includes a survey of basic skills in preparation for a registered apprenticeship.   (B)  Periodic training  The Director shall provide regular training to members of the Manufacturing Corps that— 
+ (i)  ensures that the members have the ability to serve as effective members of the Guard; and   (ii)  enhances the ability of members to contribute to the workforce of the United States and the Guard. 
+ (3)  Compensation  The Director may provide supplemental compensation to members of the Manufacturing Corps at rates to be fixed by the Secretary without regard to any other law, including any provision of title 5, United States Code, and any rule issued under that title.    (e)  Graduation   (1)  In general  Upon the expiration of the term of a member of the Manufacturing Corps, the Director shall review the performance of the member in— 
+ (A)  the registered apprenticeship under subsection (d)(1)(A); and   (B)  the training under subsection (d)(2). 
+ (2)  Incentives  The Director may establish incentives to encourage members of the Manufacturing Corps who receive favorable reviews under paragraph (1) to join the Guard. 
+  9.  Authorization of appropriations  There are authorized to be appropriated to carry out this Act $1,000,000,000 for the 5-fiscal year period beginning with fiscal year 2021. 
+

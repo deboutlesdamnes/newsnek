@@ -1,0 +1,20 @@
+
+ 1.  Short title This Act may be cited as the  Veteran Home Energy Savings Act . 
+  2.  Enhanced loan eligibility requirements   (a)  In general  Section 3710 of title 38, United States Code, is amended— 
+ (1) in subsection (g)(3)(C), by inserting  , including with respect to the energy efficiency of the home for which the loan is to be guaranteed as described in subsection (i)  before the period; and  (2)  by adding at the end the following new subsection: 
+
+ (i) 
+ (1) 
+ (A)  Following the date on which the Secretary issues the guidance under paragraph (3), in cases where a veteran provides to the Secretary an energy efficiency report described in subparagraph (C) for a home for which a loan is to be guaranteed, the procedures established pursuant to subsection (g)(3)(C) for ascertaining the monthly income required by a veteran to meet anticipated loan payment terms shall take into consideration the estimated energy cost savings expected for the veteran for the home, including such cost savings relating to the cost of electricity, natural gas, oil, and any other fuel regularly used to supply energy to the home.   (B)  An energy efficiency report described in this subparagraph, with respect to a home for which a loan is to be guaranteed, means a report that— 
+ (i)  estimates the expected energy cost savings specific to the home, based on specific information about the home;   (ii)  is prepared in accordance with regulations prescribed by the Secretary for purposes of this subsection; and 
+ (iii)  is prepared in accordance with—   (I) the Residential Energy Service Network’s Home Energy Rating System (commonly known as  HERS ) by an individual certified by such Network; or
+ (II)  other methods determined appropriate by the Secretary, in consultation with the advisory committee under paragraph (2), including with respect to third-party quality assurance procedures.   (2)   (A)  To assist the Secretary in carrying out this subsection, the Secretary shall establish an advisory group consisting of individuals representing the interests of— 
+ (i)  mortgage lenders;   (ii)  appraisers; 
+ (iii)  energy raters and residential energy consumption experts;   (iv)  energy efficiency organizations; 
+ (v)  real estate agents;   (vi)  home builders and remodelers; 
+ (vii)  consumer advocates;   (viii)  veterans’ service organizations; and 
+ (ix)  other persons determined appropriate by the Secretary.   (B)  The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). 
+ (3)  The Secretary, in consultation with the advisory group established under paragraph (2)(A), shall ensure that the procedures described in subsection (g)(3)(C) include guidance for lenders to carry out paragraph (1) that uses clear instructions and standards.   (4)  The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection. 
+ (5)  Not later than one year after the date on which the Secretary issues the guidance under paragraph (3), and every year thereafter, the Secretary shall submit to Congress and make publicly available a report that—   (A)  enumerates the number of loans guaranteed for which a veteran provided to the Secretary an energy efficiency report, including the number of such loans for which cost savings were taken into account pursuant to paragraph (1); and 
+ (B)  of the number of loans enumerated under subparagraph (A), an enumeration of the default rates and rates of foreclosure, including how such enumeration compares with the default rates and rates of foreclosure for guaranteed loans for which no energy efficiency report is provided.  .   (b)  Clarification of requirements regarding energy efficiency standards Section 3704(f) of such title is amended by striking  such standards  and inserting the following:  the standards established under such section 109, as in effect on the date of such construction .
+

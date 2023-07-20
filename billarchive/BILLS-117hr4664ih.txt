@@ -1,0 +1,60 @@
+
+ 1.  Short title This Act may be cited as the  Forest Improvements through Research and Emergency Stewardship for Healthy Ecosystem Development and Sustainability Act  or the  FIRESHEDS Act .
+  2.  Emergency fireshed management Title VI of the Healthy Forests Restoration Act of 2003 ( 16 U.S.C. 6591 et seq. ) is amended by adding at the end the following:
+
+ 607.  Emergency fireshed management 
+ (a)  Establishment of fireshed management areas 
+ (1)  In general 
+ (A)  Joint agreements  Not later than 90 days after receiving a request from a Governor of a State, the Secretary shall enter into an agreement with such Governor to jointly—   (i)  designate 1 or more fireshed management areas within such State; and 
+ (ii)  conduct fireshed management projects in accordance with subsection (c) on such fireshed management areas.   (B)  Additional fireshed management areas  With respect to an agreement with a Governor of a State under subparagraph (A), the Secretary, if requested by such Governor, may— 
+ (i)  designate additional fireshed management areas under such agreement; and   (ii)  update such agreement to address new wildfire threats. 
+ (C)  Shared stewardship  A previously signed shared stewardship agreement between a Governor of a State and the Secretary (or an update or successor agreement to such shared stewardship agreement) may be treated as an agreement under subparagraph (A) if such Governor approves such treatment.   (2)  Designation of fireshed management areas   (A)  In general  A fireshed management area designated under an agreement under paragraph (1)— 
+ (i)  shall be—   (I)  a landscape-scale area; and 
+ (II)  identified on the date of such designation as a fireshed ranked in the top 10 percent of wildfire exposure, as determined by the most recently published models of fireshed risk exposure published by the Forest Service;    (ii)  may not overlap with any other fireshed management area; and 
+ (iii)  may contain Federal and non-Federal land.   (B)  Applicability of NEPA The designation of a fireshed management area under an agreement under paragraph (1) shall not be subject to the requirements of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq. ).
+ (b)  Stewardship and fireshed assessments 
+ (1)  In general  Not later than 90 days after entering into an agreement with a Governor of a State under subsection (a)(1), the Secretary and such Governor shall, with respect to the fireshed management areas designated under such agreement, jointly conduct a stewardship and fireshed assessment that—   (A)  identifies— 
+ (i)  using the best available data, wildfire exposure risks within each such fireshed management area, including scenario planning and wildfire hazard mapping and models; and   (ii)  each at-risk community within each fireshed management area; 
+ (B)  identifies potential fireshed management projects to be carried out in such fireshed management areas, giving priority—   (i)  primarily, to projects with the purpose of reducing threats to public health and safety from catastrophic wildfire; and 
+ (ii)  secondarily, to projects with the purpose of protecting—   (I)  critical infrastructure; 
+ (II)  wildlife habitats;   (III)  watersheds or improving water yield; or 
+ (IV)  any combination of purposes described in subclauses (I) through (III);    (C)  includes— 
+ (i)  a strategy for reducing the threat of wildfire to at-risk communities in the wildland-urban interface;   (ii)  recommended fireshed management project size limitations based on the best available data;  
+ (iii)  a timeline for the implementation of fireshed management projects; and   (iv)  long-term benchmark goals for the completion of fireshed management projects in the highest wildfire exposure areas; and 
+ (D)  shall be regularly updated based on the best available data, as determined by the Secretary.    (2)  Information improvement   (A)  Memorandums of understanding  In carrying out a stewardship and fireshed assessment under this subsection, the Secretary may enter into memorandums of understanding with other Federal agencies or departments, States, private entities, or research or educational institutions to improve, with respect to such assessment, the use and integration of— 
+ (i)  advanced remote sensing and geospatial technologies;    (ii)  statistical modeling and analysis; or 
+ (iii)  any other technology the Secretary determines will benefit the quality of information of such an assessment.   (B)  State information  To the maximum extent practicable, the Secretary shall incorporate data from State forest action plans, State wildfire risk assessments, and other State sources in conducting an assessment under paragraph (1).  
+ (c)  Fireshed management projects 
+ (1)  In general  The Secretary shall carry out fireshed management projects in fireshed management areas designated under an agreement under subsection (a)(1) in accordance with the timeline and project size limitations included in the stewardship and fireshed assessment relating to such areas under subsection (b)(1)(C).   (2)  Requirements  A fireshed management project shall— 
+ (A)  be carried out—   (i)  in accordance with paragraph (3);  
+ (ii)  in accordance with the applicable forest management plan; and   (iii)  in a manner that maximizes the retention of old-growth and large trees, to the extent that the trees promote stands that are resilient to wildfire; and 
+ (B)  be—   (i)  developed through a collaborative process; 
+ (ii) proposed by a resource advisory committee (as defined in section 201 of the Secure Rural Schools and Community Self-Determination Act of 2000 ( 16 U.S.C. 7121 )); or  (iii)  covered by a community wildfire protection plan. 
+ (3)  Authorized activities  A fireshed management project shall have the primary purpose of—   (A)  creating fuel breaks and fire breaks; 
+ (B)  conducting hazardous fuels management;   (C)  conducting prescribed burns; 
+ (D)  removing dead trees, dying trees, or trees at high-risk of dying; or   (E)  carrying out any combination of the activities described in subparagraphs (A) through (D). 
+ (4)  Categorical exclusion for fireshed management projects  Fireshed management projects under this subsection shall be—    (A) considered an action categorically excluded from the from the preparation of an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 ( 42 U.S.C. 4332 ); and
+ (B)  exempt from the special administrative review process under section 105.   (5)  Exclusions  A fireshed management project may not be carried out on lands— 
+ (A)  that are included in the National Wilderness Preservation System;   (B)  that are located within a national or State-specific inventoried roadless area established by the Secretary of Agriculture through regulation, unless— 
+ (i)  the forest management activity to be carried out under such authority is consistent with the forest plan applicable to the area; or   (ii)  the activity is allowed under the applicable roadless rule governing such lands, including— 
+ (I)  the Idaho roadless rule under subpart C of part 294 or title 36, Code of Federal Regulations;   (II)  the Colorado roadless rule under subpart D of part 294 of title 36, Code of Federal Regulations; or 
+ (III)  any other roadless rule developed after the date of the enactment of this section by the Secretary with respect to a specific State; or   (C)  on which timber harvesting for any purpose is prohibited by Federal statute. 
+ (6)  Rule of construction for certain roadless rules  Nothing in this section shall be construed to affect the roadless rules described in subclauses (I) and (II) of paragraph (5)(B)(ii).    (7)  Use of other authorities To the maximum extent practicable, the Secretary shall use existing statutory and administrative authorities, including a good neighbor agreement entered into under section 8206 of the Agricultural Act of 2014 ( 16 U.S.C. 2113a ), to carry out each fireshed management project.
+ (d)  Judicial review  Section 106 shall apply to fireshed management projects conducted under this section in the same manner as such section applies to an authorized hazardous fuels reduction project conducted under title I, except that no restraining order, preliminary injunction, or injunction pending appeal shall be issued by any court of the United States with respect to any decision to prepare or conduct a fireshed management project in the wildland-urban interface.   (e)  Report required  Not later than 2 years after the date of the enactment of this section and annually thereafter, the Secretary shall submit to Congress a report evaluating the progress and implementation of fireshed management projects under this section. 
+ (f)  Definitions  In this section:   (1)  Collaborative process The term  collaborative process  means a process relating to the management of National Forest System lands or public lands by which a project or forest management activity is developed and implemented by the Secretary through collaboration with interested persons, as described in section 603(b)(1)(C).
+ (2)  Fireshed The term  fireshed  means a landscape-scale area that faces similar wildfire threat where a response strategy could influence the wildfire outcome.  (3)  Forest plan The term  forest plan  means—
+ (A) a land use plan prepared by the Bureau of Land Management for public lands pursuant to section 202 of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1712 ); or  (B) a land and resource management plan prepared by the Forest Service for a unit of the National Forest System pursuant to section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 ( 16 U.S.C. 1604 ).
+ (4)  Hazardous fuels management The term  hazardous fuels management  means any vegetation management activities that reduce the risk of wildfire, including mechanical treatments and livestock grazing.  (5)  Public lands The term  public lands  has the meaning given that term in section 103 of the Federal Land Policy and Management Act of 1976 ( 43 U.S.C. 1702 ), except that the term includes Coos Bay Wagon Road Grant lands and Oregon and California Railroad Grant lands.
+ (6)  Resource advisory committee The term  resource advisory committee  has the meaning given that term in section 201 of the Secure Rural Schools and Community Self-Determination Act of 2000 ( 16 U.S.C. 7121 ).  (7)  Secretary The term  Secretary  means—
+ (A)  the Secretary of Agriculture, with respect to National Forest System lands; and   (B)  the Secretary of the Interior, with respect to public lands. 
+ (8)  Section 101 terms The terms  at-risk community ,  community wildfire protection plan , and  wildland-urban interface  have the meanings given such terms, respectively, in section 101. 
+ . 
+  3.  Good neighbor authority Section 8206 of the Agricultural Act of 2014 ( 16 U.S.C. 2113a ) is amended—
+ (1)  in subsection (a)(4)(A)—   (A) in clause (ii), by striking  and  at the end;
+ (B)  by redesignating clause (iii) as clause (iv);   (C)  by inserting after clause (ii) the following: 
+
+ (iii)  activities conducted under section 607 of the Healthy Forests Restoration Act of 2003;  ;   (D) in clause (iv), as so redesignated, by striking the period at the end and inserting  ; or ; and
+ (E)  by adding at the end the following:    (v)   any combination of activities specified in clauses (i) through (iv).  ; and 
+ (2)  in subsection (b)(2), by amending subparagraph (C) to read as follows:    (C)  Treatment of revenue  Funds received from the sale of timber by a Governor of a State under a good neighbor agreement shall be retained and used by the Governor— 
+ (i)  to carry out authorized restoration services under such good neighbor agreement; and   (ii)  if funds are remaining after carrying out the services under clause (i), to carry out authorized restoration services within the State under other good neighbor agreements.  . 
+

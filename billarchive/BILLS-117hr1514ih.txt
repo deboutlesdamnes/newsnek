@@ -1,0 +1,22 @@
+
+ 1.  Short title This Act may be cited as the  Prevent Outages With Energy Resilient Options Nationwide Act  or the  POWER ON Act .
+  2. Amendments to Federal Power Act  (a)  Designation of National Interest Electric Transmission Corridors Section 216(a) of the Federal Power Act ( 16 U.S.C. 824p(a) ) is amended—
+ (1) in paragraph (1), by inserting  capacity constraints and  before  congestion ;  (2)  in paragraph (2)— 
+ (A) by inserting  , not less often than once every 3 years,  after  Secretary shall ;  (B) by inserting  and Indian tribes  after  affected States ; 
+ (C) by inserting  or other information about electric transmission capacity constraints or congestion  after  the study ; and  (D) by inserting  , or that is expected to experience such constraints or congestion,  after  consumers ;
+ (3) in paragraph (3), by inserting  , not less often than once every 3 years,  after  Secretary shall ; and  (4)  in paragraph (4)— 
+ (A) in subparagraph (C), by inserting  or energy security  after  independence ;  (B) in subparagraph (D), by striking the  and  at the end;
+ (C) in subparagraph (E), by striking  security.  and inserting  security; ; and  (D)  by adding at the end the following: 
+
+ (F)  the designation would—   (i)  enhance the ability of facilities that generate or transmit renewable energy, low-emission energy, or emission-free energy to connect to the electric grid; 
+ (ii)  promote electrification of other sectors, including the transportation sector; or   (iii)  facilitate other public policies to decarbonize the grid; 
+ (G)  the designation—   (i)  maximizes existing rights-of-way, including along highways, brownfields, and railways; and 
+ (ii)  avoids, to the maximum extent practicable, sensitive environmental areas and cultural heritage sites; and   (H)  the designation would result in a reduction in the cost to purchase electric energy for consumers.  . 
+ (b)  Construction Permit Section 216(b) of the Federal Power Act ( 16 U.S.C. 824p(b) ) is amended—  (1)  in paragraph (1)— 
+ (A) in subparagraph (A)(ii), by inserting  or interregional benefits  after  interstate benefits ; and  (B)  by amending subparagraph (C) to read as follows: 
+
+ (C)  a State commission or other entity that has authority to approve the siting of the facilities has—   (i)  not approved or denied an application seeking approval pursuant to applicable law by the date that is 1 year after the filing of the application or 1 year after the designation of the relevant national interest electric transmission corridor, whichever is later; 
+ (ii)  conditioned its approval in such a manner that the proposed construction or modification will not significantly reduce transmission congestion in interstate commerce or is not economically feasible; or   (iii)  denied an application seeking approval pursuant to applicable law;  . 
+ (c)  Rights-of-Way Section 216(e)(1) of the Federal Power Act ( 16 U.S.C. 824p(e)(1) ) is amended by inserting  and the permit holder has made good faith efforts to engage landowners and other stakeholders early,  after  facilities, .  (d)  Interstate Compacts Section 216(i) of the Federal Power Act ( 16 U.S.C. 824p ) is amended—
+ (1) in paragraph (2), by striking  may  and inserting  shall ; and  (2) in paragraph (4), by striking  the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C)  and inserting  the Secretary finds that the members of the compact are in disagreement after the date that is 1 year after the filing of an application for the facility or 1 year after the designation of the relevant national interest electric transmission corridor, whichever is later .
+

@@ -1,0 +1,23 @@
+
+ 1.  Short title This Act may be cited as the  Affordable Insulin for the COVID–19 Emergency Act .
+  2.  Eliminating cost-sharing with respect to coverage of insulin as a covered part D drug and associated medical supplies under the Medicare program during the COVID–19 emergency period   (a)  In general Section 1860D–2 of the Social Security Act ( 42 U.S.C. 1395w–102 ) is amended—
+ (1)  in subsection (b)—   (A) in paragraph (1)(A), by striking  The coverage  and inserting  Subject to paragraph (8), the coverage ;
+ (B)  in paragraph (2)—   (i) in subparagraph (A), by inserting after  Subject to subparagraphs (C) and (D)  the following:  and paragraph (8) ;
+ (ii) in subparagraph (C)(i), by striking  paragraph (4)  and inserting  paragraphs (4) and (8) ; and  (iii) in subparagraph (D)(i), by striking  paragraph (4)  and inserting  paragraphs (4) and (8) ;
+ (C) in paragraph (4)(A)(i), by striking  The coverage  and inserting  Subject to paragraph (8), the coverage ; and  (D)  by adding at the end the following new paragraph: 
+
+ (8)  Elimination of cost-sharing for insulin and associated medical supplies during the COVID–19 emergency period  The coverage does not impose any deductible, copayment, coinsurance, or other cost-sharing for insulin (as described in subparagraph (B) of subsection (e)(1)) or medical supplies associated with the injection of insulin (as described in such subparagraph) during the emergency period described in section 1135(g)(1)(B).  ; and   (2)  in subsection (c), by adding at the end the following new paragraph: 
+
+ (4)  Same elimination of cost-sharing for certain covered part D drugs during the COVID–19 emergency period  The coverage is in accordance with subsection (b)(8).  .   (b)  Elimination of cost-Sharing for insulin and certain associated medical supplies furnished to part D eligible individuals who are subsidy eligible individuals Section 1860D–14(a) of the Social Security Act ( 42 U.S.C. 1395w–114(a) ) is amended—
+ (1)  in paragraph (1)—   (A)  in subparagraph (D)— 
+ (i) in clause (ii), by striking  In the case of  and inserting  Subject to subparagraph (F), in the case of ; and  (ii) in clause (iii), by striking  In the case of  and inserting  Subject to subparagraph (F), in the case of ; and
+ (B)  by adding at the end the following new subparagraph:    (F)  Elimination of cost-sharing for certain covered part d drugs during the COVID–19 emergency period  Coverage that is in accordance with section 1860D–2(b)(8).  ; and 
+ (2)  in paragraph (2)—   (A) in subparagraph (D), by striking  The substitution  and inserting  Subject to subparagraph (F), the substitution ;
+ (B) in subparagraph (E), by inserting after  Subject to  the following:  subparagraph (F) and ; and  (C)  by adding at the end the following new subparagraph: 
+
+ (F)  Elimination of cost-sharing for certain covered part D drugs during the COVID–19 emergency period  Coverage that is in accordance with section 1860D–2(b)(8).  . 
+  3.  Mail order access of insulin and associated medical supplies under the Medicare program during the COVID–19 emergency period Section 1860D–4(b)(4)(A) of the Social Security Act ( 42 U.S.C. 1395w–104(b)(4)(A) ) is amended—
+ (1) by striking  subject to subparagraph (B)  and inserting  subject to subparagraphs (B) and (C) ; and  (2)  by adding at the end the following new subparagraph: 
+
+ (C)  Mail order  A prescription drug plan or MA–PD plan shall permit such part D eligible individual enrolled in such plan to obtain such fill or refill of insulin (as described in subparagraph (B) of section 1860D–2(e)(1)) or medical supplies associated with the injection of insulin (as described in such subparagraph), at the option of such individual, by mail order to the home of such individual.  . 
+ 

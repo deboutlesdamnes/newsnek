@@ -1,0 +1,16 @@
+
+ 1.  Short title This Act may be cited as the  Helping Adults Protect Immunity Act  or the  HAPI Act .
+  2.  Improving access to adult vaccines under Medicaid   (a)  Requiring medicaid plans to cover adult vaccinations Section 1902(a)(10)(A) of the Social Security Act ( 42 U.S.C. 1396a(a)(10)(A) ) is amended in the matter preceding clause (i) by inserting  (13)(B),  after  (5), .
+ (b)  No cost sharing for vaccinations 
+ (1)  General cost-sharing limitations Section 1916 of the Social Security Act ( 42 U.S.C. 1396o ) is amended—  (A)  in subsection (a)(2)— 
+ (i) in subparagraph (F), by striking  , or  and inserting a comma;  (ii) in subparagraph (G), by striking  ; and  and inserting  , or ; and
+ (iii)  by adding at the end the following new subparagraph:    (H)  vaccines described in section 1905(a)(13)(B) (and the administration of such vaccines); and  ; and 
+ (B)  in subsection (b)(2)—   (i) in subparagraph (F), by striking  , or  and inserting a comma;
+ (ii) in subparagraph (G), by striking  ; and  and inserting  , or ; and  (iii)  by adding at the end the following new subparagraph: 
+
+ (H)  vaccines described in section 1905(a)(13)(B) (and the administration of such vaccines); and  .   (2)  Application to alternative cost-sharing Section 1916A(b)(3)(B) of the Social Security Act ( 42 U.S.C. 1396o–1(b)(3)(B) ) is amended by adding at the end the following new clause:
+
+ (xii)  Vaccines described in section 1905(a)(13)(B) (and the administration of such vaccines).  .   (c)  Enhanced fmap for adult vaccines Section 1905(b) of the Social Security Act ( 42 U.S.C. 1396d(b) ) is amended—
+ (1) by striking  and (5)  and inserting  (5) ;  (2) by striking  services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines  and inserting  services described in subsection (a)(13)(A), and prohibits cost-sharing for such services ;
+ (3) by striking  medical assistance for such services and vaccines  and inserting  medical assistance for such services ; and  (4) by inserting  , and (6) with respect to medical assistance for vaccines described in subsection (a)(13)(B), the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point  before the first period.
+

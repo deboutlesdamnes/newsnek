@@ -1,0 +1,37 @@
+
+ 1.  Short title This Act may be cited as the  DHS Trade and Economic Security Council Act of 2021 .
+  2.  DHS Trade and Economic Security Council   (a)  In general Subtitle H of title VIII of the Homeland Security Act of 2002 ( 6 U.S.C. 451 et seq. ) is amended by adding at the end the following new section:
+
+ 890B.  DHS Trade and Economic Security Council 
+ (a)  Establishment There is established in the Department the DHS Trade and Economic Security Council (referred to in this section as the  Council ).  (b)  Duties of the council  The Council shall provide advice and recommendations to the Secretary related to economic security of the homeland. Such advice and recommendations shall include— 
+ (1)  identifying concentrated risks for economic security;   (2)  setting priorities for securing the nation’s economic security; 
+ (3)  coordinating Department-wide activity on economic security matters;   (4)  proposing statutory and regulatory changes impacting economic security; and 
+ (5)  any other matters the Secretary considers appropriate.   (c)  Membership   (1)  In general  The Council shall be composed of the following members: 
+ (A)  The Assistant Secretary for Trade and Economic Security of the Office of Strategy, Policy, and Plans.   (B)  Permanent members from not fewer than nine components or offices of the Department specified in paragraph (2). 
+ (C)  Advisory members from other components and offices of the Department other than those specified in paragraph (2), as determined by the Assistant Secretary for Trade and Economic Security in coordination with the heads of such components and offices.   (2)  Permanent members  The components and offices of the Department specified in this paragraph are the following: 
+ (A)  United States Citizenship and Immigration Services.   (B)  The Coast Guard. 
+ (C)  U.S. Customs and Border Protection.   (D)  The Cybersecurity and Infrastructure Security Agency. 
+ (E)  The Federal Emergency Management Agency.   (F)  U.S. Immigration and Customs Enforcement. 
+ (H)  The Transportation Security Administration.   (K)  The Office of Intelligence and Analysis. 
+ (L)  The Office of Strategy, Policy and Plans.   (3)  Terms   (A)  In general  Each member of the Council shall be appointed by the Assistant Secretary for Trade and Economic Security in coordination with the heads of relevant components and offices. Each member shall serve a term of two years. 
+ (B)  Vacancies  Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that term until a successor has been appointed.   (4)  Chair and vice chair  The Assistant Secretary for Trade and Economic Security shall serve as Chair of the Council and shall designate a Vice Chair of the Council. 
+ (d)  Meetings and charter 
+ (1)  Meetings  The Council shall meet upon the call of the Chair, who shall call meetings not less frequently than quarterly.   (2)  Charter  Not later than 120 days after the date of enactment of this section, the Council shall establish a charter that is agreed to by all permanent members of the Council. 
+ (e)  Briefings  Not later than 180 days after the date of the enactment of this section and every six months thereafter for four years, the Council shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the actions and activities of the Council. 
+ .   (b)  Assistant Secretary for Trade and Economic Security   (1)  In general Section 709 of the Homeland Security Act of 2002 ( 6 U.S.C. 349 ) is amended—
+ (A)  by redesignating subsection (g) as subsection (h); and   (B)  by inserting after subsection (f) the following new subsection: 
+
+ (g)  Assistant Secretary for Trade and Economic Security 
+ (1)  In general  There is within the Office of Strategy, Policy, and Plans an Assistant Secretary for Trade and Economic Security.   (2)  Duties  The Assistant Secretary for Trade and Economic Security shall— 
+ (A)  advise the Secretary regarding matters relating to United States critical economic security domains; and   (B)  oversee activities of the Department relating thereto. 
+ (3)  Additional responsibilities  In addition to the duties specified in paragraph (2), the Assistant Secretary for Trade and Economic Security shall—   (A)  oversee— 
+ (i)  the development of requirements for supply chain mapping; and   (ii)  assessments and reports to Congress related to United States critical economic security domains and other economic security activities of the Department; 
+ (B)  serve as the executive for the Department on the Committee on Foreign Investment in the United States (CFIUS), the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector, and the Federal Acquisition Security Council (in addition to any position on such Council occupied by a representative of the Cybersecurity and Infrastructure Security Agency of the Department);   (C)  coordinate with stakeholders in other Federal departments and agencies and non-governmental entities with economic security interests, authorities, and responsibilities; and 
+ (D)  perform such additional duties as the Secretary may prescribe.   (4)  Definition In this subsection, the term  United States critical economic security domain  means an industry, emerging technology, infrastructure, or combination thereof that is essential for the prosperity and resilience of the economy to function, or with respect to which disruption will have severe negative economic and homeland security consequence. . 
+ (2)  Transition  The individual serving as the Assistant Secretary for Trade and Economic Security of the Office of Strategy, Policy, and Plans of the Department of Homeland Security as of the date of the enactment of this Act may continue to serve as such Assistant Secretary.   (3)  Amendment relating to limitation on numbers Subsection (a) of section 103 of the Homeland Security Act of 2002 ( 6 U.S.C. 113 ) is amended by adding at the end the following new paragraph:
+
+ (3)  Assistant Secretary for Trade and Economic Security  At least one of the Assistant Secretaries referred to under paragraph (1)(I) shall be an Assistant Secretary for Trade and Economic Security within the Office of Strategy, Policy, and Plans.  .   (c)  Clerical amendment  The table of contents in section 1(b) of the Homeland Security Act of 2002 is amended by inserting after the item relating to section 890A the following new item: 
+
+
+ Sec. 890B. DHS Trade and Economic Security Council.  . 
+

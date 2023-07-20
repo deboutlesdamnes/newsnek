@@ -1,0 +1,18 @@
+
+ 1.  Short title This Act may be cited as the  Protecting Americans from Dangerous Algorithms Act .
+  2.  Amendment to the communications decency act Section 230(c) of the Communications Act of 1934 ( 47 U.S.C. 230(c) ) is amended by adding at the end the following new paragraph:
+
+ (3)  Algorithmic amplification 
+ (A)  In general  For purposes of paragraph (1), an interactive computer service shall be considered to be an information content provider and the protection under such paragraph shall not apply for any claim described in subparagraph (B).   (B)  Conditions for claim   (i)  In general  A claim in this subparagraph requires the following: 
+ (I)  A claim in a civil action is brought under—   (aa) section 1980 or 1981 of the Revised Statutes ( 42 U.S.C. 1985 ;  42 U.S.C. 1986 ); or
+ (bb)  section 2333 of title 18, United States Code.   (II)  Except as provided in clause (ii), the claim involves a case in which the interactive computer service used an algorithm, model, or other computational process to rank, order, promote, recommend, amplify, or similarly alter the delivery or display of information (including any text, image, audio, or video post, page, group, account, channel, or affiliation) provided to a user of the service if the information is directly relevant to the claim. 
+ (ii)  Exception  Notwithstanding clause (i)(II), the requirement is not met if—   (I)  the information delivery or display is ranked, ordered, promoted, recommended, amplified, or similarly altered in a way that is obvious, understandable, and transparent to a reasonable user based only on the delivery or display of the information (without the need to reference the terms of service or any other agreement), including sorting information— 
+ (aa)  chronologically or reverse chronologically;   (bb)  by average user rating or number of user reviews; 
+ (cc)  alphabetically;   (dd)  randomly; and 
+ (ee)  by views, downloads, or a similar usage metric; or   (II)  the algorithm, model, or other computational process is used for information a user specifically searches for. 
+ (C)  Exemptions 
+ (i)  Small businesses  This paragraph shall not apply to an interactive computer service that (in combination with each subsidiary and affiliate of the service) has 10,000,000 or fewer unique monthly visitors or users for not fewer than three of the preceding 12 months.   (ii)  Internet infrastructure  This paragraph shall not apply to a provider of an interactive computer service, when that service is used by another interactive computer service for the management, control, or operation of that other interactive computer service, including for— 
+ (I)  web hosting;   (II)  domain registration; 
+ (III)  content delivery networks;   (IV)  caching; 
+ (V)  data storage; and   (VI)  cybersecurity.  . 
+

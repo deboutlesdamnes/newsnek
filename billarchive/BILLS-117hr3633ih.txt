@@ -1,0 +1,18 @@
+
+ 1.  Short title This Act may be cited as the  Greener Transportation for Communities Act .
+  2.  Exempt facility bonds for zero-emission vehicle infrastructure   (a)  In general  Section 142  of the Internal Revenue Code of 1986 is amended—
+ (1)  in subsection (a)—   (A) in paragraph (14), by striking  or  at the end,
+ (B) in paragraph (15), by striking the period at the end and inserting  , or , and  (C)  by adding at the end the following new paragraph: 
+
+ (16)  zero-emission vehicle infrastructure.  , and   (2)  by adding at the end the following new subsection: 
+
+ (n)  Zero-Emission vehicle infrastructure 
+ (1)  In general For purposes of subsection (a)(16), the term  zero-emission vehicle infrastructure  means any property (not including a building and its structural components) if such property is part of a unit which—  (A)  is used to charge or fuel zero-emissions vehicles, 
+ (B)  is located where the vehicles are charged or fueled,   (C)  is of a character subject to the allowance for depreciation (or amortization in lieu of depreciation), 
+ (D)  is made available for use by members of the general public,   (E)  accepts payment by use of a credit card reader, and 
+ (F)  is capable of charging or fueling vehicles produced by more than one manufacturer (within the meaning of section 30D(d)(3)).   (2)  Inclusion of utility service connections, etc The term  zero-emission vehicle infrastructure  shall include any utility service connections, utility panel upgrades, line extensions and conduit, transformer upgrades, or similar property, in connection with property meeting the requirements of paragraph (1).
+ (3)  Zero-emissions vehicle The term  zero-emissions vehicle  means—  (A)  a zero-emission vehicle as defined in section 88.102–94 of title 40, Code of Federal Regulations, or 
+ (B)  a vehicle that produces zero exhaust emissions of any criteria pollutant (or precursor pollutant) or greenhouse gas under any possible operational modes and conditions.   (4)  Zero-emissions vehicle infrastructure located within other facilities or projects  For purposes of subsection (a), any zero-emission vehicle infrastructure located within— 
+ (A)  a facility or project described in subsection (a), or   (B)  an area adjacent to a facility or project described in subsection (a) that primarily serves vehicles traveling to or from such facility or project,  shall be treated as described in the paragraph in which such facility or project is described.  
+ (5)  Exception for refueling property for fleet vehicles  Subparagraphs (D), (E), and (F) of paragraph (1) shall not apply to property which is part of a unit which is used exclusively by fleets of commercial or governmental vehicles.  .   (b)  Effective date  The amendments made by this section shall apply to obligations issued after December 31, 2020. 
+
